@@ -48,6 +48,39 @@
     "url": "https://cdn.adultiptv.net/anal.m3u8", 
     "subCategory": "Vod"
   },
+
+  [
+  {
+    "category": "adult",
+    "name": "PORNHUB TV",
+    "subCategory": "Live",
+    "url": "http://stream1.com/live.m3u8"
+  },
+  {
+    "category": "adult",
+    "name": "PORNHUB TV",
+    "subCategory": "Live",
+    "url": "http://stream2.com/live.m3u8"
+  },
+  {
+    "category": "adult",
+    "name": "PORNHUB TV",
+    "subCategory": "Cam",
+    "url": "http://camsite.com/stream.m3u8"
+  },
+  {
+    "category": "adult",
+    "name": "Premium VOD",
+    "subCategory": "Vod",
+    "url": "http://vodsite.com/video.mp4"
+  },
+  {
+    "category": "adult",
+    "name": "Anal",
+    "subCategory": "Live",
+    "url": "https://cdn.adultiptv.net/anal.m3u8"
+  }
+]
   
   {
     "category": "diger", 
@@ -57,4 +90,5 @@
   }
 
 ]
+
 
