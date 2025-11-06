@@ -16,7 +16,7 @@
   {
     "name": "Show TV",
     "url": "https://ciner-live.daioncdn.net/showtv/showtv.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/thumb/9/9f/Show_TV_logo_2022.svg/1200px-Show_TV_logo_2022.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png",
     "category": "ulusal",
     "subCategory": "TV"
   },
@@ -65,5 +65,6 @@
     "type": "link"
   }
 ]
+
 
 
