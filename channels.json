@@ -43,6 +43,13 @@
     "subCategory": "Live"
   },
   {
+    "category": "adult", 
+    "name": "Anal", 
+    "url": "https://cdn.adultiptv.net/anal.m3u8", 
+    "subCategory": "Vod"
+  },
+  
+  {
     "category": "diger", 
     "name": "Filmler", 
     "url": "https://turis-tv.github.io/2026-Appcreator/Films/index.html", 
@@ -50,3 +57,4 @@
   }
 
 ]
+
