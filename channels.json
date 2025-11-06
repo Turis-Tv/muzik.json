@@ -1,94 +1,67 @@
 [
-  { 
-    "category": "ulusal", 
-    "name": "TRT 1", 
-    "url": "http://voorbeeld.com/stream.m3u8", 
-    "subCategory": "TV" 
+  {
+    "category": "ulusal",
+    "name": "TRT 1",
+    "url": "http://voorbeeld.com/trt1.m3u8",
+    "logo": "https://logovoorbeeld.com/trt1.png",
+    "subCategory": "TV"
   },
-    { 
-    "category": "ulusal", 
-    "name": "TRT 1", 
-    "url": "http://voorbeeld.com/stream.m3u8", 
-    "subCategory": "TV" 
-  },
-    { 
-    "category": "ulusal", 
-    "name": "TRT 1", 
-    "url": "http://voorbeeld.com/stream.m3u8", 
-    "subCategory": "TV" 
-  },
-  { 
-    "category": "ulusal", 
-    "name": "ARABESK FM", 
-    "url": "http://radiovoorbeeld.com/stream", 
-    "subCategory": "Radyo" 
-  },
-  { 
-    "category": "spor", 
-    "name": "Spor Smart 1", 
-    "url": "http://sportvoorbeeld.com/stream.m3u8", 
-    "logo": "" 
-  },
-  { 
-    "category": "youtube", 
-    "name": "Biter Mi Yar", 
-    "url": "https://www.youtube.com/embed/0QTWo4TKppc", 
-    "type": "youtube", 
-    "subCategory": "Muzik" 
+    {
+    "category": "ulusal",
+    "name": "TRT 1",
+    "url": "http://voorbeeld.com/trt1.m3u8",
+    "logo": "https://logovoorbeeld.com/trt1.png",
+    "subCategory": "TV"
   },
   {
-    "category": "adult", 
-    "name": "Anal", 
-    "url": "https://cdn.adultiptv.net/anal.m3u8", 
+    "category": "spor",
+    "name": "Spor Smart 1",
+    "url": "http://voorbeeld.com/sporsmart1_bron1.m3u8",
+    "subCategory": "TV"
+  },
+  {
+    "category": "spor",
+    "name": "Spor Smart 1",
+    "url": "http://voorbeeld.com/sporsmart1_bron2.m3u8",
+    "subCategory": "TV"
+  },
+  {
+    "category": "youtube",
+    "name": "Biter Mi Yar",
+    "url": "https://www.youtube.com/embed/0QTWo4TKppc",
+    "type": "youtube",
+    "subCategory": "Muzik"
+  },
+  {
+    "category": "adult",
+    "name": "Live Show",
+    "url": "http://voorbeeld.com/adult_live1.m3u8",
     "subCategory": "Live"
   },
   {
-    "category": "adult", 
-    "name": "Anal", 
-    "url": "https://cdn.adultiptv.net/anal.m3u8", 
+    "category": "adult",
+    "name": "Live Show",
+    "url": "http://voorbeeld.com/adult_live2.m3u8",
+    "subCategory": "Live"
+  },
+  {
+    "category": "adult",
+    "name": "Cam Show",
+    "url": "http://voorbeeld.com/adult_cam1.m3u8",
+    "subCategory": "Cam"
+  },
+  {
+    "category": "adult",
+    "name": "VOD Voorbeeld",
+    "url": "http://voorbeeld.com/adult_vod1.mp4",
     "subCategory": "Vod"
   },
-
- 
   {
-    "category": "adult",
-    "name": "PORNHUB TV",
-    "subCategory": "Live",
-    "url": "http://stream1.com/live.m3u8"
-  },
-  {
-    "category": "adult",
-    "name": "PORNHUB TV",
-    "subCategory": "Live",
-    "url": "http://stream2.com/live.m3u8"
-  },
-  {
-    "category": "adult",
-    "name": "PORNHUB TV",
-    "subCategory": "Cam",
-    "url": "http://camsite.com/stream.m3u8"
-  },
-  {
-    "category": "adult",
-    "name": "Premium VOD",
-    "subCategory": "Vod",
-    "url": "http://vodsite.com/video.mp4"
-  },
-  {
-    "category": "adult",
-    "name": "Anal",
-    "subCategory": "Live",
-    "url": "https://cdn.adultiptv.net/anal.m3u8"
-  }
- 
-  
-  {
-    "category": "diger", 
-    "name": "Filmler", 
-    "url": "https://turis-tv.github.io/2026-Appcreator/Films/index.html", 
+    "category": "diger",
+    "name": "Filmler Website",
+    "url": "https://turis-tv.github.io/2026-Appcreator/Films/index.html",
     "type": "link"
   }
-
 ]
 
 
