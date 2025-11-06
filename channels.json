@@ -6,11 +6,6 @@
     "subCategory": "TV" 
   },
 
-     { category: "ulusal", 
-      name: "TRT 1", 
-      url: "http://vizi.vizi.workers.dev/?ID=1", 
-      subCategory: "TV" },
-
   { 
     "category": "ulusal", 
     "name": "ARABESK FM", 
