@@ -117,6 +117,11 @@
     "subCategory": "Ilahi",
     "url": "https://www.youtube.com/watch?v=h_3kG8xG3p4"
   },
+
+  // ---------------------------------------------------
+  // --- DIĞER (Externe Links) ---
+  // ---------------------------------------------------
+  
   {
     "name": "Adult Live TV 1",
     "logo": "https://i.imgur.com/jB7c7fM.png",
@@ -172,5 +177,6 @@
   }
   
 ]
+
 
 
