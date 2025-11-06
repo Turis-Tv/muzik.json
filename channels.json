@@ -19,6 +19,12 @@
     "url": "http://voorbeeld.com/sporsmart1_bron1.m3u8",
     "subCategory": "TV"
   },
+    {
+    "category": "ulusal",
+    "name": "Spor Smart 1",
+    "url": "http://voorbeeld.com/sporsmart1_bron1.m3u8",
+    "subCategory": "Radyo"
+  },
   {
     "category": "spor",
     "name": "Spor Smart 1",
@@ -63,6 +69,7 @@
     "type": "link"
   }
 ]
+
 
 
 
