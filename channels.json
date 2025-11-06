@@ -823,8 +823,8 @@
   {"name": "Mp3 Dinle","url": "https://turis-tv.github.io/2026-Menu/3-Mp3/1-Mp3-Playlist/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
 
  {"name": "Filmler","url": "https://turis-tv.github.io/2026-Appcreator/Films/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
- {"name": "Dini","url": "https://turis-tv.github.io/2026-Menu/16-Youtube/1-Youtube/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
- {"name": "Youtube Dizi","url": "https://turis-tv.github.io/2026-Menu/5-Dini/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+ {"name": "Youtube Dizi","url": "https://turis-tv.github.io/2026-Menu/16-Youtube/1-Youtube/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+ {"name": "Dini","url": "https://turis-tv.github.io/2026-Menu/5-Dini/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
  {"name": "Radyolar","url": "https://turis-tv.github.io/2026-Menu/6-Radyolar/index.htm","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"}
 
   
@@ -841,6 +841,7 @@
 
   
 ]
+
 
 
 
