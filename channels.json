@@ -1,24 +1,26 @@
 [
   {
-    "name": "Bahar",
-    "image": "https://mp3semticdn.com/mp3_images/Bahar-Annem-Askerim-2007.jpg",
-    "tracks": [
-      { "id": 1, "artist": "Bahar", "title": "Yalanmış", "src": "https://mp3semticdn.com/mp3_files/Bahar/Annem-Askerim-2007/Bahar-Yalanmis.mp3" },
-      { "id": 2, "artist": "Bahar", "title": "Yalanmış (Remix)", "src": "https://mp3semticdn.com/mp3_files/Bahar/Bahar-Gelsin-2021/Bahar-Yalanmis-Ufuk-Kaplan-Remix-43.mp3" },
-      { "id": 3, "artist": "Bahar", "title": "Alışkınım Fırtınaya", "src": "https://mp3semticdn.com/mp3_files/Bahar/Tutkun-Olurum-2000/Bahar-Aliskinim-Firtinaya--40.mp3" }
-    ]
+    "name": "TRT 1",
+    "logo": "https://i.imgur.com/voorbeeld-logo.png",
+    "category": "ulusal",
+    "subCategory": "TV",
+    "url": "http://voorbeeld.domein.com/stream1.m3u8"
   },
   {
-    "name": "Ibrahim Tatlises - Best Of",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/44/14/60/44146030-2e40-41da-a719-e587569d6756/8697420556269.jpg/400x400cc.jpg",
-    "tracks": [
-      { "id": 24, "artist": "Ibrahim Tatlises", "title": "Haydi Söyle", "src": "url-naar-haydi-soyle.mp3" },
-      { "id": 25, "artist": "Ibrahim Tatlises", "title": "Mavi Mavi", "src": "url-naar-mavi-mavi.mp3" },
-      { "id": 26, "artist": "Ibrahim Tatlises", "title": "Aramam", "src": "url-naar-aramam.mp3" }
-    ]
-  }
+    "name": "CNN Türk",
+    "logo": "https://i.imgur.com/voorbeeld-logo.png",
+    "category": "haber",
+    "subCategory": "TV",
+    "url": "http://voorbeeld.domein.com/stream2.m3u8"
+  },
+  {
+    "name": "Film 1",
+    "logo": "https://i.imgur.com/voorbeeld-logo.png",
+    "category": "film",
+    "subCategory": "Movies",
+    "url": "http://voorbeeld.domein.com/stream3.m3u8"
+  },
 ]
-
   {
     "name": "NU.nl - Nieuws",
     "category": "diger",
@@ -33,6 +35,7 @@
   }
   
 ]
+
 
 
 
