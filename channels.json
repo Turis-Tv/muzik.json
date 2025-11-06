@@ -137,5 +137,20 @@
     "category": "adult",
     "subCategory": "CAM",
     "url": "http://voorbeeld.com/adult_cam_1.m3u8"
+  },
+
+  {
+    "name": "NU.nl - Nieuws",
+    "category": "diger",
+    "type": "link",
+    "url": "https://www.nu.nl"
+  },
+  {
+    "name": "Weer Online",
+    "category": "diger",
+    "type": "link",
+    "url": "https://www.weeronline.nl"
   }
+  
 ]
+
