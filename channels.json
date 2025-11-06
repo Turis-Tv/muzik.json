@@ -1,26 +1,69 @@
 [
   {
     "name": "TRT 1",
-    "logo": "https://i.imgur.com/voorbeeld-logo.png",
+    "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png",
     "category": "ulusal",
-    "subCategory": "TV",
-    "url": "http://voorbeeld.domein.com/stream1.m3u8"
+    "subCategory": "TV"
+  },
+  {
+    "name": "TRT 1",
+    "url": "https://turkey.live.nomadtv.org/live/trt1.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png",
+    "category": "ulusal",
+    "subCategory": "TV"
+  },
+  {
+    "name": "Show TV",
+    "url": "https://ciner-live.daioncdn.net/showtv/showtv.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/thumb/9/9f/Show_TV_logo_2022.svg/1200px-Show_TV_logo_2022.svg.png",
+    "category": "ulusal",
+    "subCategory": "TV"
   },
   {
     "name": "CNN Türk",
-    "logo": "https://i.imgur.com/voorbeeld-logo.png",
+    "url": "https://live.cnnturk.com/cnnturk/cnnturk.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cnnturk.svg/2560px-Cnnturk.svg.png",
     "category": "haber",
-    "subCategory": "TV",
-    "url": "http://voorbeeld.domein.com/stream2.m3u8"
+    "subCategory": "Haberler"
   },
   {
-    "name": "Film 1",
-    "logo": "https://i.imgur.com/voorbeeld-logo.png",
-    "category": "film",
-    "subCategory": "Movies",
-    "url": "http://voorbeeld.domein.com/stream3.m3u8"
+    "name": "TRT Spor",
+    "url": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/TRT_SPOR_logo_2021.svg/1200px-TRT_SPOR_logo_2021.svg.png",
+    "category": "spor",
+    "subCategory": "Canlı"
+  },
+  {
+    "name": "Relaxing Jazz Piano",
+    "url": "https://www.youtube.com/watch?v=neV3a_1a2wY",
+    "logo": "https://i.ytimg.com/vi/neV3a_1a2wY/mqdefault.jpg",
+    "category": "youtube",
+    "subCategory": "Muzik",
+    "type": "youtube"
+  },
+  {
+    "name": "Güzel Ilahiler",
+    "url": "https://www.youtube.com/watch?v=FahlRE8G2mM",
+    "logo": "https://i.ytimg.com/vi/FahlRE8G2mM/mqdefault.jpg",
+    "category": "youtube",
+    "subCategory": "Ilahi",
+    "type": "youtube"
+  },
+  {
+    "name": "Adult Channel 1",
+    "url": "http://example.com/stream1.m3u8",
+    "logo": "https://via.placeholder.com/150",
+    "category": "adult",
+    "subCategory": "LIVE"
+  },
+  {
+    "name": "Turis TV Forum",
+    "url": "https://www.turk-internet.com/",
+    "logo": "https://img.icons8.com/fluency/96/link.png",
+    "category": "diger",
+    "type": "link"
   }
 ]
-
 
 
