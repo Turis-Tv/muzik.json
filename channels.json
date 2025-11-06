@@ -145,15 +145,14 @@
 {"name":"Fil Spor 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/372625"},
 {"name":"Fil Spor 2","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/372626"},
 {"name":"Fil Spor 3","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/372627"},
-{"name":"Trt Spor","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6109"},
+
 {"name":"Trt Yildiz","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/353402"},
 {"name":"Nba","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6111"},
 {"name":"A Spor","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6113"},
 {"name":"TJK","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6117"},
 {"name":"Fight TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/371591"},
 {"name":"Sports TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20772"},
-{"name": "TRT SPOR","url": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/TRT_SPOR_logo_2021.svg/1200px-TRT_SPOR_logo_2021.svg.png","category": "spor","subCategory": "Canlı"},
-
+{"name": "TRT SPOR1","url": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/TRT_SPOR_logo_2021.svg/1200px-TRT_SPOR_logo_2021.svg.png","category": "spor","subCategory": "Canlı"},
 {"name":"Ekol Spots","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/531173"},
 {"name":"TRT SPOR","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6109"},
 {"name":"TRT YILDIZ","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/353402"},
@@ -801,6 +800,7 @@
 
   
 ]
+
 
 
 
