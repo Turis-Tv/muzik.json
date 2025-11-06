@@ -1,65 +1,141 @@
 [
-  { 
-    "category": "ulusal", 
-    "name": "TRT 1", 
-    "url": "http://voorbeeld.com/stream.m3u8", 
-    "subCategory": "TV" 
-  },
-
-  { 
-    "category": "ulusal", 
-    "name": "ARABESK FM", 
-    "url": "http://radiovoorbeeld.com/stream", 
-    "subCategory": "Radyo" 
-  },
-  { 
-    "category": "spor", 
-    "name": "Spor Smart 1", 
-    "url": "http://sportvoorbeeld.com/stream.m3u8", 
-    "logo": "" 
-  },
-  { 
-    "category": "youtube", 
-    "name": "Biter Mi Yar", 
-    "url": "https://www.youtube.com/embed/0QTWo4TKppc", 
-    "type": "youtube", 
-    "subCategory": "Muzik" 
+  {
+    "name": "TRT 1 HD",
+    "logo": "https://i.imgur.com/1G2i3bF.png",
+    "category": "ulusal",
+    "subCategory": "TV",
+    "url": "http://voorbeeld.com/stream1.m3u8"
   },
   {
-    "category": "adult", 
-    "name": "Anal", 
-    "url": "https://cdn.adultiptv.net/anal.m3u8", 
-    "subCategory": "Live"
+    "name": "Kanal D HD",
+    "logo": "https://i.imgur.com/A6mZf2C.png",
+    "category": "ulusal",
+    "subCategory": "TV",
+    "url": "http://voorbeeld.com/stream2.m3u8"
   },
   {
-    "category": "diger", 
-    "name": "Filmler", 
-    "url": "https://turis-tv.github.io/2026-Appcreator/Films/index.html", 
-    "type": "link"
+    "name": "Radyo Fenomen",
+    "logo": "https://i.imgur.com/5J3h5yD.png",
+    "category": "ulusal",
+    "subCategory": "Radyo",
+    "url": "http://voorbeeld.com/radio1.m3u8"
+  },
+  {
+    "name": "Kral FM",
+    "logo": "https://i.imgur.com/5J3h5yD.png",
+    "category": "ulusal",
+    "subCategory": "Radyo",
+    "url": "http://voorbeeld.com/radio2.m3u8"
+  },
+  {
+    "name": "NTV Haber",
+    "logo": "https://i.imgur.com/gKj3c3L.png",
+    "category": "haber",
+    "url": "http://voorbeeld.com/haber1.m3u8"
+  },
+  {
+    "name": "TRT Spor",
+    "logo": "https://i.imgur.com/Kz8jL5X.png",
+    "category": "spor",
+    "url": "http://voorbeeld.com/spor1.m3u8"
+  },
+  {
+    "name": "A Spor",
+    "logo": "https://i.imgur.com/o1nB9bV.png",
+    "category": "spor",
+    "url": "http://voorbeeld.com/spor2.m3u8"
+  },
+  {
+    "name": "Power Turk TV",
+    "logo": "https://i.imgur.com/gKj3c3L.png",
+    "category": "muzik",
+    "url": "http://voorbeeld.com/muziek1.m3u8"
+  },
+  {
+    "name": "Vahşi Yaşam Belgeseli",
+    "logo": "https://i.imgur.com/9y0b2zU.png",
+    "category": "belgesel",
+    "url": "http://voorbeeld.com/belgesel1.m3u8"
+  },
+  {
+    "name": "Aksiyon Filmi",
+    "logo": "https://i.imgur.com/j3ZkG7V.png",
+    "category": "film",
+    "subCategory": "Aksiyon",
+    "url": "http://voorbeeld.com/film1.mp4"
+  },
+  {
+    "name": "Komedi Filmi",
+    "logo": "https://i.imgur.com/j3ZkG7V.png",
+    "category": "film",
+    "subCategory": "Komedi",
+    "url": "http://voorbeeld.com/film2.mp4"
+  },
+  {
+    "name": "Diyanet TV",
+    "logo": "https://i.imgur.com/gKj3c3L.png",
+    "category": "dini",
+    "url": "http://voorbeeld.com/dini1.m3u8"
+  },
+  {
+    "name": "TRT Çocuk",
+    "logo": "https://i.imgur.com/jB7c7fM.png",
+    "category": "cocuk",
+    "url": "http://voorbeeld.com/cocuk1.m3u8"
+  },
+  {
+    "name": "4K Şömine Ateşi",
+    "logo": "https://i.imgur.com/j3ZkG7V.png",
+    "category": "relax",
+    "url": "http://voorbeeld.com/relax1.m3u8"
+  },
+  {
+    "name": "Tarkan - Şıkıdım",
+    "logo": "https://i.imgur.com/jB7c7fM.png",
+    "category": "youtube",
+    "subCategory": "Muzik",
+    "url": "https://www.youtube.com/watch?v=fV2zIK-bC84"
+  },
+  {
+    "name": "Mustafa Ceceli - Rüyalara Sor",
+    "logo": "https://i.imgur.com/jB7c7fM.png",
+    "category": "youtube",
+    "subCategory": "Muzik",
+    "url": "https://www.youtube.com/watch?v=UqV2s1_d9D8"
+  },
+  {
+    "name": "Sami Yusuf - Hasbi Rabbi",
+    "logo": "https://i.imgur.com/jB7c7fM.png",
+    "category": "youtube",
+    "subCategory": "Ilahi",
+    "url": "https://www.youtube.com/watch?v=1uR3s2y4A0Y"
+  },
+  {
+    "name": "Maher Zain - Rahmatun Lil'Alameen",
+    "logo": "https://i.imgur.com/jB7c7fM.png",
+    "category": "youtube",
+    "subCategory": "Ilahi",
+    "url": "https://www.youtube.com/watch?v=h_3kG8xG3p4"
+  },
+  {
+    "name": "Adult Live TV 1",
+    "logo": "https://i.imgur.com/jB7c7fM.png",
+    "category": "adult",
+    "subCategory": "LIVE",
+    "url": "http://voorbeeld.com/adult_live_1.m3u8"
+  },
+  {
+    "name": "Adult VOD Film",
+    "logo": "https://i.imgur.com/jB7c7fM.png",
+    "category": "adult",
+    "subCategory": "VOD",
+    "url": "http://voorbeeld.com/adult_vod_1.mp4"
+  },
+  {
+    "name": "Adult CAM Show",
+    "logo": "https://i.imgur.com/jB7c7fM.png",
+    "category": "adult",
+    "subCategory": "CAM",
+    "url": "http://voorbeeld.com/adult_cam_1.m3u8"
   }
-
-
-
-
-
-  
- 
- 
- 
-
-
-
-
- ]
-
-
-
- 
- 
- 
-
-
-
-
- 
-
+]
