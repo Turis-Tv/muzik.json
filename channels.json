@@ -41,8 +41,8 @@
     "name": "Filmler", 
     "url": "https://turis-tv.github.io/2026-Appcreator/Films/index.html", 
     "type": "link"
-  }
-]
+  },
+
 
 
 
@@ -882,16 +882,10 @@
         // --- EINDE NIEUW ---
 
     { "category": "adult", name: "PORNOS", "url":"http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4", logo:"", "subCategory": 'Video' },
-    { "category": "adult", name: "VOD2", "url":"http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4", logo:"", "subCategory": 'Video' },
+    { "category": "adult", name: "VOD2", "url":"http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4", logo:"", "subCategory": 'Video' }
 
 
-
-    { "category": "diger", name: "Mp3 Dinle", "url": "https://turis-tv.github.io/2026-Menu/3-Mp3/1-Mp3-Playlist/index.html", type: 'link' },
-    { "category": "diger", name: "Filmler", "url": "https://turis-tv.github.io/2026-Appcreator/Films/index.html", type: 'link' },
-    { "category": "diger", name: "Dini", "url": "https://turis-tv.github.io/2026-Menu/5-Dini/index.html", type: "link"  },
-    { "category": "diger", name: "Youtube Dizi", "url": "https://turis-tv.github.io/2026-Menu/16-Youtube/1-Youtube/index.html", type: "link"  },
-    { "category": "diger", name: "Radyolar", "url": "https://turis-tv.github.io/2026-Menu/6-Radyolar/index.htm", type: "link"  },
-
+ ]
 
 
 
