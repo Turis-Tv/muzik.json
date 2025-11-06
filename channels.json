@@ -1,58 +1,17 @@
 [
-  {
-    "name": "TRT 1",
-    "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png",
-    "category": "ulusal",
-    "subCategory": "TV"
-  },
-  {
-    "name": "TRT 1",
-    "url": "https://turkey.live.nomadtv.org/live/trt1.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png",
-    "category": "ulusal",
-    "subCategory": "TV"
-  },
-  {
-    "name": "Show TV",
-    "url": "https://ciner-live.daioncdn.net/showtv/showtv.m3u8",
-    "logo": "https://i.imgur.com/jB7c7fM.png",
-    "category": "ulusal",
-    "subCategory": "TV"
-  },
+
  
-  {
-    "name": "TRT Spor",
-    "url": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/TRT_SPOR_logo_2021.svg/1200px-TRT_SPOR_logo_2021.svg.png",
-    "category": "spor",
-    "subCategory": "Canlı"
-  },
-
-  {
-    "name": "Güzel Ilahiler",
-    "url": "https://www.youtube.com/watch?v=FahlRE8G2mM",
-    "logo": "https://i.ytimg.com/vi/FahlRE8G2mM/mqdefault.jpg",
-    "category": "youtube",
-    "subCategory": "Ilahi",
-    "type": "youtube"
-  },
-
-  {
-    "name": "Turis TV Forum",
-    "url": "https://www.turk-internet.com/",
-    "logo": "https://img.icons8.com/fluency/96/link.png",
-    "category": "diger",
-    "type": "link"
-  },
-
-
-
-    {"name": "TRT 1","url": "https://tv-trt1.medya.trt.com.tr/master.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"},
 
 
 
 
+
+ 
+
+
+
+
+{"name":"TRT 1","url": "https://tv-trt1.medya.trt.com.tr/master.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"},
 {"name":"TRT 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"http://vizi.vizi.workers.dev/?ID=1"},
 {"name":"TRT 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"http://origi-jw-5.ravenclaw-house.com:80/TR-TRT1/tracks-v1a1/mono.m3u8"},
 {"name":"TRT 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"https://tatatam.trt1sultanfatihss.workers.dev/http://origi-jw-5.ravenclaw-house.com:80/TR-TRT1/tracks-v1a1/mono.m3u8"},
@@ -193,6 +152,8 @@
 {"name":"TJK","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6117"},
 {"name":"Fight TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/371591"},
 {"name":"Sports TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20772"},
+{"name": "TRT SPOR","url": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/TRT_SPOR_logo_2021.svg/1200px-TRT_SPOR_logo_2021.svg.png","category": "spor","subCategory": "Canlı"},
+
 {"name":"Ekol Spots","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/531173"},
 {"name":"TRT SPOR","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6109"},
 {"name":"TRT YILDIZ","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/353402"},
@@ -840,6 +801,7 @@
 
   
 ]
+
 
 
 
