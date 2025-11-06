@@ -28,14 +28,7 @@
     "category": "spor",
     "subCategory": "Canlı"
   },
-  {
-    "name": "Relaxing Jazz Piano",
-    "url": "https://www.youtube.com/watch?v=neV3a_1a2wY",
-    "logo": "https://i.ytimg.com/vi/neV3a_1a2wY/mqdefault.jpg",
-    "category": "youtube",
-    "subCategory": "Muzik",
-    "type": "youtube"
-  },
+
   {
     "name": "Güzel Ilahiler",
     "url": "https://www.youtube.com/watch?v=FahlRE8G2mM",
@@ -44,13 +37,7 @@
     "subCategory": "Ilahi",
     "type": "youtube"
   },
-  {
-    "name": "Adult Channel 1",
-    "url": "http://example.com/stream1.m3u8",
-    "logo": "https://via.placeholder.com/150",
-    "category": "adult",
-    "subCategory": "LIVE"
-  },
+
   {
     "name": "Turis TV Forum",
     "url": "https://www.turk-internet.com/",
@@ -823,6 +810,7 @@
 
   
 ]
+
 
 
 
