@@ -1,0 +1,39 @@
+[
+  { 
+    "category": "ulusal", 
+    "name": "TRT 1", 
+    "url": "http://voorbeeld.com/stream.m3u8", 
+    "subCategory": "TV" 
+  },
+  { 
+    "category": "ulusal", 
+    "name": "ARABESK FM", 
+    "url": "http://radiovoorbeeld.com/stream", 
+    "subCategory": "Radyo" 
+  },
+  { 
+    "category": "spor", 
+    "name": "Spor Smart 1", 
+    "url": "http://sportvoorbeeld.com/stream.m3u8", 
+    "logo": "" 
+  },
+  { 
+    "category": "youtube", 
+    "name": "Biter Mi Yar", 
+    "url": "https://www.youtube.com/embed/0QTWo4TKppc", 
+    "type": "youtube", 
+    "subCategory": "Muzik" 
+  },
+  {
+    "category": "adult", 
+    "name": "Anal", 
+    "url": "https://cdn.adultiptv.net/anal.m3u8", 
+    "subCategory": "Live"
+  },
+  {
+    "category": "diger", 
+    "name": "Filmler", 
+    "url": "https://turis-tv.github.io/2026-Appcreator/Films/index.html", 
+    "type": "link"
+  }
+]
