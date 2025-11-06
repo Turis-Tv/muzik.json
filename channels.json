@@ -153,7 +153,7 @@
 {"name":"GEBZE GUL FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194741"},
 {"name":"GENC RADYO KONYA","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194742"},
 {"name":"HATAY AKDENIZ FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194745"},
-{"name":"HATAY SHOW RADYO","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"unknown","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194746"},
+{"name":"HATAY SHOW RADYO","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194746"},
 {"name":"ISRA FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194748"},
 {"name":"IZMIR CAN RADYO","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194749"},
 {"name":"KAY RADYO KAYSERI","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194751"},
@@ -190,6 +190,7 @@
 
   
 ]
+
 
 
 
