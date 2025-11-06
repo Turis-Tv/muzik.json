@@ -5,6 +5,18 @@
     "url": "http://voorbeeld.com/stream.m3u8", 
     "subCategory": "TV" 
   },
+    { 
+    "category": "ulusal", 
+    "name": "TRT 1", 
+    "url": "http://voorbeeld.com/stream.m3u8", 
+    "subCategory": "TV" 
+  },
+    { 
+    "category": "ulusal", 
+    "name": "TRT 1", 
+    "url": "http://voorbeeld.com/stream.m3u8", 
+    "subCategory": "TV" 
+  },
   { 
     "category": "ulusal", 
     "name": "ARABESK FM", 
@@ -36,4 +48,5 @@
     "url": "https://turis-tv.github.io/2026-Appcreator/Films/index.html", 
     "type": "link"
   }
+
 ]
