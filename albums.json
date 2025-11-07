@@ -6,15 +6,70 @@
       { "id": 1, "artist": "Bahar", "title": "Yalanmış", "src": "https://mp3semticdn.com/mp3_files/Bahar/Annem-Askerim-2007/Bahar-Yalanmis.mp3" },
       { "id": 2, "artist": "Bahar", "title": "Yalanmış (Remix)", "src": "https://mp3semticdn.com/mp3_files/Bahar/Bahar-Gelsin-2021/Bahar-Yalanmis-Ufuk-Kaplan-Remix-43.mp3" },
       { "id": 3, "artist": "Bahar", "title": "Alışkınım Fırtınaya", "src": "https://mp3semticdn.com/mp3_files/Bahar/Tutkun-Olurum-2000/Bahar-Aliskinim-Firtinaya--40.mp3" }
-    ]
+      { "id": 4, "artist": "Bahar", "title": "Allah", "src": "https://mp3semticdn.com/mp3_files/Bahar/Yanlis-Yaptin-2003/Bahar-Allah-92.mp3" },
+      { "id": 5, "artist": "Bahar", "title": "Aman Başım", "src": "https://mp3semticdn.com/mp3_files/Bahar/Yanlis-Yaptin-2003/Bahar-Aman-Basim-39.mp3" },
+      { "id": 6, "artist": "Bahar", "title": "Annem", "src": "https://mp3semticdn.com/mp3_files/Bahar/Annem-Askerim-2007/Bahar-Annem.mp3" },
+      { "id": 7, "artist": "Bahar", "title": "Askerde Şimdi", "src": "https://mp3semticdn.com/mp3_files/Bahar/Annem-Askerim-2007/Bahar-Askerde-Simdi.mp3" },
+      { "id": 8, "artist": "Bahar", "title": "Askerim", "src": "https://mp3semticdn.com/mp3_files/Bahar/Annem-Askerim-2007/Bahar-Askerim.mp3" },
+      { "id": 9, "artist": "Bahar", "title": "Ayırmayın Yari Benden", "src": "https://mp3semticdn.com/mp3_files/Bahar/Tutkun-Olurum-2000/Bahar-Ayirmayin-Yari-Benden-71.mp3" },
+      { "id": 10, "artist": "Bahar", "title": "Bilmiyorum", "src": "https://mp3semticdn.com/mp3_files/Bahar/Yanlis-Yaptin-2003/Bahar-Bilmiyorum-97.mp3" },
+      { "id": 11, "artist": "Bahar", "title": "Eller Çaldı Kocayı", "src": "https://mp3semticdn.com/mp3_files/Bahar/Tutkun-Olurum-2000/Bahar-Eller-Caldi-Kocayi-76.mp3" },
+      { "id": 12, "artist": "Bahar", "title": "Gelde Kurtar", "src": "https://mp3semticdn.com/mp3_files/Bahar/Tutkun-Olurum-2000/Bahar-Gelde-Kurtar-97.mp3" },
+      { "id": 13, "artist": "Bahar", "title": "Hayırsız", "src": "https://mp3semticdn.com/mp3_files/Bahar/Annem-Askerim-2007/Bahar-Hayirsiz.mp3" },
+      { "id": 14, "artist": "Bahar", "title": "İstemedimki", "src": "https://mp3semticdn.com/mp3_files/Bahar/Yanlis-Yaptin-2003/Bahar-Istemedimki-18.mp3" },
+      { "id": 15, "artist": "Bahar", "title": "Kör Olası", "src": "https://mp3semticdn.com/mp3_files/Bahar/Yanlis-Yaptin-2003/Bahar-Kor-Olasi-91.mp3" },
+      { "id": 16, "artist": "Bahar", "title": "Korktuğum Başıma Geldi", "src": "https://mp3semticdn.com/mp3_files/Bahar/Tutkun-Olurum-2000/Bahar-Korktugum-Basima-Geldi-79.mp3" },
+      { "id": 17, "artist": "Bahar", "title": "Nasıl Unutayım", "src": "https://mp3semticdn.com/mp3_files/Bahar/Yanlis-Yaptin-2003/Bahar-Nasil-Unutayim-53.mp3" },
+      { "id": 18, "artist": "Bahar", "title": "Nem Kaldı", "src": "https://mp3semticdn.com/mp3_files/Bahar/Tutkun-Olurum-2000/Bahar-Nem-Kaldi-23.mp3" },
+      { "id": 19, "artist": "Bahar", "title": "Oh Canıma Deysin", "src": "https://mp3semticdn.com/mp3_files/Bahar/Tutkun-Olurum-2000/Bahar-Oh-Canima-Deysin-22.mp3" },
+      { "id": 20, "artist": "Bahar", "title": "Sevdalım", "src": "https://mp3semticdn.com/mp3_files/Bahar/Yanlis-Yaptin-2003/Bahar-Sevdalim-29.mp3 " },
+      { "id": 21, "artist": "Bahar", "title": "Tutkun Olurum", "src": "https://mp3semticdn.com/mp3_files/Bahar/Annem-Askerim-2007/Bahar-Tutkun-Olurum.mp3" },
+      { "id": 22, "artist": "Bahar", "title": "Yalnızım Anne", "src": "https://mp3semticdn.com/mp3_files/Bahar/Annem-Askerim-2007/Bahar-Yalnizim-Anne.mp3" },
+      { "id": 23, "artist": "Bahar", "title": "Yanlış Yaptın", "src": "https://mp3semticdn.com/mp3_files/Bahar/Yanlis-Yaptin-2003/Bahar-Yanlis-Yaptin-56.mp3" },
+
+
+  ]
   },
   {
-    "name": "Ibrahim Tatlises - Best Of",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/44/14/60/44146030-2e40-41da-a719-e587569d6756/8697420556269.jpg/400x400cc.jpg",
+    "name": "Bergen",
+    "image": "https://mp3indirdur.life/detayresim/100/100/mp3resimler/Bergen-Karisik.jpg",
     "tracks": [
-      { "id": 24, "artist": "Ibrahim Tatlises", "title": "Haydi Söyle", "src": "url-naar-haydi-soyle.mp3" },
-      { "id": 25, "artist": "Ibrahim Tatlises", "title": "Mavi Mavi", "src": "url-naar-mavi-mavi.mp3" },
-      { "id": 26, "artist": "Ibrahim Tatlises", "title": "Aramam", "src": "url-naar-aramam.mp3" }
+      { "id": 24, "artist": "Bergen", "title": "Acıların Kadını (1986)", "src": "https://mp3kulisi.mobi/indir/Bergen/Acilarin-Kadini-1986/Bergen-Acilarin-Kadini.mp3" },
+      { "id": 25, "artist": "Bergen", "title": "Acıların Kadını", "src": "https://mp3kulisi.mobi/indir/Bergen/Karisik/Bergen-Acilarin-Kadini-Plak.mp3" },
+      { "id": 26, "artist": "Bergen", "title": "Affetmem", "src": "https://mp3kulisi.mobi/indir/bergen/karisik/bergen-bergen-affetmem-feat-sogopa-kajmer-mix-herusn.mp3" },
+      { "id": 27, "artist": "Bergen", "title": "Sev Yeter", "src": "https://mp3kulisi.mobi/indir/Bergen/Karisik/Bergen-Sev-Yeter.mp3" },
+      { "id": 28, "artist": "Bergen", "title": "Aşığım Bir Şoföre", "src": "https://mp3kulisi.mobi/indir/bergen/kardesiz-kader-1983/bergen-asigim-bir-sofore.mp3" },
+      { "id": 29, "artist": "Bergen", "title": "Bana Neler Vadettin", "src": "https://mp3kulisi.mobi/indir/bergen/saygi-albumu-2022/bergen-bana-neler-vadettin.mp3" },
+      { "id": 30, "artist": "Bergen", "title": "Bana Neler Vadettin", "src": "https://mp3kulisi.mobi/indir/farah-zeynep-abdullah/bana-neler-vadettin-2022/farah-zeynep-abdullah-bana-neler-vadettin.mp3" },
+      { "id": 31, "artist": "Bergen", "title": "Canım Dediklerim", "src": "https://mp3kulisi.mobi/indir/bergen/saygi-albumu-2022/bergen-canim-dediklerim-derya-ulug.mp3" },
+      { "id": 32, "artist": "Bergen", "title": "Dayanamıyorum Artık", "src": "https://mp3kulisi.mobi/indir/Bergen/Sevgimin-Bedeli-1988/Bergen-Dayanamiyorum-Artik.mp3" },
+      { "id": 33, "artist": "Bergen", "title": "Dertli Dertli", "src": "https://mp3kulisi.mobi/indir/Bergen/Acilarin-Kadini-1986/Bergen-Dertli-Dertli.mp3" },
+      { "id": 34, "artist": "Bergen", "title": "Elin Neyine Gerek", "src": "https://mp3kulisi.mobi/indir/Bergen/Kardesiz-Kader-1983/Bergen-Elin-Neyine-Gerek.mp3" },
+      { "id": 35, "artist": "Bergen", "title": "Eller Aldı", "src": "https://mp3kulisi.mobi/indir/Bergen/Acilarin-Kadini-1986/Bergen-Eller-Aldi.mp3" },
+      { "id": 36, "artist": "Bergen", "title": "Ellerin Mi Oldun", "src": "https://mp3kulisi.mobi/indir/Bergen/Kardesiz-Kader-1983/Bergen-Ellerin-Mi-Oldun.mp3" },
+      { "id": 37, "artist": "Bergen", "title": "Gel Gel", "src": "https://mp3kulisi.mobi/indir/Bergen/Sevgimin-Bedeli-1988/Bergen-Gel-Gel.mp3" },
+      { "id": 38, "artist": "Bergen", "title": "İnsan Dertli Olunca", "src": "https://mp3kulisi.mobi/indir/bergen/karisik/bergen-insan-dertli-olunca.mp3" },
+      { "id": 39, "artist": "Bergen", "title": "Kul Duası", "src": "https://mp3kulisi.mobi/indir/Bergen/Acilarin-Kadini-1986/Bergen-Kul-Duasi.mp3" },
+      { "id": 40, "artist": "Bergen", "title": "Kul Feryadı", "src": "https://mp3kulisi.mobi/indir/Bergen/Sevgimin-Bedeli-1988/Bergen-Kul-Feryadi.mp3" },
+      { "id": 41, "artist": "Bergen", "title": "Kurtar Yarab", "src": "https://mp3kulisi.mobi/indir/Bergen/Karisik/Bergen-Kurtar-Yarab.mp3" },
+      { "id": 42, "artist": "Bergen", "title": "Küskünüm", "src": "https://mp3kulisi.mobi/indir/Bergen/Sevgimin-Bedeli-1988/Bergen-Kuskunum.mp3" },
+      { "id": 43, "artist": "Bergen", "title": "Mavi Mavi", "src": "https://mp3kulisi.mobi/indir/Bergen/Kardesiz-Kader-1983/Bergen-Mavi-Mavi.mp3" },
+      { "id": 44, "artist": "Bergen", "title": "Olmaz Olsun", "src": "https://mp3kulisi.mobi/indir/Bergen/Karisik/Bergen-Olmaz-Olsun-Plak.mp3" },
+      { "id": 45, "artist": "Bergen", "title": "Sen Affetsen (Remix)", "src": "https://mp3kulisi.mobi/indir/bergen/karisik/bergen-sen-affetsen-sozer-sepetci-remix.mp3" },
+      { "id": 46, "artist": "Bergen", "title": "Ağlamak İçin Mi Geldik", "src": "https://mp3kulisi.mobi/indir/Bergen/Kardesiz-Kader-1983/Bergen-Aglamak-Icin-Mi-Geldik.mp3" }
     ]
   }
 ]
+
+ 
+ 
+  
+ 
+ 
+
+
+
+
+ 
+ 
+ 
