@@ -5,7 +5,7 @@
     "tracks": [
       { "id": 1, "artist": "Bahar", "title": "Yalanmış", "src": "https://mp3semticdn.com/mp3_files/Bahar/Annem-Askerim-2007/Bahar-Yalanmis.mp3" },
       { "id": 2, "artist": "Bahar", "title": "Yalanmış (Remix)", "src": "https://mp3semticdn.com/mp3_files/Bahar/Bahar-Gelsin-2021/Bahar-Yalanmis-Ufuk-Kaplan-Remix-43.mp3" },
-      { "id": 3, "artist": "Bahar", "title": "Alışkınım Fırtınaya", "src": "https://mp3semticdn.com/mp3_files/Bahar/Tutkun-Olurum-2000/Bahar-Aliskinim-Firtinaya--40.mp3" }
+      { "id": 3, "artist": "Bahar", "title": "Alışkınım Fırtınaya", "src": "https://mp3semticdn.com/mp3_files/Bahar/Tutkun-Olurum-2000/Bahar-Aliskinim-Firtinaya--40.mp3" },
       { "id": 4, "artist": "Bahar", "title": "Allah", "src": "https://mp3semticdn.com/mp3_files/Bahar/Yanlis-Yaptin-2003/Bahar-Allah-92.mp3" },
       { "id": 5, "artist": "Bahar", "title": "Aman Başım", "src": "https://mp3semticdn.com/mp3_files/Bahar/Yanlis-Yaptin-2003/Bahar-Aman-Basim-39.mp3" },
       { "id": 6, "artist": "Bahar", "title": "Annem", "src": "https://mp3semticdn.com/mp3_files/Bahar/Annem-Askerim-2007/Bahar-Annem.mp3" },
@@ -22,13 +22,11 @@
       { "id": 17, "artist": "Bahar", "title": "Nasıl Unutayım", "src": "https://mp3semticdn.com/mp3_files/Bahar/Yanlis-Yaptin-2003/Bahar-Nasil-Unutayim-53.mp3" },
       { "id": 18, "artist": "Bahar", "title": "Nem Kaldı", "src": "https://mp3semticdn.com/mp3_files/Bahar/Tutkun-Olurum-2000/Bahar-Nem-Kaldi-23.mp3" },
       { "id": 19, "artist": "Bahar", "title": "Oh Canıma Deysin", "src": "https://mp3semticdn.com/mp3_files/Bahar/Tutkun-Olurum-2000/Bahar-Oh-Canima-Deysin-22.mp3" },
-      { "id": 20, "artist": "Bahar", "title": "Sevdalım", "src": "https://mp3semticdn.com/mp3_files/Bahar/Yanlis-Yaptin-2003/Bahar-Sevdalim-29.mp3 " },
+      { "id": 20, "artist": "Bahar", "title": "Sevdalım", "src": "https://mp3semticdn.com/mp3_files/Bahar/Yanlis-Yaptin-2003/Bahar-Sevdalim-29.mp3" },
       { "id": 21, "artist": "Bahar", "title": "Tutkun Olurum", "src": "https://mp3semticdn.com/mp3_files/Bahar/Annem-Askerim-2007/Bahar-Tutkun-Olurum.mp3" },
       { "id": 22, "artist": "Bahar", "title": "Yalnızım Anne", "src": "https://mp3semticdn.com/mp3_files/Bahar/Annem-Askerim-2007/Bahar-Yalnizim-Anne.mp3" },
-      { "id": 23, "artist": "Bahar", "title": "Yanlış Yaptın", "src": "https://mp3semticdn.com/mp3_files/Bahar/Yanlis-Yaptin-2003/Bahar-Yanlis-Yaptin-56.mp3" },
-
-
-  ]
+      { "id": 23, "artist": "Bahar", "title": "Yanlış Yaptın", "src": "https://mp3semticdn.com/mp3_files/Bahar/Yanlis-Yaptin-2003/Bahar-Yanlis-Yaptin-56.mp3" }
+    ]
   },
   {
     "name": "Bergen",
@@ -60,16 +58,3 @@
     ]
   }
 ]
-
- 
- 
-  
- 
- 
-
-
-
-
- 
- 
- 
