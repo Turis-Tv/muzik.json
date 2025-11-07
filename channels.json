@@ -1,7 +1,7 @@
 [
 
  
-{"name":"TURIS","url": "https://vidmody.com/vs/tt0498396/","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"},
+ 
 {"name":"TRT 1","url": "https://tv-trt1.medya.trt.com.tr/master.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"},
 {"name":"TRT 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"http://vizi.vizi.workers.dev/?ID=1"},
 {"name":"TRT 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"http://origi-jw-5.ravenclaw-house.com:80/TR-TRT1/tracks-v1a1/mono.m3u8"},
@@ -779,6 +779,7 @@
 
     
 ]
+
 
 
 
