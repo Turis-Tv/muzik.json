@@ -136,6 +136,16 @@
  {"name": "24","url": "https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
  {"name": "Tgrt Haber","url": "https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
  {"name": "Bloomberg","url": "http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
+ {"name": "Trt Haber","url": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
+ {"name": "Ntv","url": "https://dogus.daioncdn.net/ntv/ntv_720p.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
+ {"name": "Halk Tv","url": "https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
+ {"name": "Haber Global","url": "https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
+ {"name": "Tv 100","url": "https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
+ {"name": "TvNet","url": "https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
+ {"name": "Akit Tv","url": "https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
+ {"name": "Bengü Türk","url": "https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
+ {"name": "Tgrt Haber","url": "https://canli.tgrthaber.com/tgrt.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
+ {"name": "Türk Haber","url": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
  
 
 {"name":"Spor Smart 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/121246"},
@@ -809,6 +819,7 @@
 
     
 ]
+
 
 
 
