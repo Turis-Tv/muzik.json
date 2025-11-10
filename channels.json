@@ -114,8 +114,8 @@
  {"name": "A Haber","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20768","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
  {"name": "Tgrt Haber","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6209","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
  {"name": "Cnn Türk","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6210","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
- {"name": "Haber Türk","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6212","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
- {"name": "Szc Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/196229","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
+
+
  {"name": "Haber Global","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6219","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
  {"name": "Ntv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/101114","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
  {"name": "24","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20748","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
@@ -801,6 +801,7 @@
 
     
 ]
+
 
 
 
