@@ -109,25 +109,26 @@
 
 
 
- { name:"Trt Haber", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6208", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
- { name:"A Haber", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20768", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
- { name:"Tgrt Haber", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6209", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
- { name:"Cnn Türk", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6210", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
- { name:"Haber Türk", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6212", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
- { name:"Szc Tv", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/196229", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
- { name:"Haber Global", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6219", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
- { name:"Ntv", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/101114", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
- { name:"24", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20748", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
- { name:"Halk Tv", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20758", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
- { name:"Krt", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/101118", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
- { name:"Tele 1", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/101115", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
- { name:"360 Tv", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/102066", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
- { name:"Bengü Türk ", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20811", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
- { name:"Cna", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/103266", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
- { name:"Ekol Tv", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/457710", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
- { name:"Tv 100", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/200687", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
- { name:"Beyaz Tv", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/439458", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
- { name:"B ", url:" m3u8", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
+{"name":"Trt Haber","logo":"https://i.imgur.com/jB7c7fM.png","category":"Haber","subCategory":"Haber","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6208"},
+{"name":"A Haber","logo":"https://i.imgur.com/jB7c7fM.png","category":"Haber","subCategory":"Haber","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20768"},
+{"name":"Tgrt Haber","logo":"https://i.imgur.com/jB7c7fM.png","category":"Haber","subCategory":"Haber","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6209"},
+{"name":"Cnn Türk","logo":"https://i.imgur.com/jB7c7fM.png","category":"Haber","subCategory":"Haber","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6210"},
+{"name":"Haber Türk","logo":"https://i.imgur.com/jB7c7fM.png","category":"Haber","subCategory":"Haber","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6212"},
+{"name":"Szc Tv","logo":"https://i.imgur.com/jB7c7fM.png","category":"Haber","subCategory":"Haber","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/196229"},
+{"name":"Haber Global","logo":"https://i.imgur.com/jB7c7fM.png","category":"Haber","subCategory":"Haber","url":"http"},
+{"name":"Ntv","logo":"https://i.imgur.com/jB7c7fM.png","category":"Haber","subCategory":"Haber","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6219"},
+{"name":"24","logo":"https://i.imgur.com/jB7c7fM.png","category":"Haber","subCategory":"Haber","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/101114"},
+{"name":"Halk Tv","logo":"https://i.imgur.com/jB7c7fM.png","category":"Haber","subCategory":"Haber","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20748"},
+{"name":"Krt","logo":"https://i.imgur.com/jB7c7fM.png","category":"Haber","subCategory":"Haber","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20758"},
+{"name":"Tele 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"Haber","subCategory":"Haber","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/101118"},
+{"name":"360 Tv","logo":"https://i.imgur.com/jB7c7fM.png","category":"Haber","subCategory":"Haber","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/101115"},
+{"name":"Bengü Türk","logo":"https://i.imgur.com/jB7c7fM.png","category":"Haber","subCategory":"Haber","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/102066"},
+{"name":"Cna","logo":"https://i.imgur.com/jB7c7fM.png","category":"Haber","subCategory":"Haber","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20811"},
+{"name":"Ekol Tv","logo":"https://i.imgur.com/jB7c7fM.png","category":"Haber","subCategory":"Haber","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/103266"},
+{"name":"Tv 100","logo":"https://i.imgur.com/jB7c7fM.png","category":"Haber","subCategory":"Haber","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/457710"},
+{"name":"Tv 100","logo":"https://i.imgur.com/jB7c7fM.png","category":"Haber","subCategory":"Haber","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/200687"},
+{"name":"Beyaz Tv","logo":"https://i.imgur.com/jB7c7fM.png","category":"Haber","subCategory":"Haber","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/439458"},
+
  
 
 {"name":"Spor Smart 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/121246"},
@@ -801,6 +802,7 @@
 
     
 ]
+
 
 
 
