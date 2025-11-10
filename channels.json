@@ -108,6 +108,16 @@
 {"name":"ULKU FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194788"},
 
 
+ {
+    "name": "TRT Haber",
+    "url": "https://tv-trthaber.live.trt.com.tr/master.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png",
+    "category": "haber"
+  }
+
+
+
+ 
 
 {"name":"Trt Haber","logo":"https://i.imgur.com/jB7c7fM.png","category":"Haber","subCategory":"Haber","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6208"},
 {"name":"A Haber","logo":"https://i.imgur.com/jB7c7fM.png","category":"Haber","subCategory":"Haber","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20768"},
@@ -802,6 +812,7 @@
 
     
 ]
+
 
 
 
