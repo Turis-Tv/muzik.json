@@ -82,7 +82,7 @@
   "cizgi": [
 
 
-    { "id": 2010, "title": "Turis", "year": "2023", "poster": "https://turkcealtyazi.org/film/200/10551654.jpg", "genre": "action", "description": "Beschrijving nog niet beschikbaar.", "type": "cizgi", "videoUrl": "https://vidmody.com/vs/tt0498396/" },
+    { "id": 2010, "title": "Turissss", "year": "2023", "poster": "https://turkcealtyazi.org/film/200/10551654.jpg", "genre": "action", "description": "Beschrijving nog niet beschikbaar.", "type": "cizgi", "videoUrl": "https://vidmody.com/vs/tt0498396/" },
     { "id": 2011, "title": "Under the Boardwalk", "year": "2023", "poster": "https://turkcealtyazi.org/film/200/10551654.jpg", "genre": "action", "description": "Beschrijving nog niet beschikbaar.", "type": "cizgi", "videoUrl": "https://vidmody.com/mm/tt10551654/main/index.m3u8" },
     { "id": 2010, "title": "Aslan Hürkus 3", "year": "2023", "poster": "https://tr.web.img3.acsta.net/c_310_420/pictures/23/10/08/00/09/1208694.jpg", "genre": "action", "description": "Beschrijving nog niet beschikbaar.", "type": "cizgi", "videoUrl": "https://vidmody.com/mm/tt22467614/main/index.m3u8" },
     { "id": 2009, "title": "Panda Bear in Africa", "year": "2024", "poster": "https://m.media-amazon.com/images/M/MV5BNGI3YWFkMWEtZTZjNS00NWI1LThiYWEtZDBlZDg4NWRjMzcxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", "genre": "action", "description": "Beschrijving nog niet beschikbaar.", "type": "cizgi", "videoUrl": "https://vidmody.com/mm/tt13616980/main/index.m3u8" },
@@ -103,4 +103,5 @@
   ]
 
 }
+
 
