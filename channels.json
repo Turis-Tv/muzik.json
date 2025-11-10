@@ -108,6 +108,28 @@
 {"name":"ULKU FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194788"},
 
 
+
+ { name:"Trt Haber", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6208", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
+ { name:"A Haber", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20768", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
+ { name:"Tgrt Haber", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6209", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
+ { name:"Cnn Türk", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6210", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
+ { name:"Haber Türk", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6212", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
+ { name:"Szc Tv", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/196229", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
+ { name:"Haber Global", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6219", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
+ { name:"Ntv", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/101114", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
+ { name:"24", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20748", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
+ { name:"Halk Tv", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20758", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
+ { name:"Krt", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/101118", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
+ { name:"Tele 1", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/101115", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
+ { name:"360 Tv", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/102066", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
+ { name:"Bengü Türk ", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20811", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
+ { name:"Cna", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/103266", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
+ { name:"Ekol Tv", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/457710", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
+ { name:"Tv 100", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/200687", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
+ { name:"Beyaz Tv", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/439458", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
+ { name:"B ", url:" m3u8", logo:"https://od.lk/s/OTFfNDA2MDkyMzBf/image%20%2810%29.png" },
+ 
+
 {"name":"Spor Smart 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/121246"},
 {"name":"Spor Smart 2","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/113272"},
 {"name":"EuroSport 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6106"},
@@ -779,6 +801,7 @@
 
     
 ]
+
 
 
 
