@@ -256,7 +256,8 @@
  {"name":"Mtv","url": "http://sar-kor.karamehmet.workers.dev/?ID=184","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
  
  
-    {"name": "Cnn Türk","url": "http://116.202.238.88/CNNTURK_TR/index.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
+   {"name": "Cnn Türk","url": "http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/423","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
+  {"name": "Cnn Türk","url": "http://116.202.238.88/CNNTURK_TR/index.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
   {"name": "Cnn Türk","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6210","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
   {"name": "A Haber","url": "http://stream.tvcdn.net/haber/a-haber.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
   {"name": "A Haber","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20768","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
@@ -1175,6 +1176,7 @@
 
     
 ]
+
 
 
 
