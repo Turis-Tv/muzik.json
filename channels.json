@@ -1,6 +1,6 @@
 [
 
- {"name":"Trt 1","url": "https://tv-trt1.medya.trt.com.tr/master.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+
  
 {"name":"Trt 1","url": "https://tv-trt1.medya.trt.com.tr/master.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"},
 {"name":"Trt 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"http://vizi.vizi.workers.dev/?ID=1"},
@@ -106,7 +106,10 @@
 {"name":"UMUT FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194787"},
 {"name":"ULKU FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194788"},
 
+ {"name":"Trt 1","url": "https://tv-trt1.medya.trt.com.tr/master.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
 
+
+ 
  
     {"name": "Cnn Türk","url": "http://116.202.238.88/CNNTURK_TR/index.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
   {"name": "Cnn Türk","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6210","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
@@ -1022,6 +1025,7 @@
 
     
 ]
+
 
 
 
