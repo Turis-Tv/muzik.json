@@ -202,7 +202,7 @@
  {"name":"Drive","url": "http://sar-kor.karamehmet.workers.dev/?ID=130","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
  {"name":"Хабар24","url": "http://sar-kor.karamehmet.workers.dev/?ID=131","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
  {"name":"Dorama","url": "http://sar-kor.karamehmet.workers.dev/?ID=132","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Рыжий","url": "http://sar-kor.karamehmet.workers.dev/?ID=133,"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+
  {"name":"Загородный","url": "http://sar-kor.karamehmet.workers.dev/?ID=134","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
  {"name":"гостях у сказки","url": "http://sar-kor.karamehmet.workers.dev/?ID=135","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
  {"name":"Первый космический","url": "http://sar-kor.karamehmet.workers.dev/?ID=136","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
@@ -1169,6 +1169,7 @@
 
     
 ]
+
 
 
 
