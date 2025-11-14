@@ -3,20 +3,19 @@
 
  
 {"name":"Trt 1","url": "https://tv-trt1.medya.trt.com.tr/master.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"},
-{"name":"Trt 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"http://vizi.vizi.workers.dev/?ID=1"},
-{"name":"Trt 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"http://origi-jw-5.ravenclaw-house.com:80/TR-TRT1/tracks-v1a1/mono.m3u8"},
+{"name":"Trt 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=7uqvag61gnys&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2"},
 {"name":"Trt 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20484"},
 {"name":"Trt 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/358053"},
-{"name":"Atv","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"https://tatatam.trt1sultanfatihss.workers.dev/http://origi-jw-5.ravenclaw-house.com:80/TR-ATV/tracks-v1a1/mono.m3u8"},
+{"name":"Atv","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/217"},
 {"name":"Atv","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8"},
 {"name":"Atv","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8"},
 {"name":"Atv","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8"},
 {"name":"Atv","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":" http://stream.tvcdn.net/ulusal/atv.m3u8"},
 {"name":"Atv","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6266"},
 {"name":"Atv","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192065"},
-{"name":"Kanal D","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"http://stream.tvcdn.net/ulusal/kanal-d.m3u8"},
-{"name":"Kanal D","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8"},
 {"name":"Kanal D","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"https://tatatam.trt1sultanfatihss.workers.dev/https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8"},
+ {"name":"Kanal D","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"http://stream.tvcdn.net/ulusal/kanal-d.m3u8"},
+{"name":"Kanal D","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8"},
 {"name":"Kanal D","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6275"},
 {"name":"Kanal D","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8"},
 {"name":"Kanal D","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192068"},
@@ -1166,6 +1165,7 @@
 
     
 ]
+
 
 
 
