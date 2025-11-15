@@ -2,6 +2,10 @@
 
 
 {"name":"VOSTOK TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"muzik","subCategory":"","url":"http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8"},
+{"name":"inzone TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"muzik","subCategory":"","url":"https://stream.appradiofm.com/stream?url=http://stream.laut.fm/inzone"},
+
+
+
 {"name":"NR 1 DAMAR","logo":"https://i.imgur.com/jB7c7fM.png","category":"muzik","subCategory":"","url":"https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8?start=LIVE&end=END"},
 {"name":"NR 1 DAMAR","logo":"https://i.imgur.com/jB7c7fM.png","category":"muzik","subCategory":"","url":"https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8?start=LIVE&end=END"},
 {"name":"MİLYON TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"muzik","subCategory":"","url":"https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8"},
@@ -59,5 +63,6 @@
 {"name":"KRAL POP","logo":"https://i.imgur.com/jB7c7fM.png","category":"muzik","subCategory":"","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/446162"}
 
  
+
 
 ]
