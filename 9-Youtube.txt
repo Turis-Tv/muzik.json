@@ -85,15 +85,8 @@
 {"name":"Kız Meryem","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/FzKjPiq44lY"},
 {"name":"Acıyor Canım Gel","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/rRXFWGYoMn4"},
 {"name":"senden bir dileğim var","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Ilahi","url":"https://www.youtube.com/watch?v=5Gab6i0CItw"},
-
-
 {"name":"ÖLMEDEN 7 GÜN ÖNCE GELEN İŞARETLER","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Ilahi","url":"https://www.youtube.com/watch?v=IG4q11VeHq4"}
 
 
 
-
 ]
-
-
-
-
