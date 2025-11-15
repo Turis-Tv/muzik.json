@@ -1,5 +1,5 @@
 [
-{"name":"Tv 1","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192716","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "Relax","subCategory": "Turis"},
+{"name":"Tv 1","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192716","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "Relax","subCategory": " "},
 
 {"name":"Tv 2","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192717","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "Relax","subCategory": " "},
 
@@ -31,6 +31,7 @@
 
 
 ]
+
 
 
 
