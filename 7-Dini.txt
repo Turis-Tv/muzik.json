@@ -1,0 +1,22 @@
+[
+{"name":"ILAHI TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"dini","subCategory":"","url":"http://stream.tvcdn.net/dini/ilahiler-tv.m3u8"},
+{"name":"DOST TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"dini","subCategory":"","url":"https://dost.stream.emsal.im/tv/live.m3u8"},
+{"name":"DIYANET","logo":"https://i.imgur.com/jB7c7fM.png","category":"dini","subCategory":"","url":"https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8"},
+{"name":"DIYANET","logo":"https://i.imgur.com/jB7c7fM.png","category":"dini","subCategory":"","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/186255"},
+{"name":"MELTEM TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"dini","subCategory":"","url":"https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8"},
+{"name":"SEMERKANT TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"dini","subCategory":"","url":"http://stream.tvcdn.net/dini/semerkand-way.m3u8"},
+{"name":"DIYAR TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"dini","subCategory":"","url":"http://stream.tvcdn.net/dini/diyar-tv.m3u8"},
+{"name":"KUDUS TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"dini","subCategory":"","url":"http://stream.tvcdn.net/dini/kudus-tv.m3u8"},
+{"name":"LALEGÛL TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"dini","subCategory":"","url":"http://stream.tvcdn.net/dini/lalegul-tv.m3u8"},
+{"name":"ON4 TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"dini","subCategory":"","url":"http://stream.tvcdn.net/dini/on4-tv.m3u8"},
+{"name":"AILE TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"dini","subCategory":"","url":"http://stream.tvcdn.net/dini/aile-tv.m3u8"},
+{"name":"ASR-SERIF","logo":"https://i.imgur.com/jB7c7fM.png","category":"dini","subCategory":"","url":"http://stream.tvcdn.net/dini/asr-i-serif-tv.m3u8"},
+{"name":"KUR'AN","logo":"https://i.imgur.com/jB7c7fM.png","category":"dini","subCategory":"","url":"http://stream.tvcdn.net/dini/kuran-i-kerim-dersleri.m3u8"},
+{"name":"ISLAM TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"dini","subCategory":"","url":"http://stream.tvcdn.net/dini/islam-tv.m3u8"},
+{"name":"ILMIHAL TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"dini","subCategory":"","url":"http://stream.tvcdn.net/dini/ilmihal-tv.m3u8"},
+{"name":"ASR SAADET TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"dini","subCategory":"","url":"http://stream.tvcdn.net/dini/asr-i-saadet-tv.m3u8"},
+{"name":"VAAZ TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"dini","subCategory":"","url":"http://stream.tvcdn.net/dini/vaaz-tv.m3u8"},
+{"name":"TRT DIYANET","logo":"https://i.imgur.com/jB7c7fM.png","category":"dini","subCategory":"","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/102033"},
+{"name":"HADII TVT","logo":"https://i.imgur.com/jB7c7fM.png","category":"dini","subCategory":"","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/18629"}
+
+]
