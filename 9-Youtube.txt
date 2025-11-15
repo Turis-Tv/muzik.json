@@ -87,6 +87,7 @@
 {"name":"senden bir dileğim var","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Ilahi","url":"https://www.youtube.com/watch?v=5Gab6i0CItw"},
 {"name":"ÖLMEDEN 7 GÜN ÖNCE GELEN İŞARETLER","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Ilahi","url":"https://www.youtube.com/watch?v=IG4q11VeHq4"}
 
+{"name":"Süleymaniye Dersleri ","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Ilahi","url":"https://drive.google.com/file/d/1hbQILxi57YAliphDjM4InKXb0q-TlRe4/view?t=5"}
 
 
 ]
