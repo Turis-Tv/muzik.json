@@ -1,19 +1,35 @@
 [
+{"name":"Tv 1","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192716","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "Relax","subCategory": " "},
 
- { name:" TV 1 ", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192716", logo:"" },
-  { name:" TV 2 ", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192717", logo:"" },
-  { name:" TV 3 ", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192718", logo:"" },
-  { name:" TV 4 ", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192719", logo:"" },
-  { name:" TV 5 ", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192720", logo:"" },
-  { name:" TV 6 ", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192721", logo:"" },
-  { name:" TV 7 ", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192722", logo:"" },
-  { name:" TV 8 ", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192723", logo:"" },
-  { name:" TV 9 ", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192724", logo:"" },
-  { name:" TV 10 ", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192725", logo:"" },
-  {"name":"Relax 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"relax","subCategory":"","url":"https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"},
-{"name":"Relax 2","logo":"https://i.imgur.com/jB7c7fM.png","category":"relax","subCategory":"","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/48856"}
+{"name":"Tv 2","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192717","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "Relax","subCategory": " "},
 
+{"name":"tv 3","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192718","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "Relax","subCategory": " "},
+
+{"name":"Tv 4","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192719","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "Relax","subCategory": " "},
+
+{"name":"Tv 5","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192720","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "Relax","subCategory": " "},
+
+{"name":"Trt 6","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192721","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "Relax","subCategory": " "},
+
+{"name":"Tv 7","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192722","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "Relax","subCategory": " "},
+
+{"name":"Tv 8","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192723","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "Relax","subCategory": " "},
+
+{"name":"Tv 9","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192724","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "Relax","subCategory": " "},
+
+{"name":"Tv 10","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192725","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "Relax","subCategory": " "},
+
+{"name":"Tv 11","url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "Relax","subCategory": " "},
+
+{"name":"Tv 12","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/48856","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "Relax","subCategory": " "}
+
+ 
+
+
+ 
+   
 
 
 ]
+
 
