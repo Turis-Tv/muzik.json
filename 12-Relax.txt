@@ -1,9 +1,19 @@
 [
 
-
+ { name:" TV 1 ", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192716", logo:"" },
+  { name:" TV 2 ", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192717", logo:"" },
+  { name:" TV 3 ", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192718", logo:"" },
+  { name:" TV 4 ", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192719", logo:"" },
+  { name:" TV 5 ", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192720", logo:"" },
+  { name:" TV 6 ", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192721", logo:"" },
+  { name:" TV 7 ", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192722", logo:"" },
+  { name:" TV 8 ", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192723", logo:"" },
+  { name:" TV 9 ", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192724", logo:"" },
+  { name:" TV 10 ", url:"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192725", logo:"" },
   {"name":"Relax 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"relax","subCategory":"","url":"https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"},
 {"name":"Relax 2","logo":"https://i.imgur.com/jB7c7fM.png","category":"relax","subCategory":"","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/48856"}
 
 
 
 ]
+
