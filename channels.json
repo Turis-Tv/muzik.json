@@ -506,6 +506,7 @@
 
  
 
+ {"name":"MyWay","logo":"https://i.imgur.com/jB7c7fM.png","category":"film","subCategory":"Film","url":"http://104.238.23.182/d/live/out.m3u8"},
  {"name":"KuzeyMax","logo":"https://i.imgur.com/jB7c7fM.png","category":"film","subCategory":"Film","url":"http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8"},
 {"name":"Super Türk","logo":"https://i.imgur.com/jB7c7fM.png","category":"film","subCategory":"Film","url":"http://stream.tvcdn.net/diger-eglence/superturk-tv.m3u8"},
 {"name":"Super Türk","logo":"https://i.imgur.com/jB7c7fM.png","category":"film","subCategory":"Film","url":"http://stream.tvcdn.net/diger-eglence/superturk-tv.m3u8"},
@@ -1179,6 +1180,7 @@
 
     
 ]
+
 
 
 
