@@ -2,7 +2,8 @@
 
 
   {"name":"Relax 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"relax","subCategory":"","url":"https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"},
-{"name":"Relax 2","logo":"https://i.imgur.com/jB7c7fM.png","category":"relax","subCategory":"","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/48856"},
+{"name":"Relax 2","logo":"https://i.imgur.com/jB7c7fM.png","category":"relax","subCategory":"","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/48856"}
+
 
 
 ]
