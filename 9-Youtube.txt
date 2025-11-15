@@ -1,5 +1,8 @@
  [
 
+
+
+
 {"name":"Biter Mi Yar","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/0QTWo4TKppc"},
  {"name":"Sahtesiniz","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/t3ElULpsXwk"},
 
@@ -14,6 +17,21 @@
 
 
  
+{"name":"Çal bir Ankara","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/3OiOCImHk7g"},
+{"name":"Yakacagim Ankarayi","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/a3avw-PGQMw"},
+{"name":"naciyem","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/A_apwi_1VoQ"},
+{"name":"Yazalim Askim","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/8ZXxmN0GHCk"},
+{"name":"Oyun Havzlari","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/i7oF4OilgiM"},
+{"name":"Misirlar Sacak","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/3OiOCImHk7g"},
+{"name":"Erik Dali","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/9GSTWWtvWFA"},
+{"name":"Sebebi Sensin","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/qtIZmjfZP6w"},
+{"name":"Hikaye","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/DrwY37A-QVs"},
+{"name":"Neriman","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/QD5652mtQC4"},
+{"name":"Hava Atma","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/IZCvZbl14fI"},
+{"name":"Oy Bahcenize","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/9ankc743-nw"},
+
+
+
  {"name":"Açma Zülüflerin","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/MMYzzLcizkk"},
 {"name":"Sen Sev Beni","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/UGHv21ZoTKw"},
 {"name":"Sev Yeter","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/acgKF6qa9ck"},
@@ -86,6 +104,4 @@
 
 
 
-
 ]
-
