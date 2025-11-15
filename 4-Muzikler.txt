@@ -2,7 +2,7 @@
 
 
 {"name":"VOSTOK TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"muzik","subCategory":"","url":"http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8"},
-{"name":"inzone TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"muzik","subCategory":"","url":"https://stream.appradiofm.com/stream?url=http://stream.laut.fm/inzone"},
+{"name":"inzone ","logo":"https://i.imgur.com/jB7c7fM.png","category":"muzik","subCategory":"","url":"https://stream.appradiofm.com/stream?url=http://stream.laut.fm/inzone"},
 
 
 
@@ -66,3 +66,4 @@
 
 
 ]
+
