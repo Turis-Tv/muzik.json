@@ -33,6 +33,10 @@
 {"name":"Star Tv","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7w0v4blzrjky&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=M3U8"},
 {"name":"Star Tv","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6270"},
 {"name":"Star Tv","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192066"},
+{"name":"Star Tv","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/232"},
+
+
+
 {"name":"Show Max","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8"},
 {"name":"Show Türk","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showturk.m3u8"},
 {"name":"Show Türk","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showturk.m3u8"},
@@ -265,6 +269,7 @@
 
 
 ]
+
 
 
 
