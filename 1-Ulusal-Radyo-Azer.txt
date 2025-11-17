@@ -9,8 +9,9 @@
 {"name":"Trt 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/358053"},
 {"name":"Trt 1","url": "https://streams.uzunmuhalefet.com/stream/535f4f5a-3ffa-4919-bb5d-5d31024c9237.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"},
 
-{"name":"Atv","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/217"},
 {"name":"Atv","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8"},
+{"name":"Atv","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/217"},
+
 {"name":"Atv","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8"},
 {"name":"Atv","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8"},
 {"name":"Atv","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":" http://stream.tvcdn.net/ulusal/atv.m3u8"},
@@ -260,4 +261,5 @@
 
 
 ]
+
 
