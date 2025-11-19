@@ -176,6 +176,7 @@
 {"name":"Trt 2","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/186242"},
 {"name":"Trt 2","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"http://87.246.54.249:8080/TRT2/index.m3u8"},
 {"name":"Trt 2","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"http://95.174.71.114:80/TR-TRT2/index.m3u8"},
+ 
 
 
 
@@ -435,6 +436,7 @@
 
 
 ]
+
 
 
 
