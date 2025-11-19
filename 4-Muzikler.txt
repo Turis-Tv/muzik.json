@@ -65,9 +65,10 @@
 {"name":"KRAL POP","logo":"https://i.imgur.com/jB7c7fM.png","category":"muzik","subCategory":"","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/446162"}
 
  
-
+{"name":"KRAL POP","logo":"https://i.imgur.com/jB7c7fM.png","category":"muzik","subCategory":"Yabanci","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/446162"}
 
 ]
+
 
 
 
