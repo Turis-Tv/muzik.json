@@ -92,6 +92,9 @@
 {"name":"Show Tv","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"http://116.202.238.88/SHOWTV_TR/index.m3u8"},
 
 
+{"name":"Kanal Avrupa","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"https://trn03.tulix.tv/gt-kanalavrupa/index.m3u8"},
+
+
 
 
 {"name":"Now Tv","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"TV","url":"http://stream.tvcdn.net/ulusal/now-tv.m3u8"},
@@ -430,6 +433,7 @@
 
 
 ]
+
 
 
 
