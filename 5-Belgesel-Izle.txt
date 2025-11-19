@@ -46,10 +46,11 @@
 {"name":"TRT TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"belgesel","subCategory":"","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/96754"},
 {"name":"Jussie Smollett","logo":"https://i.imgur.com/jB7c7fM.png","category":"","subCategory":"belg İzle","url":"https://vidmody.com/vs/tt33293194/"},
 
-{"name":"Jussie Smollett","logo":"https://i.imgur.com/jB7c7fM.png","category":"","subCategory":"belg İzle","url":"https://vidmody.com/vs/tt33293194/"}
+{"name":"Jussie Smollett","logo":"https://i.imgur.com/jB7c7fM.png","category":"","subCategory":"Belg İzle","url":"https://vidmody.com/vs/tt33293194/"}
 
 
 ]
+
 
 
 
