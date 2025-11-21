@@ -1,6 +1,10 @@
 [
 
 
+{"name":"Exotica","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"http://31.148.48.15:80/O-la-la/index.m3u8"},
+
+{"name":"Playboy","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8"},
+
 {"name":"Anal","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://cdn.adultiptv.net/anal.m3u8"},
 {"name":"Anal-1","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://live.mycamtv.com/anal.m3u8"},
 {"name":"Asian 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://live.mycamtv.com/asian.m3u8"},
@@ -40,6 +44,8 @@
 {"name":"XXL","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"http://live.redtraffic.xyz/teen.m3u8"},
 {"name":"REDLIGHT","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"http://live.redtraffic.xyz/pornstar.m3u8"},
 {"name":"Miami TV Jenny","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8"},
+{"name":"Miami TV Jenny","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8"},
+
 
 
 {"name":"FUNDORADO","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"http://live.redtraffic.xyz/fetish.m3u8"},
@@ -216,4 +222,5 @@
 ]
 
  
+
 
