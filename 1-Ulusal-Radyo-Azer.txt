@@ -432,10 +432,18 @@
  {"name":"Mtv Live","url": "http://sar-kor.karamehmet.workers.dev/?ID=181","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
  {"name":"Nickelodeon","url": "http://sar-kor.karamehmet.workers.dev/?ID=182","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
  {"name":"Nicktoons","url": "http://sar-kor.karamehmet.workers.dev/?ID=183","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+
+
+ {"name":"Film","url": "https://x.ag2m4.cfd/embed-dj2by5l5fomq.html","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+
+
+
+
  {"name":"Mtv","url": "http://sar-kor.karamehmet.workers.dev/?ID=184","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"}
 
 
 ]
+
 
 
 
