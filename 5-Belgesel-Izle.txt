@@ -44,16 +44,17 @@
 {"name":"Tekno Belgesel TV HD","logo":"https://i.imgur.com/jB7c7fM.png","category":"belgesel","subCategory":"","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/97247"},
 {"name":"Habitat TV HD","logo":"https://i.imgur.com/jB7c7fM.png","category":"belgesel","subCategory":"","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/103303"},
 {"name":"TRT TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"belgesel","subCategory":"","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/96754"},
-{"name":"Jussie Smollett","logo":"https://i.imgur.com/jB7c7fM.png","category":"","subCategory":"Belg izle","url":"https://vidmody.com/vs/tt33293194/"},
+{"name":"Jussie Smollett","logo":"https://i.imgur.com/jB7c7fM.png","category":"","subCategory":"Belg İzle","url":"https://vidmody.com/vs/tt33293194/"},
 
-{"name":"TRT1","logo":"https://i.imgur.com/jB7c7fM.png","category":"","subCategory":"Belg izle","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/96754"},
+{"name":"TRT1","logo":"https://i.imgur.com/jB7c7fM.png","category":"","subCategory":"Belg İzle","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/96754"},
 
-{"name":"TRT2 ","logo":"https://i.imgur.com/jB7c7fM.png","category":"","subCategory":"Belg izle","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/96754"},
+{"name":"TRT2 ","logo":"https://i.imgur.com/jB7c7fM.png","category":"","subCategory":"Belg İzle","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/96754"},
 
-{"name":"Jussie Smollett","logo":"https://i.imgur.com/jB7c7fM.png","category":"","subCategory":"Belg izle","url":"https://vidmody.com/vs/tt33293194/"}
+{"name":"Jussie Smollett","logo":"https://i.imgur.com/jB7c7fM.png","category":"","subCategory":"Belg İzle","url":"https://vidmody.com/vs/tt33293194/"}
 
 
 ]
+
 
 
 
