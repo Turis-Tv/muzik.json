@@ -3,6 +3,7 @@
 
 {"name": "Kemal Sunal","url": "https://turis-tv.github.io/2026-Appcreator/Kemal-Sunal-Youtube/Kemal-Sunal-Filmleri-Youtube.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
 
+{"name": "Diziler Youtube","url": "https://turis-tv.github.io/2026-Appcreator/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
 
  {"name": "Filmler","url": "https://turis-tv.github.io/2026-Appcreator/Films/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
  {"name": "Youtube Dizi","url": "https://turis-tv.github.io/2026-Menu/16-Youtube/1-Youtube/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
@@ -15,5 +16,6 @@
 
 
 ]
+
 
 
