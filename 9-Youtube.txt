@@ -4,9 +4,9 @@
 
 
 {"name":"Biter Mi Yar","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/0QTWo4TKppc"},
- {"name":"Sahtesiniz","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/t3ElULpsXwk"},
+ {"name":"Sahtesiniz","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/FjE0wj0_Zvk"},
 
- 
+ {"name":"BIRAKMADI SEVDAN BENİ","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/t3ElULpsXwk"},
  
  
  {"name":"Geceye Sor","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/lQXoQjdz1Jo"},
@@ -101,6 +101,7 @@
 {"name":"Acıyor Canım Gel","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/rRXFWGYoMn4"},
 {"name":"senden bir dileğim var","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Ilahi","url":"https://www.youtube.com/watch?v=5Gab6i0CItw"},
 {"name":"ÖLMEDEN 7 GÜN ÖNCE GELEN İŞARETLER","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Ilahi","url":"https://www.youtube.com/watch?v=IG4q11VeHq4"}
+
 
 
 
