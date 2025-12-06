@@ -8,7 +8,7 @@
 
  {"name":"BIRAKMADI SEVDAN BENİ","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/t3ElULpsXwk"},
  
-
+ {"name":"Nem Kaldı ","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/d5Z3n-wfp6E"},
 
 
 
@@ -114,6 +114,7 @@
 
 
 ]
+
 
 
 
