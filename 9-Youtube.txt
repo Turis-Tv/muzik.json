@@ -10,6 +10,10 @@
  
  {"name":"Nem Kaldı ","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/d5Z3n-wfp6E"},
 
+ {"name":"Karaduta Yaslandım ","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/hS6sP19dTcw"},
+
+
+
 
 
  {"name":"Geceye Sor","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/lQXoQjdz1Jo"},
@@ -114,6 +118,7 @@
 
 
 ]
+
 
 
 
