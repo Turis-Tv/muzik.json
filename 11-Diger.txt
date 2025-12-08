@@ -1,6 +1,10 @@
 [
 {"name": "Mp3 Dinle","url": "https://turis-tv.github.io/2026-Menu/3-Mp3/1-Mp3-Playlist/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
 
+{"name": "Iptv","url": "https://turis-tv.github.io/2026-Appcreator/Iptv-Yedek-Parser/1-Parser/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+
+
+
 {"name": "Kemal Sunal","url": "https://turis-tv.github.io/2026-Appcreator/Kemal-Sunal-Youtube/Kemal-Sunal-Filmleri-Youtube.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
 
 {"name": "Diziler Youtube","url": "https://turis-tv.github.io/2026-Appcreator/Kemal-Sunal-Youtube/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
@@ -16,6 +20,7 @@
 
 
 ]
+
 
 
 
