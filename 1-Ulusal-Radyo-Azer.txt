@@ -59,13 +59,12 @@
 
 
 
-
+{"name":"Star Tv","url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
 {"name":"Star Tv","url": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7w0v4blzrjky&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=M3U8","logo": " ","category": "ulusal","subCategory": "TV"},
 {"name":"Star Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6270","logo": " ","category": "ulusal","subCategory": "TV"},
 {"name":"Star Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192066","logo": " ","category": "ulusal","subCategory": "TV"},
 {"name":"Star Tv","url": "http://95.174.71.114:80/TR-STAR/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
 {"name":"Star Tv","url": "http://66.160.192.241/startvturk/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Star Tv","url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
 {"name":"Star Tv","url": "http://95.174.71.114/TR-STAR/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
 {"name":"Star Tv","url": "http://dygvideo.dygdigital.com/live/hls/stardai?m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
 {"name":"Star Tv","url": "http://87.246.54.249:8080/StarTV/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
@@ -449,6 +448,7 @@
 
 
 ]
+
 
 
 
