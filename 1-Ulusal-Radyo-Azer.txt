@@ -34,8 +34,6 @@
 {"name":"Atv Eu","url": "http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"}, 
 
 
-{"name":"Atv","url": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
-
 
 {"name":"Kanal D","url": "https://tatatam.trt1sultanfatihss.workers.dev/https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
 {"name":"Kanal D","url": "http://stream.tvcdn.net/ulusal/kanal-d.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
@@ -440,6 +438,7 @@
 
 
 ]
+
 
 
 
