@@ -20,6 +20,9 @@
 
  {"name": "Testc2","url": "https://merhmet.github.io/Full.io/AnaMenu/01Iptv/10TurisWuffy/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
 
+ {"name": "Testc3","url": "https://merhmet.github.io/TurisMulayim/AnaMenu/saraydorf.de/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+
+
 
 
  {"name": "Oyunlar","url": "https://emupedia.net/beta/emuos/","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"}
@@ -28,6 +31,7 @@
 
 
 ]
+
 
 
 
