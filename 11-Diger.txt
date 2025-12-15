@@ -14,12 +14,21 @@
  {"name": "Dini","url": "https://turis-tv.github.io/2026-Menu/5-Dini/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
  {"name": "Radyolar","url": "https://turis-tv.github.io/2026-Menu/6-Radyolar/index.htm","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
 
+
+
+ {"name": "Testc1","url": "https://merhmet.github.io/Full.io/AnaMenu/01Iptv/10TurisWuffy/indexx.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+
+ {"name": "Testc2","url": "https://merhmet.github.io/Full.io/AnaMenu/01Iptv/10TurisWuffy/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+
+
+
  {"name": "Oyunlar","url": "https://emupedia.net/beta/emuos/","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"}
 
 
 
 
 ]
+
 
 
 
