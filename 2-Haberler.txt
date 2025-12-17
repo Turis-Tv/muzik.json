@@ -10,6 +10,10 @@
   {"name": "Ülke Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20814","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
   {"name": "Akit Tv","url": "http://akittv-live.ercdn.net/akittv/akittv_360p.m3u8?start=LIVE&end=END","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
   {"name": "Halk Tv","url": "https://halktv-live.daioncdn.net/halktv/haltv.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
+
+  {"name": "Halk Tv","url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
+
+
   {"name": "Halk Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20758","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
   {"name": "Tele 1","url": "https://tele1-live.ercdn.net/tele1/tele1.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
   {"name": "Tele 1","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/101115","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
@@ -87,5 +91,6 @@
  {"name": "Tgrt Haber","url": "https://canli.tgrthaber.com/tgrt.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
  {"name": "Türk Haber","url": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"}
  
+
 
 ]
