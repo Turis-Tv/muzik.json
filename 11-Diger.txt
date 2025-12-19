@@ -25,12 +25,18 @@
  {"name": "Test 4","url": "https://merhmet.github.io/Tinastepe1.io/index.htm","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
 
 
+ {"name": "Ana Sayfa","url": "https://turis-tv.github.io/2026-Appcreator/","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+
+
+
+
  {"name": "Oyunlar","url": "https://emupedia.net/beta/emuos/","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"}
 
 
 
 
 ]
+
 
 
 
