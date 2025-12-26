@@ -12,7 +12,7 @@
 
 {"name":"Anal","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://cdn.adultiptv.net/anal.m3u8"},
 {"name":"Anal","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://live.mycamtv.com/anal.m3u8"},
-{"name":"Asian 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://live.mycamtv.com/asian.m3u8"},
+{"name":"Asian","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://live.mycamtv.com/asian.m3u8"},
 {"name":"Asian","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://cdn.adultiptv.net/asian.m3u8"},
 {"name":"Big Ass","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://cdn.adultiptv.net/bigass.m3u8"},
 {"name":"Big Dick","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://cdn.adultiptv.net/bigdick.m3u8"},
@@ -31,9 +31,9 @@
 {"name":"Latina","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://live.mycamtv.com/latina.m3u8"},
 {"name":"Latina","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://cdn.adultiptv.net/latina.m3u8"},
 {"name":"Lesbian","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://cdn.adultiptv.net/lesbian.m3u8"},
-{"name":"MILF","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://cdn.adultiptv.net/milf.m3u8"},
+{"name":"Milf","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://cdn.adultiptv.net/milf.m3u8"},
 {"name":"Pornstar","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://cdn.adultiptv.net/pornstar.m3u8"},
-{"name":"POV","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://cdn.adultiptv.net/pov.m3u8"},
+{"name":"Pov","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://cdn.adultiptv.net/pov.m3u8"},
 {"name":"Rough","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://cdn.adultiptv.net/rough.m3u8"},
 {"name":"Russian","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://cdn.adultiptv.net/russian.m3u8"},
 {"name":"Teen","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://cdn.adultiptv.net/teen.m3u8"},
@@ -53,8 +53,8 @@
 
 
 
-{"name":"FUNDORADO","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"http://live.redtraffic.xyz/fetish.m3u8"},
-{"name":"PORNOS","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4"},
+{"name":"Fundarado","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"http://live.redtraffic.xyz/fetish.m3u8"},
+{"name":"Pornos","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4"},
 {"name":"XXX 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"https://ovhv47.twincdn.com/videos/32/32190/32190_720p.mp4"},
 {"name":"XXX 2","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"http://ovhv40.twincdn.com/videos/prime/00/01/92/99.mp4"},
 {"name":"XXX 3","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"https://video1.tizam.cc/vk/AMasseusesRevenge.mp4"},
@@ -244,6 +244,7 @@
 ]
 
  
+
 
 
 
