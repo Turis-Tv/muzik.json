@@ -4,6 +4,8 @@
 {"name":"Test","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Test","url":"https://video-cdn.porndig.com/videos/423590_goItk5Kyc9M2gIaH/qid3891v1_h264_1800_720.mp4?md5=F2SRPzKtz2-ziAd5tS1Nsw&expires=1766782893"},
 
 
+{"name":"Test 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://video-cdn.porndig.com/videos/423590_goItk5Kyc9M2gIaH/qid3891v1_h264_1800_720.mp4?md5=F2SRPzKtz2-ziAd5tS1Nsw&expires=1766782893"},
+
 {"name":"Exotica","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"http://31.148.48.15:80/O-la-la/index.m3u8"},
 
 {"name":"Playboy","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8"},
@@ -242,6 +244,7 @@
 ]
 
  
+
 
 
 
