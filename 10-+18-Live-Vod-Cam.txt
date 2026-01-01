@@ -58,18 +58,10 @@
  
  
 
-{"name":"test 3","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://nl.mycamtv.com/Rakses2/videos"},
-
-
-
-
-{"name":"Test 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://hls.strpst.com/records/221643316/2025/11/25/cf31326fe38ae915b5474dc5ded42bc2b8facb39b5957ef13bcaa06e063531f5/trailer.m3u8"},
-
-
 
 {"name":"Exotica","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"http://31.148.48.15:80/O-la-la/index.m3u8"},
 
-{"name":"Playboy","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8"},
+
 
 {"name":"Anal","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://cdn.adultiptv.net/anal.m3u8"},
 {"name":"Anal","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://live.mycamtv.com/anal.m3u8"},
@@ -111,6 +103,10 @@
 {"name":"REDLIGHT","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"http://live.redtraffic.xyz/pornstar.m3u8"},
 {"name":"Miami TV Jenny","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8"},
 {"name":"Miami TV Jenny","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8"},
+
+
+{"name":"Playboy","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8"},
+
 
 
 
@@ -305,6 +301,7 @@
 ]
 
  
+
 
 
 
