@@ -16,7 +16,7 @@
 
 
 
- {"name": "Oyunlar","url": "https://emupedia.net/beta/emuos/","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"}
+ {"name": "Oyunlar 1","url": "https://emupedia.net/beta/emuos/","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
 
 
 
@@ -41,7 +41,7 @@
 
  {"name": "Test 3","url": "https://merhmet.github.io/TurisMulayim/AnaMenu/saraydorf.de/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
 
- {"name": "Test 4","url": "https://merhmet.github.io/Tinastepe1.io/index.htm","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+ {"name": "Test 4","url": "https://merhmet.github.io/Tinastepe1.io/index.htm","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"}
 
 
 
@@ -50,6 +50,7 @@
 
 
 ]
+
 
 
 
