@@ -2,7 +2,7 @@
 
  
 
-{"name": "Contact Form","url": "https://turis-tv.github.io/Ana-Menu/1-ContactForm/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+{"name": "Contact Form","url": "https://turis-tv.github.io/Ana-Menu/1-ContactForm/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "adult","type": "Live"},
 
 {"name":"Penthouse Reality","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993","logo": " ","category": "adult","subCategory": "Live"},
 {"name":"Babes","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48994","logo": " ","category": "adult","subCategory": "Live"},
@@ -305,6 +305,7 @@
 ]
 
  
+
 
 
 
