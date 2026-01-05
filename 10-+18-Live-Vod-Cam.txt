@@ -1,5 +1,15 @@
 [
 
+    {
+        "name": "Deze film opent met MX Player",
+        "url": "https://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48992",
+        "logo": "...",
+        "category": "film",
+        "openWith": "mx"
+    },
+
+
+
     {"name":"Kanaal via VLC","url": "https://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48992", "logo": " ","category": "adult","subCategory": "Live", "playerType": "vlc"},
 
 
@@ -326,6 +336,7 @@
 ]
 
  
+
 
 
 
