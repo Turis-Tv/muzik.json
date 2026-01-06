@@ -1,68 +1,13 @@
 [
 
-    {
-        "name": "tttttttt",
-        "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993",
-        "logo": "...",
-        "category": "Tur",
-        "subCategory": "Tu",
-        "openWith": "km"
-    },
+
+
+
+    {"name": "vlc","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993","logo": "...","category":            "adult","subCategory": "Live","openWith": "vlc"},
 
 
 
 
-    {
-        "name": "km",
-        "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993",
-        "logo": "...",
-        "category": "adult",
-        "subCategory": "Live",
-        "openWith": "km"
-    },
-
-
-
-    {
-        "name": "wuffy",
-        "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993",
-        "logo": "...",
-        "category": "adult",
-        "subCategory": "Live",
-        "openWith": "wuffy"
-    },
-
-
-
-    {
-        "name": "vlc",
-        "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993",
-        "logo": "...",
-        "category": "adult",
-        "subCategory": "Live",
-        "openWith": "vlc"
-    },
-
-
-
-    {
-        "name": "oplayer",
-        "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993",
-        "logo": "...",
-        "category": "adult",
-        "subCategory": "Live",
-        "openWith": "oplayer"
-    },
-
-
-    {
-        "name": "mx",
-        "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993",
-        "logo": "...",
-        "category": "adult",
-        "subCategory": "Live",
-        "openWith": "mx"
-    },
 
 
 
@@ -70,26 +15,14 @@
 
 
 
-    {
-        "name": "Turis extern (opent met OPlayer)",
-        "url": "https://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48992",
-        "logo": " ",
-        "category": "adult",
-        "subCategory": "Live",
-        "openWith": "oplayer"
-    },
-
-
-
-
-
-
- 
-{"name":"ttt ","url": "https://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48992","logo": " ","category": "adult","subCategory": "Live"},
  
 
 
-{"name":"Penthouse 1 ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48992","logo": " ","category": "adult","subCategory": "Live"},
+
+
+
+
+  
 
 {"name":"Penthouse Reality","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993","logo": " ","category": "adult","subCategory": "Live"},
 {"name":"Babes","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48994","logo": " ","category": "adult","subCategory": "Live"},
@@ -385,13 +318,36 @@
 {"name":"🎥 Miami TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8"},
 
 
+
+
+
+
 {"name":"PORNOS","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4"},
 {"name":"VOD2","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4"},
+
+
+
+    {"name": "tttttttt","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993","logo": "...","category":       "Tur","subCategory": "Tu","openWith": "km"},
+
+    {"name": "km","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993","logo": "...","category":             "adult","subCategory": "Live","openWith": "km"},
+
+    {"name": "wuffy","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993","logo": "...","category":          "adult","subCategory": "Live","openWith": "wuffy"},
+
+    {"name": "oplayer","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993","logo": "...","category":       "adult","subCategory": "Live","openWith": "oplayer"},
+
+    { "name": "mx","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993","logo": "...","category":             "adult","subCategory": "Live","openWith": "mx"},
+
+
+
+
+
+
 {"name":"💋 XXX Website","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"https://nl.pornhub.com"}
 
 ]
 
  
+
 
 
 
