@@ -1,5 +1,16 @@
 [
 
+    {
+        "name": "km",
+        "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993",
+        "logo": "...",
+        "category": "Tur",
+        "subCategory": "Tu",
+        "openWith": "km"
+    },
+
+
+
 
     {
         "name": "km",
@@ -381,6 +392,7 @@
 ]
 
  
+
 
 
 
