@@ -3,28 +3,9 @@
 
 
 
-    {"name": "vlc","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993","logo": "...","category":            "adult","subCategory": "Live","openWith": "vlc"},
-
-
-
-
-
-
-
-    {"name":"Kanaal via VLC","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993", "logo": " ","category": "adult","subCategory": "Live", "playerType": "vlc"},
-
-
+    {"name": "Penthouse Reality","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 
  
-
-
-
-
-
-
-  
-
-{"name":"Penthouse Reality","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993","logo": " ","category": "adult","subCategory": "Live"},
 {"name":"Babes","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48994","logo": " ","category": "adult","subCategory": "Live"},
 
 {"name":"BangU","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48995","logo": " ","category": "adult","subCategory": "Live"},
@@ -347,6 +328,7 @@
 ]
 
  
+
 
 
 
