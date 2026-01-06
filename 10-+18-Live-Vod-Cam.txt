@@ -1,5 +1,49 @@
 [
 
+
+    {
+        "name": "vlc",
+        "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993",
+        "logo": "...",
+        "category": "adult",
+        "subCategory": "Live",
+        "openWith": "km"
+    },
+
+
+
+    {
+        "name": "vlc",
+        "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993",
+        "logo": "...",
+        "category": "adult",
+        "subCategory": "Live",
+        "openWith": "wuffy"
+    },
+
+
+
+    {
+        "name": "vlc",
+        "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993",
+        "logo": "...",
+        "category": "adult",
+        "subCategory": "Live",
+        "openWith": "vlc"
+    },
+
+
+
+    {
+        "name": "oplayer",
+        "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993",
+        "logo": "...",
+        "category": "adult",
+        "subCategory": "Live",
+        "openWith": "oplayer"
+    },
+
+
     {
         "name": "Tur",
         "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993",
@@ -337,6 +381,7 @@
 ]
 
  
+
 
 
 
