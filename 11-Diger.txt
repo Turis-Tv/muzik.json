@@ -7,6 +7,10 @@
 
 {"name": "Mp3 Dinle","url": "https://turis-tv.github.io/2026-Menu/3-Mp3/1-Mp3-Playlist/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
 
+{"name": "Youtube Reklamsiz","url": "https://www.youtube.com/watch?v=FahlRE8G2mM","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+
+
+
 
 
 {"name": "Oyunlar","url": "https://1001oyun.io/?gad_source=1&gad_campaignid=22499880196","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
@@ -50,6 +54,7 @@
 
 
 ]
+
 
 
 
