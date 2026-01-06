@@ -4,7 +4,7 @@
   "name": "Contact Form",
   "url": "https://turis-tv.github.io/Ana-Menu/1-ContactForm/index.html",
   "logo": "https://img.icons8.com/fluency/96/link.png",
-  "category": "diger",
+  "category": "TV",
   "type": "link"
 },
 
@@ -454,6 +454,7 @@
 
 
 ]
+
 
 
 
