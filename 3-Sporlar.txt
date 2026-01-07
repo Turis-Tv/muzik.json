@@ -4,105 +4,167 @@
 
     {"name": "beIN Sport 2 ","url": "https://biraz.6781237.xyz/checklist/androstreamlivebs2.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
+    {"name": "beIN Sport 3 ","url": "https://biraz.6781237.xyz/checklist/androstreamlivebs3.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
+  {"name": "beIN Sport 4","url": "https://biraz.6781237.xyz/checklist/androstreamlivebs4.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
- {"name":"beIN Sport 3 ","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://biraz.6781237.xyz/checklist/androstreamlivebs3.m3u8 "},
- {"name":"beIN Sport 4 ","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://biraz.6781237.xyz/checklist/androstreamlivebs4.m3u8"},
- {"name":"beIN Sport 5 ","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://biraz.6781237.xyz/checklist/androstreamlivebs5.m3u8"},
- {"name":"beIN Sport Max 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://biraz.6781237.xyz/checklist/androstreamlivebsm1.m3u8"},
- {"name":"beIN Sport Max 2","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://biraz.6781237.xyz/checklist/androstreamlivebsm2.m3u8 "},
- {"name":"S Sport 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://biraz.6781237.xyz/checklist/androstreamlivess1.m3u8"},
- {"name":"Tivibu Sport","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://biraz.6781237.xyz/checklist/androstreamlivets.m3u8"},
- {"name":"Tivibu Sport 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://biraz.6781237.xyz/checklist/androstreamlivets1.m3u8"},
- {"name":"S Sport 2","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://biraz.6781237.xyz/checklist/androstreamlivess2.m3u8"},
- {"name":"Tivibu Sport 2","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://biraz.6781237.xyz/checklist/androstreamlivets2.m3u8"},
- {"name":"Tivibu Sport 3","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://biraz.6781237.xyz/checklist/androstreamlivets3.m3u8"},
- {"name":"Tivibu Sport 4","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://biraz.6781237.xyz/checklist/androstreamlivets4.m3u8"},
- {"name":"Smart Sport 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://biraz.6781237.xyz/checklist/androstreamlivesm1.m3u8"},
- {"name":"Smart Sport 2","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":" "},
- {"name":"Euro Sport 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://biraz.6781237.xyz/checklist/androstreamlivees1.m3u8"},
- {"name":"Euro Sport 2","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://biraz.6781237.xyz/checklist/androstreamlivees2.m3u8"},
- {"name":"Tabii","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://biraz.6781237.xyz/checklist/androstreamlivetb.m3u8"},
- {"name":"Tabii 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://biraz.6781237.xyz/checklist/androstreamlivetb1.m3u8"},
- {"name":"Tabii 2","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://biraz.6781237.xyz/checklist/androstreamlivetb2.m3u8"},
- {"name":"Tabii 3","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://biraz.6781237.xyz/checklist/androstreamlivetb3.m3u8"},
- {"name":"Tabii 4","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://biraz.6781237.xyz/checklist/androstreamlivetb4.m3u8"},
- {"name":"Tabii 5","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://biraz.6781237.xyz/checklist/androstreamlivetb5.m3u8"},
- {"name":"Tabii 6","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://biraz.6781237.xyz/checklist/androstreamlivetb6.m3u8"},
- {"name":"Tabii 7","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://biraz.6781237.xyz/checklist/androstreamlivetb7.m3u8"},
- {"name":"Tabii 8","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://biraz.6781237.xyz/checklist/androstreamlivetb8.m3u8"},
- {"name":"Cnb","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://biraz.6781237.xyz/checklist/androstreamliveexn.m3u8"},
- {"name":"Cnb Sport","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://biraz.6781237.xyz/checklist/androstreamliveexn1.m3u8"},
+  {"name": "beIN Sport 5","url": "https://biraz.6781237.xyz/checklist/androstreamlivebs5.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
+  {"name": "beIN Sport Max 1","url": "https://biraz.6781237.xyz/checklist/androstreamlivebsm1.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
+  {"name": "beIN Sport Max 2","url": "https://biraz.6781237.xyz/checklist/androstreamlivebsm2.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
+  {"name": "S Sport 1","url": "https://biraz.6781237.xyz/checklist/androstreamlivess1.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
+  {"name": "Tivibu Sport","url": "https://biraz.6781237.xyz/checklist/androstreamlivets.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
+  {"name": "Tivibu Sport 1","url": "https://biraz.6781237.xyz/checklist/androstreamlivets1.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
- {"name":"Your Time ","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://hls.yourtime.live/hls/stream.m3u8"},
+  {"name": "S Sport 2","url": "https://biraz.6781237.xyz/checklist/androstreamlivess2.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
+  {"name": "Tivibu Sport 2","url": "https://biraz.6781237.xyz/checklist/androstreamlivets2.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
+  {"name": "Tivibu Sport 3","url": "https://biraz.6781237.xyz/checklist/androstreamlivets3.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
+  {"name": "Tivibu Sport 4","url": "https://biraz.6781237.xyz/checklist/androstreamlivets4.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
+  {"name": "Smart Sport 1","url": "https://biraz.6781237.xyz/checklist/androstreamlivesm1.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
+  {"name": "Smart Sport 2","url": "https://biraz.6781237.xyz/checklist/androstreamlivees1.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
+  {"name": "Euro Sport 1","url": "https://biraz.6781237.xyz/checklist/androstreamlivees1.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
+  {"name": "Euro Sport 2","url": "https://biraz.6781237.xyz/checklist/androstreamlivees2.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
- {"name":"Your Time ","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://hls.yourtime.live/hls/stream.m3u8"},
+ {"name": "Tabii","url": "https://biraz.6781237.xyz/checklist/androstreamlivetb.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
- {"name":"Spor Smart 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/121246"},
-{"name":"Spor Smart 2","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/113272"},
-{"name":"EuroSport 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6106"},
-{"name":"EuroSport 2","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6107"},
-{"name":"S Sport 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/115598"},
-{"name":"S Sport 2","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6105"},
-{"name":"S Live","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/137713"},
-{"name":"S Live 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/137714"},
-{"name":"S Live 2","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/137715"},
-{"name":"Sport +","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/137716"},
-{"name":"S Sport","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/137717"},
-{"name":"Tivibu 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6101"},
-{"name":"Tivibu 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6102"},
-{"name":"Tivibu 2","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6103"},
-{"name":"Tivibu 3","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/113254"},
-{"name":"Tivibu 3","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/115600"},
-{"name":"Exxen","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/453643"},
-{"name":"Exxen 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/452750"},
-{"name":"Exxen 2","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/469839"},
-{"name":"Exxen 3","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/452754"},
-{"name":"Exxen 4","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/452755"},
-{"name":"Tabii","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/454312"},
-{"name":"Tabii 2","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/454316"},
-{"name":"HT Sport","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/462482"},
-{"name":"Fil Spor","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/372624"},
-{"name":"Fil Spor 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/372625"},
-{"name":"Fil Spor 2","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/372626"},
-{"name":"Fil Spor 3","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/372627"},
+  {"name": "Tabii 1","url": "https://biraz.6781237.xyz/checklist/androstreamlivetb1.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
-{"name":"Trt Yildiz","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/353402"},
-{"name":"Nba","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6111"},
-{"name":"A Spor","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6113"},
-{"name":"TJK","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6117"},
-{"name":"Fight TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/371591"},
-{"name":"Sports TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20772"},
-{"name": "TRT SPOR1","url": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/TRT_SPOR_logo_2021.svg/1200px-TRT_SPOR_logo_2021.svg.png","category": "spor","subCategory": "Canlı"},
-{"name":"Ekol Spots","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/531173"},
-{"name":"TRT SPOR","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6109"},
-{"name":"TRT YILDIZ","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/353402"},
-{"name":"BEIN SPOR 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs1.m3u8"},
-{"name":"BEIN SPOR 2","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://cdn-8878.varplaycdn.cfd/602/tracks-v1a1/mono.m3u8"},
-{"name":"BEIN SPOR 3","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://cdn-8878.varplaycdn.cfd/603/tracks-v1a1/mono.m3u8"},
-{"name":"BEIN SPOR 4","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://cdn-8878.varplaycdn.cfd/604/tracks-v1a1/mono.m3u8"},
-{"name":"BEIN SPOR 5","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://one.6c53c716e5c951f6.click/live/selcukbeinsports5/playlist.m3u8?_HLS_skip=YES"},
-{"name":"BEIN SPOR 5","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://alfaromeo.zirvedesin22.sbs/yayinb5.m3u8"},
-{"name":"BEIN MAX","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://one.6c53c716e5c951f6.click/live/selcukbeinsportsmax1/playlist.m3u8?_HLS_skip=YES"},
-{"name":"BEIN MAX 2","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://alfaromeo.zirvedesin22.sbs/yayinbm2.m3u8"},
-{"name":"SPORTS TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://live.sportstv.com.tr/hls/low/sportstv.m3u8"},
-{"name":"TJK TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"spor","subCategory":"Canlı","url":"https://tjktv-live.tjk.org/tjktv.m3u8"}
+  {"name": "Tabii 2","url": "https://biraz.6781237.xyz/checklist/androstreamlivetb2.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "Tabii 3","url": "https://biraz.6781237.xyz/checklist/androstreamlivetb3.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+  {"name": "Tabii 4","url": "https://biraz.6781237.xyz/checklist/androstreamlivetb4.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+  {"name": "Tabii 5","url": "https://biraz.6781237.xyz/checklist/androstreamlivetb5.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "Tabii 6","url": "https://biraz.6781237.xyz/checklist/androstreamlivetb6.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+  {"name": "Tabii 7","url": "https://biraz.6781237.xyz/checklist/androstreamlivetb7.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+  {"name": "Tabii 8","url": "https://biraz.6781237.xyz/checklist/androstreamlivetb8.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+     {"name": "Cnb","url": "https://biraz.6781237.xyz/checklist/androstreamliveexn.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "Cnb Sport","url": "https://biraz.6781237.xyz/checklist/androstreamliveexn1.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "Your Time ","url": "https://hls.yourtime.live/hls/stream.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "Spor Smart","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/121246","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "Spor Smart 2","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/113272","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+      {"name": "EuroSport 1","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6106","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "EuroSport 2","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6107","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+     {"name": "S Sport 1","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/115598","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "S Sport 2","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6105","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+     {"name": "S Live","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/137713","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "S Live 1","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/137714","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+     {"name": "S Live 2","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/137715","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "Sport +","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/137716","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+     {"name": "S Sport","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/137717","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "Tivibu 1","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6101","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+     {"name": "Tivibu 1","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6102","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "Tivibu 2","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6103","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+ 
+      {"name": "Tivibu 3","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/113254","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "Tivibu 3","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/115600","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+ 
+      {"name": "Exxen","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/453643","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "Exxen 1","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/452750","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+ 
+      {"name": "Exxen 2","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/469839","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "Exxen 3","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/452754","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+ 
+      {"name": "Exxen 4","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/452755","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "Tabii","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/454312","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+ 
+       {"name": "Tabii 2","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/454316","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "HT Sport","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/462482","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+      {"name": "Fil Spor","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/372624","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "Fil Spor 1","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/372625","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+      {"name": "Fil Spor 2","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/372626","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "Fil Spor 3","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/372627","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+ 
+        {"name": "Trt Yildiz","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/353402","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "Nba","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6111","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+ 
+        {"name": "A Spor","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6113","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "TJK","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6117","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+ 
+        {"name": "Fight TV","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/371591","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "Sports TV","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20772","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+ 
+        {"name": "TRT SPOR1","url": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "Ekol Spots","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/531173","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+ 
+          {"name": "TRT SPOR","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6109","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "TRT YILDIZ","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/353402","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+ 
+          {"name": "BEIN SPOR 1","url": "https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs1.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "BEIN SPOR 2","url": "https://cdn-8878.varplaycdn.cfd/602/tracks-v1a1/mono.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+ 
+          {"name": "BEIN SPOR 3","url": "https://cdn-8878.varplaycdn.cfd/603/tracks-v1a1/mono.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "BEIN SPOR 4","url": "https://cdn-8878.varplaycdn.cfd/604/tracks-v1a1/mono.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+ 
+          {"name": "BEIN SPOR 5","url": "https://one.6c53c716e5c951f6.click/live/selcukbeinsports5/playlist.m3u8?_HLS_skip=YES","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "BEIN SPOR 5","url": "https://alfaromeo.zirvedesin22.sbs/yayinb5.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+ 
+          {"name": "BEIN MAX","url": "https://one.6c53c716e5c951f6.click/live/selcukbeinsportsmax1/playlist.m3u8?_HLS_skip=YES","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "BEIN MAX 2","url": "https://alfaromeo.zirvedesin22.sbs/yayinbm2.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+ 
+            {"name": "SPORTS TV","url": "https://live.sportstv.com.tr/hls/low/sportstv.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "TJK TV","url": "https://tjktv-live.tjk.org/tjktv.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"}
+ 
+   
+ 
+  
+     
  
 
 
 ]
+
 
 
 
