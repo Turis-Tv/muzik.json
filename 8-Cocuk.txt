@@ -30,21 +30,26 @@
 
 {"name":"Disney Channel HD","logo":"https://i.imgur.com/jB7c7fM.png","category":"cocuk","subCategory":"","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20416"},
 
-{"name":"Disney Junior HD","logo":"https://i.imgur.com/jB7c7fM.png","category":"cocuk","subCategory":"","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6236"},
 
-
-{"name":"Masa ile Koca Ayi","logo":"https://i.imgur.com/jB7c7fM.png","category":"cocuk","subCategory":"","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6238"},
-
- {"name": "Pepe TV HD","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6241","logo": "...","category":       "cocuk","subCategory": "","openWith": "oplayer"},
+ {"name": "Disney Junior HD","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6236","logo": "...","category":"cocuk","subCategory": "","openWith": "oplayer"},
 
 
 
+ {"name": "Masa ile Koca Ayi","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6238","logo": "...","category":"cocuk","subCategory": "","openWith": "oplayer"},
 
-{"name":"TRT COCUK","logo":"https://i.imgur.com/jB7c7fM.png","category":"cocuk","subCategory":"","url":"https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"}
+
+
+ {"name": "Pepe TV HD","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6241","logo": "...","category":"cocuk","subCategory": "","openWith": "oplayer"},
+
+
+ {"name": "TRT COCUK","url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8","logo": "...","category":"cocuk","subCategory": "","openWith": "oplayer"}
+
+
 
 
 
 
 ]
+
 
 
