@@ -20,7 +20,14 @@
 },
 {"name": "Ana Sayfa","url": "https://turis-tv.github.io/2026-Appcreator/","logo": "https://img.icons8.com/fluency/96/link.png","category": "ulusal","type": "TV"},
 
-
+  {
+    "name": "TTTTTTTT",
+    "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+    "logo": "...",
+    "category": "ulusal",
+    "subCategory": "TV",
+    "openWith": "vlc" 
+  }
 
 
 
@@ -389,6 +396,7 @@
 
 
 ]
+
 
 
 
