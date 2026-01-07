@@ -3,14 +3,14 @@
  
 
 
+ {"name": "Caillou","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/28933","logo": "...","category":          "cocuk","subCategory": "","openWith": "wuffy"},
 
 
 
 
 
 
-
-{"name":"Caillou","logo":"https://i.imgur.com/jB7c7fM.png","category":"cocuk","subCategory":"","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/28933"},
+{"name":"","logo":"https://i.imgur.com/jB7c7fM.png","category":"cocuk","subCategory":"","url":""},
 
 
 
@@ -50,6 +50,7 @@
 
 
 ]
+
 
 
 
