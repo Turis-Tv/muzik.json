@@ -136,8 +136,7 @@
  
 
 
-  {"name": "A2","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6268",
-"logo":"...","category":"ulusal","subCategory":"TV","openWith":"vlc",},
+
 
 
  
@@ -469,6 +468,7 @@
 
 
 ]
+
 
 
 
