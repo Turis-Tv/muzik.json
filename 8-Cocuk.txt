@@ -35,9 +35,8 @@
 
 {"name":"Masa ile Koca Ayi","logo":"https://i.imgur.com/jB7c7fM.png","category":"cocuk","subCategory":"","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6238"},
 
+ {"name": "Pepe TV HD","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6241","logo": "...","category":       "cocuk","subCategory": "","openWith": "oplayer"},
 
-
-{"name":"Pepe TV HD","logo":"https://i.imgur.com/jB7c7fM.png","category":"cocuk","subCategory":"","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6241"},
 
 
 
@@ -47,4 +46,5 @@
 
 
 ]
+
 
