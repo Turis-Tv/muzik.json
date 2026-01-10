@@ -3,7 +3,7 @@
 
  
 
-{"name": "Exotica","url": "https://anym3u8player.com/youtube.php/id/68f4acd0082ad.m3u8","logo": "...","category": " ","subCategory": "haber","openWith": "vlc"},
+{"name": "Cnn Türk","url": "https://anym3u8player.com/youtube.php/id/68f4acd0082ad.m3u8","logo": "...","category": " ","subCategory": "haber","openWith": "vlc"},
 
 
 
@@ -170,5 +170,6 @@
 
 
 ]
+
 
 
