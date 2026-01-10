@@ -1,166 +1,48 @@
 
 [
 
- {"name": "Penthouse Reality 1","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48992","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-{
-  "name": "Contact Form",
-  "url": "https://turis-tv.github.io/Ana-Menu/1-ContactForm/index.html",
-  "logo": "https://img.icons8.com/fluency/96/link.png",
-  "category": "TV",
-  "type": "link"
-},
 
 
+{"name": "Contact Form","url": "https://turis-tv.github.io/Ana-Menu/1-ContactForm/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "TV","type": "link"},
 
-    {"name": "Penthouse Reality","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-{
-    "name": "Intern Kanaal Test",
-    "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
-    "logo": "...",
-    "category": "Ulusal",
-    "subCategory": "TV",
-    "openWith": "popup"
-},
+{"name": "Penthouse Reality 1","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48992","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
+{"name": "Penthouse Reality","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
+{"name": "Exotica","url": "http://31.148.48.15:80/O-la-la/index.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
+{"name": "Playboy","url": "http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
+ 
+
+
 {"name": "Ana Sayfa","url": "https://turis-tv.github.io/2026-Appcreator/","logo": "https://img.icons8.com/fluency/96/link.png","category": "ulusal","type": "TV"},
+{"name": "Babes","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48994","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
+{"name": "BangU","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48995","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
+{"name": "Blue Hustler","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48997","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
+{"name": "Brazzers","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48998","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
+{"name": "Dorcel","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48999","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
+{"name": "Erox","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49001","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
+{"name": "Eroxxx","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49002","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
+{"name": "Evil Angel","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49003","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
+{"name": "Extasy","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49004","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
+{"name": "Fantazzy","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49005","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
+{"name": "Hustler","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49007","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
+{"name": "Playboy","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49008","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
+{"name": "Private","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49009","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
+{"name": "Pure Babes","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49010","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
+{"name": "Reality Kings","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49011","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
+{"name": "Redlight","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49012","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
+{"name": "Vivid Red","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49013","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
+{"name": "Super One","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49014","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
+{"name": "XY plus","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49015","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
+{"name": "XY max","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49016","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
+{"name": "XY mix","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49017","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 
 
-    {"name": "Babes","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48994","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-    {"name": "BangU","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48995","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 
-
-
-    {"name": "Blue Hustler","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48997","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-{"name":"Trt 1","url": "https://tv-trt1.medya.trt.com.tr/master.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"},
-{"name":"Trt 1","url": "https://trt.daioncdn.net/trt-1/master.m3u8?app=web","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"},
-
-    {"name": "Brazzers","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48998","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
- 
-{"name": "Trt 1","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/358053","logo": "...","category": "ulusal","subCategory": "TV","openWith": "vlc"},
-{"name": "Trt 1","url": "https://streams.uzunmuhalefet.com/stream/535f4f5a-3ffa-4919-bb5d-5d31024c9237.m3u8","logo": "...","category":"ulusal","subCategory": "TV","openWith": "km"},
-
-    {"name": "Dorcel","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48999","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-{"name":"Trt 1","url": "","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"}, 
-{"name":"Trt 1","url": "https://tv-trt1.medya.trt.com.tr/master.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"},  
-{"name":"Trt 1","url": "http://87.246.54.249:8080/TRT1/index.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"},
-
-    {"name": "Erox","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49001","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-{"name":"Trt 1","url": "https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=7uqvag61gnys&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"},
-
-    {"name": "Eroxxx","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49002","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-
-    {"name": "Evil Angel","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49003","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-{"name":"Tabii 1","url": "https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"},
-
-    {"name": "Extasy","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49004","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
- 
-
-    {"name": "Fantazzy","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49005","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-
+{"name": "","url": "http://","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
   
-{"name":"Atv","url": "http://87.246.54.249:8080/ATV/index.m3u8","logo": "https://i.imgur.com/jB7c7fM.png","category": "ulusal","subCategory": "TV"},
-{"name":"Atv","url": "http://116.202.238.88/ATV_TR/index.m3u8","logo": "https://i.imgur.com/jB7c7fM.png","category": "ulusal","subCategory": "TV"},
-{"name":"Atv","url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8","logo": "https://i.imgur.com/jB7c7fM.png","category": "ulusal","subCategory": "TV"},
-{"name":"Atv","url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8","logo": "https://i.imgur.com/jB7c7fM.png","category": "ulusal","subCategory": "TV"},
- 
-{"name":"Atv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6266","logo": "https://i.imgur.com/jB7c7fM.png","category": "ulusal","subCategory": "TV"},
-{"name":"Atv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192065","logo": "https://i.imgur.com/jB7c7fM.png","category": "ulusal","subCategory": "TV"},
-{"name":"Atv","url": "http://89.187.191.41/ATV-HD-TR/video.m3u8","logo": "https://i.imgur.com/jB7c7fM.png","category": "ulusal","subCategory": "TV"},
-{"name":"Atv","url": "http://95.174.71.114:80/TR-ATV/index.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
-{"name":"Atv","url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
-{"name":"Atv","url": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
-
-{"name":"Atv Eu","url": "http://116.202.238.88/dvrfl05/gin-atvavrupa/playlist.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"}, 
-
-    {"name": "Hustler","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49007","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-
-    {"name": "Playboy","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49008","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-
-    {"name": "Private","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49009","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-{"name":"Kanal D","url": "https://tatatam.trt1sultanfatihss.workers.dev/https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
- 
-{"name":"Kanal D","url": "https://streams.uzunmuhalefet.com/stream/6bdc8fb5-3e82-4b44-a0b1-6ab9fdc35d3f.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
-{"name":"Kanal D","url": "https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
-{"name":"Kanal D","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6275","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
- 
-{"name":"Kanal D","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192068","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
- 
-{"name":"Kanal D","url": "http://95.174.71.114:80/TR-KANAL-D/index.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
-{"name":"Kanal D","url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
-{"name":"Kanal D","url": "http://87.246.54.249:8080/KanalD/index.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
-{"name":"Kanal D","url": "http://116.202.238.88/KANALD_TR/index.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
-
-    {"name": "Pure Babes","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49010","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-
-    {"name": "Reality Kings","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49011","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-{"name":"Euro D","url": "https://viamotionhsi.netplus.ch/live/eds/eurod/browser-HLS8/eurod.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
-{"name":"Euro D","url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
-{"name":"Euro D","url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
-{"name":"Euro D","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/102083","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
-{"name":"Euro D","url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
-
-    {"name": "Redlight","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49012","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-
-    {"name": "Vivid Red","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49013","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-{"name":"Star Tv","url": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7w0v4blzrjky&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=M3U8","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Star Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6270","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Star Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192066","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Star Tv","url": "http://95.174.71.114:80/TR-STAR/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
- 
-{"name":"Star Tv","url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Star Tv","url": "http://95.174.71.114/TR-STAR/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Star Tv","url": "http://dygvideo.dygdigital.com/live/hls/stardai?m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Star Tv","url": "http://87.246.54.249:8080/StarTV/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Star Tv","url": "http://116.202.238.88/STARTV_TR/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
- 
- 
- 
-{"name":"Eu Star","url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
- 
-
-    {"name": "Super One","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49014","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-
-    {"name": "XY plus","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49015","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-      {"name": "XY max","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49016","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-      {"name": "XY mix","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49017","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-      {"name": "","url": "http://","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-  
-{"name":"Show Türk","url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
- 
-
-{"name":"Show Max","url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Show Max","url": "http://95.174.71.114:80/TR-SHOW-MAX/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Show Max","url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+ {"name": "Intern Kanaal Test","url": "https://tv-trt1.medya.trt.com.tr/master.m3u8","logo": "...","category": "Ulusal","subCategory": "TV","openWith": "popup"},
 
 
 
-{"name":"Show Tv","url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Show Tv","url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Show Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6273","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Show Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192067","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Show Tv","url": "http://95.174.71.114:80/TR-SHOW/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Show Tv","url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-
-{"name":"Show Tv","url": "http://116.202.238.88/SHOWTV_TR/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-
- 
-
-{"name":"Kanal Avrupa","url": "https://trn03.tulix.tv/gt-kanalavrupa/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-
-
-
-
-{"name":"Now Tv","url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Now Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6276","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Now Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/358052","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Now Tv","url": "http://87.246.54.249:8080/NOW/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Now Tv","url": "http://116.202.238.88/FOXTV_TR/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Now Tv","url": "http://95.174.71.114:80/TR-FOX/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Now Tv","url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
- 
-
-
-
-{"name":"Exotica","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"http://31.148.48.15:80/O-la-la/index.m3u8"},
 
 
 
@@ -206,7 +88,7 @@
 {"name":"Miami TV Jenny","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8"},
 
 
-{"name":"Playboy","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8"},
+
 
 
 
@@ -408,7 +290,6 @@
 
 
 ]
-
 
 
 
