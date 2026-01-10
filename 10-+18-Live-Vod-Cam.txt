@@ -96,7 +96,7 @@
   
  {"name": "Intern Kanaal Test","url": "https://tv-trt1.medya.trt.com.tr/master.m3u8","logo": "...","category": "Ulusal","subCategory": "TV","openWith": "popup"},
 
-
+ {"name": "Intern Kanaal Test","url": "https://tv-trt1.medya.trt.com.tr/master.m3u8","logo": "...","category": "Ulusal","subCategory": "TV","openWith": "wuffy"},
 
 
 
