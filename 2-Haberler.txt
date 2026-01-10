@@ -3,7 +3,7 @@
 
  
 
-{"name": "Cnn Türk","url": "https://anym3u8player.com/youtube.php/id/68f4acd0082ad.m3u8","logo": "...","category": "haber ","subCategory": " ","openWith": "vlc"},
+{"name": "Cnn Tür ","url": "https://anym3u8player.com/youtube.php/id/68f4acd0082ad.m3u8","logo": "...","category": "haber ","subCategory": " ","openWith": "vlc"},
 
 
 
@@ -170,6 +170,7 @@
 
 
 ]
+
 
 
 
