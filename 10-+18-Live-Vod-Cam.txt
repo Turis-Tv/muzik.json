@@ -62,7 +62,7 @@
  
 
 
-{"name": "Penthouse Reality 1 ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48992","logo": "...","category":"adult","subCategory": "Wuffy","openWith": "wuffy"},
+{"name": "Penthouse Reality 1 ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48992","logo": "...","category":"Wuffy","subCategory": "Wuffy","openWith": "wuffy"},
 {"name": "Penthouse Reality ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993","logo": "...","category":"adult","subCategory": "Wuffy","openWith": "wuffy"},
 {"name": "Exotica ","url": "http://31.148.48.15:80/O-la-la/index.m3u8","logo": "...","category":"adult","subCategory": "Wuffy","openWith": "wuffy"},
 {"name": "Playboy ","url": "http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8","logo": "...","category":"adult","subCategory": "Wuffy","openWith": "wuffy"},
@@ -136,6 +136,7 @@
 {"name":"Ebony","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://live.mycamtv.com/medium.m3u8"},
 {"name":"Skinny","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://live.mycamtv.com/arab.m3u8"},
 {"name":"Squirt","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://live.mycamtv.com/squirt.m3u8"},
+{"name":"Fundarado","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"http://live.redtraffic.xyz/fetish.m3u8"},
 {"name":"White","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"https://live.mycamtv.com/white.m3u8"},
 {"name":"XXL","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"http://live.redtraffic.xyz/teen.m3u8"},
 {"name":"REDLIGHT","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"http://live.redtraffic.xyz/pornstar.m3u8"},
@@ -148,7 +149,7 @@
 
 
 
-{"name":"Fundarado","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Live","url":"http://live.redtraffic.xyz/fetish.m3u8"},
+
 {"name":"Pornos","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4"},
 {"name":"XXX 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"https://ovhv47.twincdn.com/videos/32/32190/32190_720p.mp4"},
 {"name":"XXX 2","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"http://ovhv40.twincdn.com/videos/prime/00/01/92/99.mp4"},
@@ -293,15 +294,10 @@
 {"name":"XXX 140","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"https://sexo18.net/content/2019/februar/shaved-mira-stone-servicing-white-dude.mp4"},
 
 {"name":"Vod 2","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4"},
-
 {"name":"Vod 3","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4"},
-
 {"name":"Vod 4","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4"},
-
 {"name":"Vod 5","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4"},
-
 {"name":"Vod 6","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4"},
- 
 {"name":"Vod 7","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4"},
 {"name":"Vod 8","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4"},
 {"name":"Vod 9","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4"},
@@ -314,7 +310,7 @@
 
 
 
- {"name":"🎥Live Cams","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://cdn.adultiptv.net/livecams.m3u8"},
+{"name":"🎥Live Cams","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://cdn.adultiptv.net/livecams.m3u8"},
 {"name":"🎥 White","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/white.m3u8"},
 {"name":"🎥 White","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/white.m3u8"},
 {"name":"🎥 Squirt","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/squirt.m3u8"},
