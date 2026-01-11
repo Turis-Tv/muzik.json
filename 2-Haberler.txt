@@ -10,13 +10,18 @@
 {"name": "Cnn Türk ","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6210","logo": "...","category": "haber ","subCategory": " ","openWith": "vlc"},
 
 {"name": "Cnn Türk ","url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8","logo": "...","category": "haber ","subCategory": " ","openWith": "vlc"},
+
+
  
- 
+ {"name": "A Haber","url": "http://stream.tvcdn.net/haber/a-haber.m3u8","logo": "...","category": "haber ","subCategory": " ","openWith": "vlc"},
   
 
-  {"name": "A Haber","url": "http://stream.tvcdn.net/haber/a-haber.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
+ 
+
   {"name": "A Haber","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20768","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
+
   {"name": "A Haber","url": "https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=SuvEmRnFpAsxxCngY3uWcQ&e=1760529751","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
+
   {"name": "A Haber","url": "https://anym3u8player.com/youtube.php/id/68f4c967d2678.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
   
  
@@ -172,6 +177,7 @@
 
 
 ]
+
 
 
 
