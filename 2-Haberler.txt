@@ -60,7 +60,7 @@
  
 
 
-{"name": "Ntv","url": "https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
+
 
 {"name": "Ntv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/101114","logo": "...","category": "haber ","subCategory": " ","openWith": "vlc"},
 
@@ -81,7 +81,7 @@
 
   {"name": "Haber Türk","url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
 
-  {"name": "Haber Türk","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6212","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
+{"name": "Haber Türk","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6212","logo": "...","category": "haber ","subCategory": " ","openWith": "vlc"},
 
   {"name": "Haber Türk","url": "https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
 
@@ -95,7 +95,7 @@
 
 {"name": "Trt Haber","url": "https://tv-trthaber.medya.trt.com.tr/master_360.m3u8?start=LIVE&end=END","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
 
-{"name": "Trt Haber","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6208","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
+{"name": "Trt Haber","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6208","logo": "...","category": "haber ","subCategory": " ","openWith": "vlc"},
 
 {"name": "Trt Haber","url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
  
@@ -111,9 +111,11 @@
 
 {"name": "Tvnet","url": "https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8?start=LIVE&end=END","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
 
+
+
 {"name": "Haber Global","url": "https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
 
-{"name": "Haber Global","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6219","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
+{"name": "Haber Global","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6219","logo": "...","category": "haber ","subCategory": " ","openWith": "vlc"},
 
  {"name": "Haber Global","url": "https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
 
@@ -133,59 +135,51 @@
 
 {"name": "Krt","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/101118","logo": "...","category": "haber ","subCategory": " ","openWith": "vlc"},
 
- 
+
+{"name": "360 TV","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/102066","logo": "...","category": "haber ","subCategory": " ","openWith": "vlc"},
 
 
-
-
-  {"name": "Az Haber","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/197037","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
-
-  {"name": "360 TV","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/102066","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
-
-  {"name": "A Para","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6206","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
+{"name": "A Para","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6206","logo": "...","category": "haber ","subCategory": " ","openWith": "vlc"},
 
 
 
 
 
 
- {"name": "Tgrt Eu","url": "http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
 
-
-
-
-
-
-{"name": "Tv 24","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20748","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
 
 {"name": "Tv 24","url": "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
  
 {"name": "Tv 24","url": "https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
 
+{"name": "Tv 24","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20748","logo": "...","category": "haber ","subCategory": " ","openWith": "vlc"},
 
 
 
- {"name": "360 Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/102066","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
 
- {"name": "Bengü Türk","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20811","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
-
- {"name": "Bengü Türk","url": "https://trn03.tulix.tv/gt-benguturk/index.m3u8?start=LIVE&end=END","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
 
  {"name": "Bengü Türk","url": "https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
 
 
- {"name": "Cna","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/103266","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
+{"name": "Bengü Türk","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20811","logo": "...","category": "haber ","subCategory": " ","openWith": "vlc"},
+
+
+
+
+
+
+{"name": "Cna","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/103266","logo": "...","category": "haber ","subCategory": " ","openWith": "vlc"},
 
  
+{"name": "Ekol Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/457710","logo": "...","category": "haber ","subCategory": " ","openWith": "vlc"},
 
 
- {"name": "Ekol Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/457710","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
 
  
+{"name": "Beyaz Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/439458","logo": "...","category": "haber ","subCategory": " ","openWith": "vlc"},
 
 
 
- {"name": "Beyaz Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/439458","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
 
  {"name": "Meclis Tv","url": "https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
 
@@ -196,10 +190,6 @@
  {"name": "TRT World","url": "https://tv-trtworld.medya.trt.com.tr/master_720.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
 
 
-
-
-
- {"name": "Bloomberg","url": "http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
 
  {"name": "Bloomberg","url": "https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?app=web&ce=3","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
 
@@ -216,7 +206,8 @@
 
  {"name": "Halk Tv","url": "https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
 
- {"name": "Halk Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20758","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
+
+{"name": "Halk Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20758","logo": "...","category": "haber ","subCategory": " ","openWith": "vlc"},
 
 {"name": "Halk Tv","url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
 
@@ -227,9 +218,9 @@
 
  {"name": "Tv 100","url": "https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
 
- {"name": "Tv 100","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/200687","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
+{"name": "Tv 100","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/200687","logo": "...","category": "haber ","subCategory": " ","openWith": "vlc"},
 
- {"name": "Tv 100","url": "https://tv100-live.daioncdn.net/tv100/tv100.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
+{"name": "Tv 100","url": "https://tv100-live.daioncdn.net/tv100/tv100.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
 
 
 
@@ -245,19 +236,22 @@
  
 {"name": "Ulusal Haber","url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulusal_Kanal.m3u8","logo": "...","category": "haber ","subCategory": " ","openWith": "vlc"},
 
+
+
+
  {"name": "Tgrt Haber","url": "https://canli.tgrthaber.com/tgrt.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
 
  {"name": "Tgrt Haber","url": "https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
 
  {"name": "Tgrt Haber","url": "https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
 
- {"name": "Tgrt Haber","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6209","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
- 
+{"name": "Tgrt Haber","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6209","logo": "...","category": "haber ","subCategory": " ","openWith": "vlc"},
+
 {"name": "Tgrt Haber","url": "https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8?start=LIVE&end=END","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
 
 {"name": "Tgrt Haber","url": "https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_480p.m3u8?start=LIVE&end=END","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
 
-{"name": "Tgrt Haber","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6209","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png","category": "haber"},
+
 
 
 
@@ -267,6 +261,7 @@
 
 
 ]
+
 
 
 
