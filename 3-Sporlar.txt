@@ -2,9 +2,7 @@
 
  
 
-    {"name": "beIN Sport 2 ","url": "https://biraz.6781237.xyz/checklist/androstreamlivebs2.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
-    {"name": "beIN Sport 3 ","url": "https://biraz.6781237.xyz/checklist/androstreamlivebs3.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
   {"name": "beIN Sport 4","url": "https://biraz.6781237.xyz/checklist/androstreamlivebs4.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
@@ -164,6 +162,7 @@
 
 
 ]
+
 
 
 
