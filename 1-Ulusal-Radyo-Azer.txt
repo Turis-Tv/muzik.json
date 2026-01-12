@@ -157,7 +157,7 @@
 {"name":"Atv","url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
 {"name":"Atv","url": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
 
-{"name":"Atv Eu","url": "http://116.202.238.88/dvrfl05/gin-atvavrupa/playlist.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"}, 
+
 
 
 
@@ -296,7 +296,7 @@
 {"name":"Tv 360","url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
  
  
-{"name":"Trt türk","url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
+{"name":"Trt Türk","url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
 
 {"name":"Trt Avaz","url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},  
 
@@ -323,7 +323,7 @@
  
 {"name":"Erciyes Tv","url": "https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},  
  
-{"name":"Grt1","url": "https://live.artidijitalmedya.com/artidijital_grt/grt1/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},  
+{"name":"Grt 1","url": "https://live.artidijitalmedya.com/artidijital_grt/grt1/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},  
  
 {"name":"Kay Tv","url": "https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},  
  
@@ -335,7 +335,7 @@
 
 {"name":"E Tv","url": "https://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
 
-{"name":"Kentturk Tv","url": "https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
+{"name":"Kent Türk Tv","url": "https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
 
 {"name":"Konya Olay Tv","url": "https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
 
@@ -527,6 +527,7 @@
 
 
 ]
+
 
 
 
