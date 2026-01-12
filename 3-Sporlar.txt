@@ -1,6 +1,54 @@
 [
 
- 
+   {"name": "BEIN SPORT 1","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51596","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "BEIN SPORT 1","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49219","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "SPOR Yildiz","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49220","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "TRT-3 SPOR","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49221","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "SPORTS TV","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49222","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "S SPORT","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49223","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "S SPORT","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49224","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "S Sport 2","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49225","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "TiViBU SPOR 2","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49226","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "TiViBU SPOR 2","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49227","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": " ","url": "https:// ","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": " ","url": "https:// ","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": " ","url": "https:// ","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": " ","url": "https:// ","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": " ","url": "https:// ","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": " ","url": "https:// ","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": " ","url": "https:// ","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": " ","url": "https:// ","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": " ","url": "https:// ","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -134,21 +182,20 @@
 
    {"name": "TRT YILDIZ","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/353402","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
  
-          {"name": "BEIN SPOR 1","url": "https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs1.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-
-   {"name": "BEIN SPOR 2","url": "https://cdn-8878.varplaycdn.cfd/602/tracks-v1a1/mono.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+  
+  
  
-          {"name": "BEIN SPOR 3","url": "https://cdn-8878.varplaycdn.cfd/603/tracks-v1a1/mono.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+  
 
-   {"name": "BEIN SPOR 4","url": "https://cdn-8878.varplaycdn.cfd/604/tracks-v1a1/mono.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
  
-          {"name": "BEIN SPOR 5","url": "https://one.6c53c716e5c951f6.click/live/selcukbeinsports5/playlist.m3u8?_HLS_skip=YES","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-
-   {"name": "BEIN SPOR 5","url": "https://alfaromeo.zirvedesin22.sbs/yayinb5.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
  
-          {"name": "BEIN MAX","url": "https://one.6c53c716e5c951f6.click/live/selcukbeinsportsmax1/playlist.m3u8?_HLS_skip=YES","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+ 
 
-   {"name": "BEIN MAX 2","url": "https://alfaromeo.zirvedesin22.sbs/yayinbm2.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+ 
+ 
+ 
+
+  
  
             {"name": "SPORTS TV","url": "https://live.sportstv.com.tr/hls/low/sportstv.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
@@ -162,6 +209,7 @@
 
 
 ]
+
 
 
 
