@@ -1,5 +1,6 @@
 [
 
+ {"name": "TUTYT TURK TV","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49266","logo": "...","category": "spor","subCategory": "Film","openWith": "vlc"},
 
   
  {"name":"KuzeyMax","logo":"https://i.imgur.com/jB7c7fM.png","category":"film","subCategory":"Film","url":"http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8"},
@@ -21,4 +22,5 @@
 
 
 ]
+
 
