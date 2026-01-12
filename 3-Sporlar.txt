@@ -18,25 +18,90 @@
 
    {"name": "TiViBU SPOR 2","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49226","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
-   {"name": "TiViBU SPOR 2","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49227","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+   {"name": "TiViBU SPOR 1","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49227","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
-   {"name": " ","url": "https:// ","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+   {"name": "TiViBU SPOR 2","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49228","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
-   {"name": " ","url": "https:// ","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+   {"name": "TiViBU SPOR 3","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49229","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
-   {"name": " ","url": "https:// ","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+   {"name": "TIVIBU SPOR 4","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49230","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
-   {"name": " ","url": "https:// ","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+   {"name": "SPOR SMART","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49231","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
-   {"name": " ","url": "https:// ","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+   {"name": "SPOR SMART 2","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49232","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
-   {"name": " ","url": "https:// ","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+   {"name": "Exxen Sport 1","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49233","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
-   {"name": " ","url": "https:// ","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+   {"name": "Exxen Sport 2","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49234","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
-   {"name": " ","url": "https:// ","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+   {"name": "Exxen Sport 3","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49235","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
-   {"name": " ","url": "https:// ","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+   {"name": "Exxen Sport 4","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49236 ","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "Exxen Sport 5","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49237","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "Exxen Sport 6","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49238 ","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "Exxen Sport 7","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49239 ","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "S SPORT PLUS+","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49240","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "S SPORT PLUS+1","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49241","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "S SPORT PLUS+2","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49242 ","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "S SPORT PLUS+3","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49243","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "S SPORT PLUS+4","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49244","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "S SPORT PLUS+5","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49245","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "bein connect 1","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49246","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "bein connect 2","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49247","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "bein connect 3","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49248","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "bein connect 4","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49249","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "bein connect 5","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49250","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "bein connect 6","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49251","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "GS TV","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49252","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "FB TV","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49253","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "BOX WWE SMACKDOWN","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49254","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "BOX KiCKBOKS","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49255","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "beIN SPORTS HABER","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48894","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "TRT SPOR","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48895","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "TRT SPOR","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48896 ","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "TIVIBU SPOR","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48897","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "EUROSPORT 1","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48898","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "EUROSPORT 2","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48899","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "FIGHTBOX","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48900","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "NBA","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48901 ","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "SPOR SMART","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48902","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "Spor Smart 2","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48903","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "A SPOR","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48904","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "T.A.Y TV","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48905","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+ 
+
 
 
 
@@ -209,6 +274,7 @@
 
 
 ]
+
 
 
 
