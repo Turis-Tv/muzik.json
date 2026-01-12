@@ -345,6 +345,8 @@
 
 {"name":"Kanal 26","url": "https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
 
+
+
 {"name":"Kanal 58","url": "https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
 
 {"name":"Sunr Tv","url": "https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
@@ -525,6 +527,7 @@
 
 
 ]
+
 
 
 
