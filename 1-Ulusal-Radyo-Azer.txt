@@ -9,10 +9,10 @@
 },
 
 {
-  "name": "Radyo",
+  "name": "tttttt",
   "url": "https://turis-tv.github.io/2026-Appcreator/Radyo/index.html",
   "logo": "https://img.icons8.com/fluency/96/link.png",
-  "category": "TV",
+  "category": "ulusal",
   "type": "link"
 },
 
@@ -525,6 +525,7 @@
 
 
 ]
+
 
 
 
