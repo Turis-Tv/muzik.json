@@ -3,37 +3,37 @@
 
 {"name": "TRT COCUK","url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8","logo": "...","category":" ","subCategory": "Turis","openWith": "vlc"},
  
-{"name": "TRT COCUK","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48940","logo": "...","category":" ","subCategory": "Turis ","openWith": "vlc"},
+{"name": "TRT COCUK","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48940","logo": "...","category":" ","subCategory": "","openWith": "vlc"},
 
-{"name": "TRT COCUK","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48941","logo": "...","category":" ","subCategory": "Turis","openWith": "vlc"},
-
-
-
-{"name": "TRT EBA","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48942","logo": "...","category":" ","subCategory": "Turis","openWith": "vlc"},
-
-
-{"name": "CARTOON NETWORK","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48943","logo": "...","category":"","subCategory": "Turis","openWith": "vlc"},
-
-{"name": "CARTOON NETWORK","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48944","logo": "...","category":"","subCategory": "Turis","openWith": "vlc"},
+{"name": "TRT COCUK","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48941","logo": "...","category":" ","subCategory": "","openWith": "vlc"},
 
 
 
- {"name": "Caillou","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/28933","logo": "...","category":          "","subCategory": "Turis","openWith": "vlc"},
+{"name": "TRT EBA","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48942","logo": "...","category":" ","subCategory": "","openWith": "vlc"},
+
+
+{"name": "CARTOON NETWORK","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48943","logo": "...","category":"","subCategory": "","openWith": "vlc"},
+
+{"name": "CARTOON NETWORK","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48944","logo": "...","category":"","subCategory": "","openWith": "vlc"},
 
 
 
- {"name": "Animasyon Sinema TV ","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6365","logo": "...","category":          "","subCategory": "Turis","openWith": "vlc"},
+ {"name": "Caillou","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/28933","logo": "...","category":          "","subCategory": "","openWith": "vlc"},
 
 
 
- {"name": "Animasyon Sinema TV 9","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6372","logo": "...","category":          "","subCategory": "Turis","openWith": "vlc"},
+ {"name": "Animasyon Sinema TV ","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6365","logo": "...","category":          "","subCategory": "","openWith": "vlc"},
+
+
+
+ {"name": "Animasyon Sinema TV 9","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6372","logo": "...","category":          "","subCategory": "","openWith": "vlc"},
 
 
 
 
-"logo":"https://i.imgur.com/jB7c7fM.png","category":"","subCategory":"Turis","url":""},
 
-{"name":"Animasyon Sinema TV 10","logo":"https://i.imgur.com/jB7c7fM.png","category":"","subCategory":"Turis","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6373"},
+
+{"name":"Animasyon Sinema TV 10","logo":"https://i.imgur.com/jB7c7fM.png","category":"","subCategory":"","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6373"},
 
 
 
@@ -187,6 +187,7 @@
 
 
 ]
+
 
 
 
