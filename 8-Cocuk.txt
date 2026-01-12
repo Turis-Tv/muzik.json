@@ -5,28 +5,28 @@
  
 {"name": "TRT COCUK","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48940","logo": "...","category":" ","subCategory": "","openWith": "vlc"},
 
-{"name": "TRT COCUK","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48941","logo": "...","category":" ","subCategory": "","openWith": "vlc"},
+{"name": "TRT COCUK","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48941","logo": "...","category":" ","subCategory": "Turis","openWith": "vlc"},
 
 
 
-{"name": "TRT EBA","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48942","logo": "...","category":" ","subCategory": "","openWith": "vlc"},
+{"name": "TRT EBA","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48942","logo": "...","category":" ","subCategory": "Turis","openWith": "vlc"},
 
 
-{"name": "CARTOON NETWORK","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48943","logo": "...","category":"","subCategory": "","openWith": "vlc"},
+{"name": "CARTOON NETWORK","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48943","logo": "...","category":"","subCategory": "Turis","openWith": "vlc"},
 
-{"name": "CARTOON NETWORK","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48944","logo": "...","category":"","subCategory": "","openWith": "vlc"},
-
-
-
- {"name": "Caillou","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/28933","logo": "...","category":          "","subCategory": "","openWith": "vlc"},
+{"name": "CARTOON NETWORK","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48944","logo": "...","category":"","subCategory": "Turis","openWith": "vlc"},
 
 
 
- {"name": "Animasyon Sinema TV ","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6365","logo": "...","category":          "","subCategory": "","openWith": "vlc"},
+ {"name": "Caillou","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/28933","logo": "...","category":          "","subCategory": "Turis","openWith": "vlc"},
 
 
 
- {"name": "Animasyon Sinema TV 9","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6372","logo": "...","category":          "","subCategory": "","openWith": "vlc"},
+ {"name": "Animasyon Sinema TV ","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6365","logo": "...","category":          "","subCategory": "Turis","openWith": "vlc"},
+
+
+
+ {"name": "Animasyon Sinema TV 9","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6372","logo": "...","category":          "","subCategory": "Turis","openWith": "vlc"},
 
 
 
@@ -65,7 +65,7 @@
 
 {"name": "BOOMERANG","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48946","logo": "...","category":" ","subCategory": "Turis","openWith": "vlc"},
 
-{"name": "COCUK SMART","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48947","logo": "...","category":" ","subCategory": " ","openWith": "vlc"},
+{"name": "COCUK SMART","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48947","logo": "...","category":" ","subCategory": "Turis","openWith": "vlc"},
 
 {"name": "DISNEY JUNIOR","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48948","logo": "...","category":"Turis","subCategory": " ","openWith": "vlc"},
 
@@ -109,13 +109,13 @@
 
 {"name": "Tom ve Jerry 1","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49387","logo": "...","category":"Turis","subCategory": " ","openWith": "vlc"},
 
-{"name": "Tom ve Jerry 2","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49388","logo": "...","category":" ","subCategory": " ","openWith": "vlc"},
+{"name": "Tom ve Jerry 2","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49388","logo": "...","category":" ","subCategory": "Turis","openWith": "vlc"},
 
-{"name": "Tom ve Jerry 2","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49388","logo": "...","category":"Turis","subCategory": " ","openWith": "vlc"},
+{"name": "Tom ve Jerry 2","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49388","logo": "...","category":"Turis","subCategory": "Turis","openWith": "vlc"},
 
 {"name": "PEPEE","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49389","logo": "...","category":" ","subCategory": "Turis","openWith": "vlc"},
 
-{"name": "MASA ILE KOCA AYI","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49390","logo": "...","category":"Turis","subCategory": " ","openWith": "vlc"},
+{"name": "MASA ILE KOCA AYI","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49390","logo": "...","category":"","subCategory": "Turis","openWith": "vlc"},
 
 {"name": "TAYO","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49391","logo": "...","category":" ","subCategory": "Turis","openWith": "vlc"},
 
@@ -123,15 +123,15 @@
 
 {"name": "CAILLOU","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49393","logo": "...","category":" ","subCategory": "Turis","openWith": "vlc"},
 
-{"name": "SEVIMLI DOSTLAR","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49394","logo": "...","category":"Turis","subCategory": " ","openWith": "vlc"},
+{"name": "SEVIMLI DOSTLAR","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49394","logo": "...","category":"","subCategory": "Turis","openWith": "vlc"},
 
 {"name": "BOOBA","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49395","logo": "...","category":" ","subCategory": "Turis","openWith": "vlc"},
 
 {"name": "KUKULI","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49396","logo": "...","category":" ","subCategory": "Turis","openWith": "vlc"},
 
-{"name": "AKILLI TAVSAN","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49397","logo": "...","category":"Turis","subCategory": " ","openWith": "vlc"},
+{"name": "AKILLI TAVSAN","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49397","logo": "...","category":"","subCategory": "Turis","openWith": "vlc"},
 
-{"name": "Powerpuff Girls","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49398","logo": "...","category":"Turis","subCategory": " ","openWith": "vlc"},
+{"name": "Powerpuff Girls","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49398","logo": "...","category":"","subCategory": "Turis","openWith": "vlc"},
 
 {"name": "CARTOONITO","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49399","logo": "...","category":" ","subCategory": "Turis","openWith": "vlc"},
 
@@ -139,13 +139,13 @@
 
 {"name": "Lemmingler","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49401","logo": "...","category":" ","subCategory": "Turis","openWith": "vlc"},
 
-{"name": "Oddbods Nature","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49402","logo": "...","category":"Turis","subCategory": " ","openWith": "vlc"},
+{"name": "Oddbods Nature","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49402","logo": "...","category":"","subCategory": "Turis","openWith": "vlc"},
 
-{"name": "Oddbods Super","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49403","logo": "...","category":"Turis","subCategory": " ","openWith": "vlc"},
+{"name": "Oddbods Super","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49403","logo": "...","category":"","subCategory": "Turis ","openWith": "vlc"},
 
-{"name": "Maskeliler Yelt","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49404","logo": "...","category":"Turis","subCategory": " ","openWith": "vlc"},
+{"name": "Maskeliler Yelt","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49404","logo": "...","category":"","subCategory": "Turis","openWith": "vlc"},
 
-{"name": "Maskeliler JoJo","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49405","logo": "...","category":"Turis","subCategory": " ","openWith": "vlc"},
+{"name": "Maskeliler JoJo","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49405","logo": "...","category":"","subCategory": "Turis","openWith": "vlc"},
 
 {"name": "BooBa Show","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49406","logo": "...","category":" ","subCategory": "Turis","openWith": "vlc"},
 
@@ -187,6 +187,7 @@
 
 
 ]
+
 
 
 
