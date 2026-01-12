@@ -1,5 +1,7 @@
 [
-  {"name":"TRT COCUK","logo":"https://i.imgur.com/jB7c7fM.png","category":"cocuk","subCategory":"","url":"https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"},
+
+
+{"name": "TRT COCUK","url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8","logo": "...","category":" ","subCategory": " ","openWith": "popup"},
  
 {"name": "TRT COCUK","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48940","logo": "...","category":" ","subCategory": " ","openWith": "vlc"},
 
@@ -189,6 +191,7 @@
 
 
 ]
+
 
 
 
