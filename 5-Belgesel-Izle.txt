@@ -89,7 +89,7 @@
 
 {"name": "DMAX", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48961", "logo": "...", "category": "belgesel", "subCategory": " ", "openWith": "vlc"},
 
-{"name": "TGRT BELGESEL", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48962", "logo": "...", "category": "belgesel", "subCategory": " ", "openWith": "vlc"},
+ 
  
 
 
@@ -113,13 +113,14 @@
 
 
 
+{"name": "Jussie Smollett", "url": "https://vidmody.com/vs/tt33293194/", "logo": "...", "category": "belgesel", "subCategory": " ", "openWith": "vlc"}
 
 
-
-{"name":"Jussie Smollett","logo":"https://i.imgur.com/jB7c7fM.png","category":"belgesel","subCategory":"","url":"https://vidmody.com/vs/tt33293194/"}
+ 
 
 
 ]
+
 
 
 
