@@ -2,7 +2,145 @@
 
  {"name": "beIN Movies Family","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49266","logo": "...","category": " ","subCategory": "Film","openWith": "vlc"},
 
-{"name": "tttturis ","url": "http://","logo": "...","category": " ","subCategory": "Film","openWith": "vlc"},
+{"name": "beIN Movies Action","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49267","logo": "...","category": " ","subCategory": "Film","openWith": "vlc"},
+
+{"name": "beIN Movies Stars","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49268","logo": "...","category": " ","subCategory": "Film","openWith": "vlc"},
+
+{"name": "beIN Movies Action 2","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49269","logo": "...","category": " ","subCategory": "Film","openWith": "vlc"},
+
+{"name": "beIN Series 1","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49270","logo": "...","category": " ","subCategory": "Film","openWith": "vlc"},
+
+{"name": "beIN Series 3","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49271","logo": "...","category": " ","subCategory": "Film","openWith": "vlc"},
+
+{"name": "MovieSmart Classic ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49272","logo": "...","category": " ","subCategory": "Film","openWith": "vlc"},
+
+{"name": "HD", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49273", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "Dizi Smart Premium HD", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49274", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "MovieSmart Turk HD", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49275", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "SINEMA TV KOMEDI", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49276", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "Kemal Sunal Salon 1", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49277", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "Kemal Sunal Salon 2", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49278", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "Kemal Sunal Salon 3", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49279", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "Kemal Sunal Salon 4", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49280", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "Nostaji Salon", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49281", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "YESILCAM TV", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49282", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BEiN BOXOFFICE 1", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49283", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BEiN BOXOFFICE 2", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49284", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BEiN BOXOFFICE 3", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49285", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BEIN MOVIES PREMIERE 2", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49286", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "beIN Movies Turk", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49287", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "beIN Series 2 HD", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49288", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "beIN Series 4 HD", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49289", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "DIZI SMART MAX HD", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49290", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "TABII TV", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49291", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "HABABAM SINIFI", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49292", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "SINEMA TV YERLI 2", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49293", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "SINEMA TV AKSIYON", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49294", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "SINEMA TV AILE", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49295", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "SINEMA TV 1001", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49296", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "TV EM", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49297", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "Orumcek Adam FILM", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49298", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "Salon 007", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49299", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "Film Animasyon", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49300", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "Jackie Chan Film", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49301", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "SINEMA TV AILE 2", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49302", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "SINEMA TV YERLI", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49303", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "SINEMA TV AKSIYON 2", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49304", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "SINEMA TV 1002", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49305", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "SINEMA TV KOMEDI 2", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49306", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "Film Star Wars Series", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49307", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX SCi-Fi", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49308", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "Hizli ve Ofkeli", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49309", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "X-Men Salon", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49310", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX BiLiM KURGU 1", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49311", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX BiLiM KURGU 2", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49312", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX BiLiM KURGU 3", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49313", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX BiLiM KURGU 4", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49314", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX BiLiM KURGU 5", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49315", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX BiLiM KURGU 6", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49316", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX BiLiM KURGU 7", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49317", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX ACTiON 1", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49318", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX ACTiON 2", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49319", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX ACTiON 3", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49320", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX ACTiON 4", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49321", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX ACTiON 5", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49322", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX ACTiON 6", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49323", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX ACTiON 7", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49324", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX ACTiON 8", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49325", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX ACTiON 9", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49326", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX GERiLiM 1", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49327", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX GERiLiM 2", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49328", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX GERiLiM 3", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49329", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX GERiLiM 4", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49330", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX GERiLiM 5", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49331", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX DRAM 1", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49332", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX DRAM 2", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49333", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX DRAM 3", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49334", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX DRAM 4", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49335", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX DRAM 5", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49336", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX DRAM 6", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49337", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX DRAM 7", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49338", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX DRAM 8", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49339", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX DRAM 9", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49340", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX FANTASTiC 1", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49341", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX FANTASTiC 2", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49342", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX FANTASTiC 3", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49343", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX FANTASTiC 4", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49344", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX FANTASTiC 5", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49345", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX FANTASTiC 6", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49346", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX FANTASTiC 7", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49347", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX FANTASTiC 8", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49348", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX FANTASTiC 9", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49349", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX KORKU 1", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49350", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX KORKU 2", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49351", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX KORKU 3", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49352", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX KORKU 5", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49353", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX KORKU 6", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49354", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX KORKU 7", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49355", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX MACERA 1", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49356", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX MACERA 2", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49357", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX MACERA 3", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49358", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX MACERA 4", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49359", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX MACERA 5", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49360", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX MACERA 6", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49361", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX COMEDY 1", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49362", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX COMEDY 2", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49363", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX COMEDY 3", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49364", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX COMEDY 4", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49365", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX COMEDY 5", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49366", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX COMEDY 6", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49367", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX COMEDY 7", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49368", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX COMEDY 8", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49369", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "BOX COMEDY 9", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49370", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "SİNEMA 1001", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48906", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "SİNEMA 1002", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48907", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "SİNEMA 2", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48908", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "SİNEMA AKSİYON", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48909", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "SİNEMA AKSİYON 2", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48910", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "SİNEMA AİLE", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48911", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "SİNEMA AİLE 2", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48912", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "SİNEMA KOMEDİ", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48913", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "SİNEMA KOMEDİ 2", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48914", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "SİNEMA TV", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48915", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "FILMBOX", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48916", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "FOX CRIME HD", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48917", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "MOVIE CLASSIC", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48918", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "MOVIE TURK", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48919", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "DIZI PREMIUM", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48920", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+{"name": "DIZISMART MAX", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48921", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
+
+
+
+
+
+
+
+
+
+
+
+
+
  {"name":"KuzeyMax","logo":"https://i.imgur.com/jB7c7fM.png","category":"film","subCategory":"Film","url":"http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8"},
  
  
@@ -33,6 +171,7 @@
 
 
 ]
+
 
 
 
