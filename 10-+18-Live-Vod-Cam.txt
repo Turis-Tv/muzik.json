@@ -3,8 +3,6 @@
 
 
 
-{"name": "Contact Form","url": "https://turis-tv.github.io/Ana-Menu/1-ContactForm/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "TV","type": "link"},
-
 {"name": "Penthouse Reality 1","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48992","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "Penthouse Reality","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "Exotica","url": "http://31.148.48.15:80/O-la-la/index.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
@@ -341,6 +339,7 @@
 
 
 ]
+
 
 
 
