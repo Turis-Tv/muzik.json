@@ -384,6 +384,8 @@
 
 {"name":"Arabesk Fm","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194692"},
 
+ 
+
 {"name":"Damar Fm","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://104.238.23.182/yt1/s/damarfm.m3u8"},
 
 {"name":"Radyo 45","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://104.238.23.182/yt1/s/radyo45lik.m3u8"},
@@ -401,60 +403,60 @@
 
 {"name":"Rock","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://104.238.23.182/yt1/s/krock.m3u8"},
 
-{"name":"SLOW KARADENIZ FM","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194682"},
+{"name":"Slow Karadeniz ","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194682"},
 
-{"name":"RADYO SEVIMLI","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194683"},
+{"name":"Sevimli","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194683"},
 
-{"name":"Gebze Fm","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194684"},
+{"name":"Gebze ","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194684"},
 
-{"name":"Arabesk Fm","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194692"},
 
-{"name":"ASK FM ANKARA","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194696"},
 
-{"name":"MERKEZ FM","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194701"},
+{"name":"Ask Fm ","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194696"},
 
-{"name":"RADYO 37","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194702"},
+{"name":"Merkez Fm","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194701"},
 
-{"name":"MAGIC FM","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194703"},
+{"name":"Radyo 37","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194702"},
 
-{"name":"RADYO 38","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194707"},
+{"name":"Magic Fm","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194703"},
 
-{"name":"ROMANTIK TURK","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194711"},
+{"name":"Radyo 38","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194707"},
 
-{"name":"AFYON ARMONI FM","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194722"},
+{"name":"Romantik Türk","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194711"},
 
-{"name":"ANTAKYA RADYO RENK","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194723"},
-{"name":"BILECIK FM","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194725"},
-{"name":"DOST FM ANKARA","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194731"},
-{"name":"ELAZIG RADYO KENT","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194734"},
+{"name":"Afyon armoni  ","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194722"},
 
-{"name":"ELBISTAN RADYO UMUT","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194735"},
+{"name":"Antakya Radyo Renk","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194723"},
+{"name":"Bilcecik Fm","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194725"},
+{"name":"Dosy Fm","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194731"},
+{"name":"Elazig Radyo KENT","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194734"},
 
-{"name":"ERZINCAN INCITEK FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194738"},
+{"name":"Elbistan Radyo Umut","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194735"},
 
-{"name":"ERZINCAN RADYO TEK","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194739"},
+{"name":"Erzincan Incitek ","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194738"},
 
-{"name":"ERZURUM RADYO RITM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194740"},
+{"name":"Erzincan Radyo Tek","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194739"},
 
-{"name":"GEBZE GUL FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194741"},
+{"name":"Erzueum Radyo ","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194740"},
 
-{"name":"GENC RADYO KONYA","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194742"},
+{"name":"Gebze Gül   ","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194741"},
 
-{"name":"HATAY AKDENIZ FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194745"},
+{"name":"Genc Radyo KONYA","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194742"},
 
-{"name":"HATAY SHOW RADYO","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194746"},
+{"name":"Hatay Fm","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194745"},
 
-{"name":"ISRA FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194748"},
+{"name":"Hatay Schow ","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194746"},
 
-{"name":"IZMIR CAN RADYO","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194749"},
+{"name":"Isra ","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194748"},
 
-{"name":"KAY RADYO KAYSERI","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194751"},
+{"name":"Izmir Can RADYO","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194749"},
 
-{"name":"KAYSERI 38 KENT FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194752"},
+{"name":"Kay Radyo KAYSERI","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194751"},
 
-{"name":"KIZILTEPE RADYO ZERGAN","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194754"},
+{"name":"Kayseri 38 FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194752"},
 
-{"name":"KONYA RADYO EN","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194755"},
+{"name":"Kiziltepe ","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194754"},
+
+{"name":"Konya","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194755"},
 
 {"name":"KONYA TIRYAKI FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194756"},
 
@@ -514,6 +516,7 @@
 
 
 ]
+
 
 
 
