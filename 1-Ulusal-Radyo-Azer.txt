@@ -377,7 +377,7 @@
 
 
 
-
+{ "name": "Arttt","url": "https://canli.arabeskinmerkezi.com/9180/stream","logo": "...","category":"u","subCategory": "R","openWith": "km"},
 
 { "name": "Arabesk","url": "https://canli.arabeskinmerkezi.com/9180/stream","logo": "...","category":"ulusal","subCategory": "Radyo","openWith": "km"},
 
@@ -516,6 +516,7 @@
 
 
 ]
+
 
 
 
