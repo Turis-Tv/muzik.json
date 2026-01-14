@@ -383,34 +383,50 @@
 
 
 {"name":"ARABESK","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"https://canli.arabeskinmerkezi.com/9180/stream"},
+
 {"name":"ARABESK FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194692"},
+
 {"name":"ARABESK","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"https://canli.arabeskinmerkezi.com/9180/stream"},
+
 {"name":"Damar Fm","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://104.238.23.182/yt1/s/damarfm.m3u8"},
+
 {"name":"Radyo 45","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://104.238.23.182/yt1/s/radyo45lik.m3u8"},
 
 {"name":"Akustik Türkü","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://104.238.23.182/yt1/s/akustikturkuler.m3u8"},
 
 
 {"name":"Radyo 7","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://104.238.23.182/yt1/s/radyo7.m3u8"},
+
 {"name":"Slow Türk","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://104.238.23.182/yt1/s/slowturk.m3u8"},
+
 {"name":"Karadeniz","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://104.238.23.182/yt1/s/karadenizakustik.m3u8"},
+
 {"name":"Romantik","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://104.238.23.182/yt1/s/RomanticBallads.m3u8"},
 
 {"name":"Rock","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://104.238.23.182/yt1/s/krock.m3u8"},
 
-
-
 {"name":"SLOW KARADENIZ FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194682"},
+
 {"name":"RADYO SEVIMLI","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194683"},
+
 {"name":"GEBZE FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194684"},
+
 {"name":"ARABESK FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194692"},
+
 {"name":"ASK FM ANKARA","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194696"},
+
 {"name":"MERKEZ FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194701"},
+
 {"name":"RADYO 37","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194702"},
+
 {"name":"MAGIC FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194703"},
+
 {"name":"RADYO 38","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194707"},
+
 {"name":"ROMANTIK TURK","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194711"},
+
 {"name":"AFYON ARMONI FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194722"},
+
 {"name":"ANTAKYA RADYO RENK","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194723"},
 {"name":"BILECIK FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194725"},
 {"name":"DOST FM ANKARA","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194731"},
@@ -473,6 +489,7 @@
 
 
 ]
+
 
 
 
