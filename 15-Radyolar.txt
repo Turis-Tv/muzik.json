@@ -1,7 +1,7 @@
     [
 
 
-{"name": "AraTuris", "url": "https://canli.arabeskinmerkezi.com/9180/stream", "logo": "...", "category": " ", "subCategory": "Rad", "openWith": "mx"},
+{"name": "AraTuris", "url": "https://canli.arabeskinmerkezi.com/9180/stream", "logo": "...", "category": "Rad", "subCategory": "Rad", "openWith": "mx"},
 
 
 
@@ -137,6 +137,7 @@
 
 
  
+
 
 
 
