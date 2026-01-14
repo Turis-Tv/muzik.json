@@ -452,72 +452,12 @@
 {"name": "ULKU FM", "url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194788", "logo": "...", "category": "ulusal", "subCategory": "Radyo", "openWith": "km"},
 
 
- {"name":"Zor Tv","url": "http://sar-kor.karamehmet.workers.dev/?ID=6","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"24 Hd","url": "http://sar-kor.karamehmet.workers.dev/?ID=20","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Ftv","url": "http://sar-kor.karamehmet.workers.dev/?ID=74","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Uz Raport","url": "http://sar-kor.karamehmet.workers.dev/?ID=75","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Мир","url": "http://sar-kor.karamehmet.workers.dev/?ID=80","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Мир 24","url": "http://sar-kor.karamehmet.workers.dev/?ID=81","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Kinoteatr","url": "http://sar-kor.karamehmet.workers.dev/?ID=83","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Tarixi","url": "http://sar-kor.karamehmet.workers.dev/?ID=86","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Nurafshon","url": "http://sar-kor.karamehmet.workers.dev/?ID=87","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Ozbekiston","url": "http://sar-kor.karamehmet.workers.dev/?ID=8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Taraqqiyot","url": "http://sar-kor.karamehmet.workers.dev/?ID=76","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Aqlvoy","url": "http://sar-kor.karamehmet.workers.dev/?ID=82","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Yoshlar","url": "http://sar-kor.karamehmet.workers.dev/?ID=9","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Toshkent","url": "http://sar-kor.karamehmet.workers.dev/?ID=10","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Sport Tv","url": "http://sar-kor.karamehmet.workers.dev/?ID=11","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Renessans","url": "http://sar-kor.karamehmet.workers.dev/?ID=88","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Madaniyat","url": "http://sar-kor.karamehmet.workers.dev/?ID=12","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Mahalla","url": "http://sar-kor.karamehmet.workers.dev/?ID=13","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Futbol","url": "http://sar-kor.karamehmet.workers.dev/?ID=14","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Dunyo Boylab","url": "http://sar-kor.karamehmet.workers.dev/?ID=15","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Bolajon","url": "http://sar-kor.karamehmet.workers.dev/?ID=16","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Navo","url": "http://sar-kor.karamehmet.workers.dev/?ID=17","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Mening Yurtim","url": "http://sar-kor.karamehmet.workers.dev/?ID=22","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Milliy ","url": "http://sar-kor.karamehmet.workers.dev/?ID=23","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Sevimli","url": "http://sar-kor.karamehmet.workers.dev/?ID=25","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Первый канал","url": "http://sar-kor.karamehmet.workers.dev/?ID=27","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Россия 1","url": "http://sar-kor.karamehmet.workers.dev/?ID=28","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Россия 24","url": "http://sar-kor.karamehmet.workers.dev/?ID=29","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Htb","url": "http://sar-kor.karamehmet.workers.dev/?ID=31","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"EuroNews","url": "http://sar-kor.karamehmet.workers.dev/?ID=32","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Детский мир","url": "http://sar-kor.karamehmet.workers.dev/?ID=40","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Карусель","url": "http://sar-kor.karamehmet.workers.dev/?ID=42","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Кухня Тb","url": "http://sar-kor.karamehmet.workers.dev/?ID=96","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Телекафе","url": "http://sar-kor.karamehmet.workers.dev/?ID=96","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Авто Плюс","url": "http://sar-kor.karamehmet.workers.dev/?ID=43","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"техно","url": "http://sar-kor.karamehmet.workers.dev/?ID=44","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Turis","url": "http://sar-kor.karamehmet.workers.dev/?ID=46","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"24 техно","url": "http://sar-kor.karamehmet.workers.dev/?ID=45","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"дней Тb","url": "http://sar-kor.karamehmet.workers.dev/?ID=98","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Ретро Тb","url": "http://sar-kor.karamehmet.workers.dev/?ID=55","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Россия Культура","url": "http://sar-kor.karamehmet.workers.dev/?ID=56","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Звезда","url": "http://sar-kor.karamehmet.workers.dev/?ID=59","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Наше Новое Кино","url": "http://sar-kor.karamehmet.workers.dev/?ID=60","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Родное Кино","url": "http://sar-kor.karamehmet.workers.dev/?ID=61","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Дом Кино","url": "http://sar-kor.karamehmet.workers.dev/?ID=62","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Кинохит","url": "http://sar-kor.karamehmet.workers.dev/?ID=63","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Киносвидание","url": "http://sar-kor.karamehmet.workers.dev/?ID=64","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Кинопремьера","url": "http://sar-kor.karamehmet.workers.dev/?ID=65","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Кинопоказ","url": "http://sar-kor.karamehmet.workers.dev/?ID=66","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Кинокомедия","url": "http://sar-kor.karamehmet.workers.dev/?ID=102","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Киносерия","url": "http://sar-kor.karamehmet.workers.dev/?ID=106","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Мужское Кино","url": "http://sar-kor.karamehmet.workers.dev/?ID=99","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Киномикс","url": "http://sar-kor.karamehmet.workers.dev/?ID=108","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Киносемья","url": "http://sar-kor.karamehmet.workers.dev/?ID=109","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Индийское кино","url": "http://sar-kor.karamehmet.workers.dev/?ID=69","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"МУЗ-Тb","url": "http://sar-kor.karamehmet.workers.dev/?ID=70","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"My3 Tb","url": "http://sar-kor.karamehmet.workers.dev/?ID=105","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Музыка Первого","url": "http://sar-kor.karamehmet.workers.dev/?ID=71","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Ru Tv","url": "http://sar-kor.karamehmet.workers.dev/?ID=72","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Ля-Минор Тb","url": "http://sar-kor.karamehmet.workers.dev/?ID=97","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Уникум","url": "http://sar-kor.karamehmet.workers.dev/?ID=100","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Zoo Tv","url": "http://sar-kor.karamehmet.workers.dev/?ID=101","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Тhb Планета","url": "http://sar-kor.karamehmet.workers.dev/?ID=103","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Dastarkhan","url": "http://sar-kor.karamehmet.workers.dev/?ID=85","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"France24","url": "http://sar-kor.karamehmet.workers.dev/?ID=89","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
- {"name":"Cnn","url": "http://sar-kor.karamehmet.workers.dev/?ID=90","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+
+
+
+
+
+
  {"name":"Cgtn","url": "http://sar-kor.karamehmet.workers.dev/?ID=92","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"}
 
 
@@ -533,6 +473,7 @@
 
 
 ]
+
 
 
 
