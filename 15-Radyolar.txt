@@ -1,7 +1,7 @@
     [
 
 
-{"name": "Arabesk", "url": "https://canli.arabeskinmerkezi.com/9180/stream", "logo": "...", "category": " ", "subCategory": " ", "openWith": "mx"},
+{"name": "Arabesk", "url": "https://canli.arabeskinmerkezi.com/9180/stream", "logo": "...", "category": " ", "subCategory": "Rad", "openWith": "mx"},
 
 
 
@@ -137,4 +137,5 @@
 
 
  
+
 
