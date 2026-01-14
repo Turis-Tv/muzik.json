@@ -379,7 +379,7 @@
 
 
 
-
+{ "name": "ARABESK","url": "https://canli.arabeskinmerkezi.com/9180/stream","logo": "...","category":"ulusal","subCategory": "Radyo","openWith": "mx"},
 
 
 {"name":"ARABESK","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"https://canli.arabeskinmerkezi.com/9180/stream"},
@@ -473,6 +473,7 @@
 
 
 ]
+
 
 
 
