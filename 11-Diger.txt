@@ -1,6 +1,8 @@
 [
 
 
+ {"name": "Taaarr","url": "https://oklivetv.com/private-spice-live/","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+
 
  {"name": "Tttest","url": "https://bstelevision.com/proxy_stream.php?u=https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
 
@@ -62,6 +64,7 @@
 
 
 ]
+
 
 
 
