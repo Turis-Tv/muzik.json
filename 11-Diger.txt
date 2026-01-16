@@ -2,7 +2,7 @@
 
 
 
- {"name": "Test","url": "https://bstelevision.com/proxy_stream.php?u=http://104.238.23.182/tv/1/bein5.m3u8","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+ {"name": "Tttest","url": "https://bstelevision.com/proxy_stream.php?u=https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
 
  {"name": "Contact Form","url": "https://turis-tv.github.io/Ana-Menu/1-ContactForm/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
 
@@ -62,6 +62,7 @@
 
 
 ]
+
 
 
 
