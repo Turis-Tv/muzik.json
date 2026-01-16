@@ -1,6 +1,9 @@
 [
 
 
+
+ {"name": "tt12","url": "https://oklivetv.com/vivid-red-hd-live/","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+
  {"name": "Taaarr","url": "https://oklivetv.com/private-spice-live/","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
 
 
@@ -64,6 +67,7 @@
 
 
 ]
+
 
 
 
