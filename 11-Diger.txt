@@ -11,6 +11,9 @@
 
  {"name": "Contact Form","url": "https://turis-tv.github.io/Ana-Menu/1-ContactForm/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
 
+ {"name": "Site Sifreleri","url": "https://turis-tv.github.io/site-sifre/","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+
+
 
 
  {"name": "Bein Sport","url": "https://saraydorf.de/tv/darktv/","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
@@ -67,6 +70,7 @@
 
 
 ]
+
 
 
 
