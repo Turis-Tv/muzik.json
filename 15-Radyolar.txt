@@ -135,14 +135,13 @@
 
 
 
-
-  { name: "METROPOL FM BERLIN", url: "https://stream-proxy.rs-dev.workers.dev/516f5978-5ba0-4c2a-96ea-0998d59c47a5/channels/252cbd88-bbec-459e-a8ee-79392644dff2/stream.aac" },
+ 
   { name: "TRT-Türkü", url: "https://rd-trtturku.medya.trt.com.tr/master.m3u8" },
   { name: "TRT-Nagme", url: "https://rd-trtnagme.medya.trt.com.tr/master.m3u8" },
   { name: "TRT-Radyo 1", url: "https://rd-trtradyo1.medya.trt.com.tr/master.m3u8" },
   { name: "TRT-fm", url: "https://trt.radyotvonline.net/trt_fm.aac" },
   { name: "TRT-Radyo 3", url: "https://rd-trtradyo3.medya.trt.com.tr/master.m3u8" },
-  { name: "TRT-Muzik", url: "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8" },
+ 
   { name: "TRT-Haber", url: "https://trt.radyotvonline.net/trt_haber.aac" },
   { name: "TRT-Memleketim-fm", url: "https://radio-trtmemleketimfm.medya.trt.com.tr/master.m3u8" },
   { name: "TRT-Cukurova", url: "https://radio-trtcukurova.medya.trt.com.tr/master.m3u8" },
@@ -150,198 +149,80 @@
   { name: "TRT-Gab", url: "https://radio-trtgap.medya.trt.com.tr/master.m3u8" },
   { name: "TRT-Antalya", url: "https://radio-trtantalya.medya.trt.com.tr/master.m3u8" },
   { name: "TRT-Erzurum", url: "https://radio-trterzurum.medya.trt.com.tr/master.m3u8" },
-  { name: "112 ACiL FM", url: "http://95.173.185.128:9316/;" },
+ 
   { name: "90'LAR", url: "https://moondigitalmaster.radyotvonline.net/90lar/playlist.m3u8" },
   { name: "ABUZER FM", url: "http://live.radyotvonline.com:9030/;" },
-  { name: "ACIK RADYO", url: "https://stream.34bit.net/ar.opus" },
-  { name: "ACIPAYAM GURBETÇİ FM", url: "https://wowza1.radyotvonline.com/shoutcast/gurbetcifm.stream/chunklist.m3u8" },
+ 
+ 
   { name: "ADANA SÜPER FM", url: "http://yayin2.yayindakiler.com:4002/;" },
   { name: "ADIYAMAN ASR FM", url: "http://yayin2.yayindakiler.com:4072/;" },
   { name: "AFŞİN FM", url: "https://radyo.arkacadde.org/4646/afsinradyo.mp3" },
-  { name: "AFYON ARMONİ FM", url: "https://vofile.ru/turkey/armoni_fm/icecast.audio" },
-  { name: "AFYON GÜN FM", url: "https://gunfmnet.80.yayin.com.tr/mp3/1/" },
-  { name: "AFYON RADYO 03", url: "https://reshun.ru/turkey/radyo-03-afyon/icecast.audio" },
-  { name: "AFYON RADYO LOJİK", url: "http://94.102.2.199:9710/;stream.nsv" },
-  { name: "AKSARAY FM", url: "https://vofile.ru/turkey/aksaray_fm_dinle/icecast.audio" },
-  { name: "AKSARAY KRAL FM", url: "http://yayin2.yayindakiler.com:4020/;" },
-  { name: "ALEM FM", url: "https://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/chunklist.m3u8" },
-  { name: "ALİAĞA AKTİF FM", url: "http://85.95.241.151:9170/aktiffm" },
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
   { name: "ALTIN ŞARKILAR FM", url: "https://ssl4.radyotvonline.com/radyohome/altinsarkilar.stream_aac/chunklist.m3u8" },
-  { name: "ANADOLU RADYO", url: "https://59cba4d34b678.streamlock.net/radyo/anadolu-radyo/chunklist.m3u8" },
+ 
   { name: "ANKARA HAVALARI", url: "https://ssl4.radyotvonline.com/radyohome/ankarahavalari.stream_aac/chunklist.m3u8" },
   { name: "ARABESK FM", url: "https://anadolu.liderhost.com.tr:10949/;" },
   { name: "ARABESK FM BİZ", url: "https://yayin.arabeskfm.biz:8042/stream" },
-  { name: "ARABESK MELODİ FM", url: "https://ssl224.radyotelekom.com.tr/listen/244cda65afe5c572a14c7bda85af6162" },
-  { name: "ARABESK RADYO", url: "https://radyopanel.turkwebdizayn.com/5934/stream" },
-  { name: "ARABESK RADYO BİZ", url: "https://dinle.arabeskradyo.biz//mp3/1/" },
-  { name: "ARABESK TÜRKİYE", url: "https://vofile.ru/turkey/arabesk_turkiye_dinle/icecast.audio" },
-  { name: "ARABESK VADİSİ", url: "https://sp.radyotescil.com/8010/stream" },
-  { name: "ARABESKİN SESİ FM", url: "https://sp.radyotescil.com/8042/stream" },
+  
+ 
+  
+ 
+ 
+ 
   { name: "ARABESKLAND", url: "https://moondigitaledge.radyotvonline.net/arabeskland/playlist.m3u8" },
-  { name: "ARDAHAN FM", url: "https://ssl120.radyotelekom.com.tr/8270/;" },
-  { name: "AŞK FM", url: "https://vofile.ru/turkey/Ask_fm/icecast.audio" },
-  { name: "AŞK FM İzmir", url: "http://AskFm.CO:9300/;" },
+ 
+ 
+  
   { name: "BABA RADYO", url: "https://babaradyo.turkhosted.com/best/babaradyo.stream/chunklist.m3u8" },
-  { name: "BABYJOY", url: "https://17703.live.streamtheworld.com/BABYJOY128AAC.aac" },
-  { name: "BAFRA BARIŞ FM", url: "https://vofile.ru/turkey/baris_fm/icecast.audio" },
-  { name: "BANDIRMA GENÇ FM", url: "http://yayin1.canliyayin.org:7048/;" },
-  { name: "BARTIN FM", url: "https://vofile.ru/turkey/74_bartin_fm/icecast.audio" },
-  { name: "BEST FM", url: "https://bestfm.turkhosted.com/;stream.mp3" },
-  { name: "BESTE FM", url: "https://server22692.streamplus.de/;stream.mp3" },
-  { name: "BEY FM", url: "http://45.32.154.169:9304/;" },
-  { name: "BİGA FM", url: "https://vofile.ru/turkey/biga-fm/icecast.audio" },
-  { name: "BİLECİK FM", url: "https://radio-streaming.net/turkey/bilecik-fm/icecast.audio" },
-  { name: "BİNGÖL RADYO AZELYA", url: "http://radyoazelya.radyotvyayini.com:9052/;" },
-  { name: "BİZ FM", url: "https://bizzfm.radioca.st/stream.mp3" },
   { name: "BODRUM FM", url: "http://nephelis.com:8000/;" },
-  { name: "BOLU RADYO YANKI", url: "http://159.253.39.179:9918/;" },
-  { name: "BORUSAN KLASIK", url: "https://18463.live.streamtheworld.com/BORUSAN_KLASIK128AAC.aac" },
   { name: "BRT BAYRAK FM", url: "http://sc.brtk.net:8000/;" },
   { name: "BRT BAYRAK INTERNATIONAL", url: "http://sc.brtk.net:8004/;" },
   { name: "BRT BAYRAK KLASİK", url: "http://sc.brtk.net:8006/;" },
   { name: "BRT BAYRAK RADYOSU", url: "http://sc.brtk.net:8002/;" },
   { name: "BRT BAYRAK TÜRK MÜZİĞİ", url: "http://sc.brtk.net:8010/;" },
-  { name: "BURSA 1001 FM", url: "http://yayin3.canlitv.com:9050/;" },
-  { name: "BURSA DENİZ FM", url: "http://yayin2.yayindakiler.com:4152/;" },
-  { name: "BURSA FM", url: "http://yayin.bursafm.com.tr:1055/;" },
-  { name: "BURSA KARADENIZ FM", url: "https://vofile.ru/turkey/bursa_karadeniz_fm/icecast.audio" },
-  { name: "BURSA NOSTALJİ FM", url: "http://91.121.48.78:9360/;stream.nsv" },
-  { name: "BURSA RADYO 14", url: "http://yayin3.canlitv.com:7020/;" },
-  { name: "BURSA RADYO 16", url: "https://vofile.ru/turkey/radyo_16_dinle/icecast.audio" },
-  { name: "BURSA RADYO AKTİF", url: "https://icecast.netmedya.net/radyoaktif" },
-  { name: "BURSA RADYO BU", url: "https://radyo.yayindakiler.com/stream/BursaRadyoBU/stream" },
-  { name: "BURSA RADYO GÜNEŞ İnegöl", url: "https://vofile.ru/turkey/radyo_gunes_dinle/icecast.audio" },
   { name: "BURSA RADYO S", url: "https://icecast.netmedya.net/radyos" },
-  { name: "BURSA RADYO ŞAMPİYON", url: "https://radio-streaming.net/turkey/radyo-sampiyon-89-5/chunks.m3u8" },
-  { name: "BURSA RADYO TÜRK", url: "https://radyo.yayindakiler.com/stream/bursaturk/stream" },
-  { name: "BURSA SÜPERBİ RADYO", url: "http://live.arkumedia.com:8004/stream" },
   { name: "BURSADA BUGÜN RADYO", url: "https://radyo.bursadabugun.com/stream" },
-  { name: "ÇAĞLAR FM Malatya", url: "https://vofile.ru/turkey/caglar_fm_malatya_95_3/icecast.audio" },
-  { name: "ÇAN FM", url: "https://radio-streaming.net/turkey/can-radyo-canakkale/chunks.m3u8" },
-  { name: "CAN RADYO", url: "http://canradyo.kesintisizyayin.com:3838/;" },
-  { name: "CANTÜRK FM", url: "https://ssl180.ozelip.com/asistan/stream/e7fffc27d21e649499ecaba8ea5b392f" },
-  { name: "CNN TÜRK RADYO", url: "https://radyo.duhnet.tv/cnnturk" },
   { name: "ÇORLU TEMPO FM", url: "https://stream2.rtvtakip.com:7016/;stream.mp3" },
-  { name: "DALAMAN SAHİL FM", url: "https://radio-streaming.net/turkey/sahil-97-4-fm/chunks.m3u8" },
   { name: "DAMAR FM", url: "https://yayin.damarfm.com/stream" },
   { name: "DAMARTÜRK FM", url: "https://live.radyositesihazir.com:10997/;" },
-  { name: "DAMLA FM", url: "https://vofile.ru/turkey/damla_fm/icecast.audio" },
   { name: "DEM RADYO", url: "https://yayin.radyodem.com:8000/stream/;stream.mp3" },
-  { name: "DENİZLİ DOSTLAR FM", url: "http://95.173.188.166:9848/;" },
-  { name: "DENİZLİ RADYO DEVA", url: "https://radyopanel.turkwebdizayn.com:10992/stream" },
-  { name: "DENİZLİ SES RADYO", url: "http://95.173.188.166:9300/;" },
-  { name: "DERYA FM Konya", url: "http://nonstopkonya.canliyayinda.com:9898/;" },
   { name: "DİJİTAL RADYO", url: "https://anadolu.liderhost.com.tr:10961/;" },
   { name: "DİNAMO FM", url: "https://channels.dinamo.fm/legacy-mp3" },
-  { name: "DİYARBAKIR AMED RADYO", url: "http://95.173.162.182:9992/;" },
   { name: "DİYARBAKIR DOĞAN 21 FM", url: "http://yayin1.yayindakiler.com:3024/;" },
   { name: "DOST FM Hatay", url: "http://yayin.netyayin.net:1515/;" },
   { name: "DREAMTÜRK", url: "https://radyo.duhnet.tv/dreamturk" },
-  { name: "EFKAR", url: "https://22323.live.streamtheworld.com/SC008_SO1AAC.aac" },
-  { name: "EFKARLI FM", url: "http://37.59.205.232:9344/;" },
   { name: "EFSANE 4'LÜ", url: "https://moondigitalmaster.radyotvonline.net/efsane4lu/playlist.m3u8" },
   { name: "EGE HAVALARI", url: "https://moondigitalmaster.radyotvonline.net/egehavalari/playlist.m3u8" },
   { name: "EKİN RADYO", url: "http://yayin.turkhosted.com:6006/;" },
-  { name: "ELAZIĞ RADYO HAZAR", url: "http://radyohazar.canliyayinda.com:8286/;" },
-  { name: "EREĞLİ DEMOKRAT FM", url: "https://radyo.akyuznet.com.tr/radio/8160/radio.mp3" },
-  { name: "ERZURUM İMAJ FM", url: "http://sunucu.radyodinle.com:9797/;" },
-  { name: "ERZURUM RADYO RITM", url: "http://radyo.yayin.com.tr:8091/;" },
-  { name: "ESKİŞEHİR TEMPO RADYO", url: "https://vofile.ru/turkey/Tempo_Radyo/icecast.audio" },
-  { name: "EYNESİL MERCAN FM", url: "https://ip169.ozelip.com:10975/;stream.nsv&type=mp3" },
-  { name: "EZGİ RADYO", url: "http://sunucu.radyodinle.com:1782/;" },
-  { name: "RADYO FENOMEN", url: "https://listen.radyofenomen.com/fenomen/128/icecast.audio" },
-  { name: "FENOMEN AKUSTİK", url: "https://listen.radyofenomen.com/fenomenakustik/128/icecast.audio" },
-  { name: "FENOMEN CLUBBİN", url: "https://listen.radyofenomen.com/fenomenclubbin/128/icecast.audio" },
-  { name: "FENOMEN DANS", url: "https://listen.radyofenomen.com/fenomendans/128/icecast.audio" },
-  { name: "FENOMEN KARIŞIK", url: "https://listen.radyofenomen.com/fenomenkarisik/128/icecast.audio" },
-  { name: "FENOMEN ORİENTAL", url: "https://listen.radyofenomen.com/fenomenoriental/128/icecast.audio" },
-  { name: "FENOMEN POP", url: "https://listen.radyofenomen.com/fenomenpop/128/icecast.audio" },
-  { name: "FENOMEN RAP", url: "https://listen.radyofenomen.com/fenomenrap/128/icecast.audio" },
-  { name: "FENOMEN TÜRK", url: "https://listen.radyofenomen.com/fenomenturk/128/icecast.audio" },
-  { name: "FENOMEN TÜRKÇE RAP", url: "https://listen.radyofenomen.com/fenomenturkrap/128/icecast.audio" },
-  { name: "FISTIK FM", url: "https://radyo.yayindakiler.com/stream/gaziantepfistik" },
   { name: "FM 23", url: "http://radyo.yayin.com.tr:8280/;" },
   { name: "GAZİANTEP RADYO KİLİM", url: "http://yayin.netyayin.net:2727/;" },
   { name: "GENÇ RADYO Konya", url: "http://yayin.turkhosted.com:6030/;" },
-  { name: "GİRESUN FM", url: "https://radio-streaming.net/turkey/giresun-102-5-fm-dinle/chunks.m3u8" },
   { name: "GİMSA RADYO", url: "http://yayin.canliyayin.org:9482/;" },
   { name: "HAMSİ FM", url: "https://anadolu.liderhost.com.tr:10992/;" },
-  { name: "HAYAL FM", url: "https://vofile.ru/turkey/hayal_fm_dinle/icecast.audio" },
   { name: "HOME KLASİK", url: "https://ssl4.radyotvonline.com/radyohome/klasikhome.stream_aac/chunklist.m3u8" },
-  { name: "ILGIN FM", url: "https://vofile.ru/turkey/ilgin_fm_dinle/icecast.audio" },
-  { name: "İMBAT FM", url: "https://vofile.ru/turkey/imbat_fm/icecast.audio" },
-  { name: "İSTANBUL FM", url: "https://stream2.rtvtakip.com:7000/stream" },
   { name: "İTÜ RADYOSU JAZZ - BLUES", url: "http://160.75.86.29:8088/stream/3/" },
   { name: "İTÜ RADYOSU KLASİK", url: "http://160.75.86.29:8088/stream/5/" },
   { name: "İTÜ RADYOSU ROCK", url: "http://160.75.86.29:8088/stream/1/" },
   { name: "İMPARATOR FM", url: "http://yayin.yayindakiler.com:4042/;" },
-  { name: "JOY FM", url: "https://17753.live.streamtheworld.com/JOY_FMAAC.aac" },
-  { name: "JOY JAZZ", url: "https://17753.live.streamtheworld.com/JOY_JAZZ128AAC.aac" },
-  { name: "JOY TURK AKUSTIK", url: "https://21293.live.streamtheworld.com/SC004_SO1AAC.aac" },
-  { name: "JOYTÜRK FM", url: "https://17773.live.streamtheworld.com/JOY_TURKAAC.aac" },
-  { name: "JOY TURK ROCK", url: "https://17733.live.streamtheworld.com/JOYTURK_ROCK128AAC.aac" },
   { name: "KAFA RADYO", url: "https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8" },
   { name: "KARADENİZ FM", url: "https://moondigitalmaster.radyotvonline.net/karadenizfm/playlist.m3u8" },
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
   { name: "KRAL FM", url: "https://ssldyg2.radyotvonline.com/smil/smil:kralfm.smil/chunklist.m3u8" },
   { name: "KRAL FM", url: "http://kralwmp.radyotvonline.com/;" },
   { name: "KRAL POP RADYO", url: "https://ssldyg2.radyotvonline.com/smil/smil:kralpop.smil/chunklist.m3u8" },
   { name: "KRAL POP FM", url: "http://kralpopwmp.radyotvonline.com/;" },
- 
   { name: "KURAN MEAL RADYO", url: "https://ssl4.radyotvonline.com/radyohome/kuranmeal.stream_aac/chunklist.m3u8" },
   { name: "KÜPE FM", url: "https://icecast.netmedya.net/kupefm" },
- 
- 
- 
- 
-  
- 
- 
   { name: "MAZİDEN BİR DEMET", url: "https://moondigitalmaster.radyotvonline.net/mazidenbirdemet/playlist.m3u8" },
- 
   { name: "MELENKOLİK HOME", url: "https://moondigitalmaster.radyotvonline.net/melankolikhome/playlist.m3u8" },
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
   { name: "MÜZEYYEN", url: "https://moondigitaledge.radyotvonline.net/muzeyyen/playlist.m3u8" },
- 
- 
- 
   { name: "NTV RADYO", url: "https://ssldyg2.radyotvonline.com/smil/smil:ntvradyo.smil/chunklist.m3u8" },
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
   { name: "OZBURUN FM", url: "http://stream.laut.fm/ozburunfm/;stream.mp3" },
   { name: "ÖMÜR RADYO", url: "http://anadolu.liderhost.com.tr/9002/stream" },
   { name: "PAL FM", url: "https://moondigitalmaster.radyotvonline.net/palfm/playlist.m3u8" },
@@ -409,6 +290,7 @@
 
 
  
+
 
 
 
