@@ -230,7 +230,7 @@
 
    {"name": "Fil Spor 3","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/372627","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
  
-        {"name": "Trt Yildiz","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/353402","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+        {"name": "TRT YILDIZ","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/353402","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
    {"name": "Nba","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6111","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
  
@@ -277,6 +277,7 @@
 
 
 ]
+
 
 
 
