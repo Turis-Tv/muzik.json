@@ -2,7 +2,7 @@
 
 
    {"name": "Turis Web","url": "https://www.google.be","logo": "...","category": "Canlı","subCategory": "Canlı","openWith": "web"},
-   {"name": "Turis Web","url": "https://www.google.be","logo": "...","category": "spor","subCategory": "Canlı","openWith": "web"},
+   {"name": "Turis Web1","url": "https://www.google.be","logo": "...","category": "spor","subCategory": "Canlı","openWith": "web"},
 
    {"name": "BEIN SPORT 30","url": "https://bstelevision.com/proxy_stream.php?u=http://104.238.23.182/tv/1/bein3.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
@@ -279,6 +279,7 @@
 
 
 ]
+
 
 
 
