@@ -63,7 +63,7 @@
 
 {"name": "VIASAT EXPLORE HD", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49425", "logo": "...", "category": "belgesel", "subCategory": " ", "openWith": "vlc"},
 
-{"name": "VIASAT HISTORY HD", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49426", "logo": "...", "category": "belgesel", "subCategory": " ", "openWith": "vlc"},
+
 
 {"name": "beIN IZ HD", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49427", "logo": "...", "category": "belgesel", "subCategory": " ", "openWith": "vlc"},
 
@@ -120,6 +120,7 @@
 
 
 ]
+
 
 
 
