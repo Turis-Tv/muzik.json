@@ -69,7 +69,7 @@
 
 {"name": "Trt Türk", "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 
-{"name": "Tbmm", "url": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8?start=LIVE&end=END", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
+{"name": "Meclis Tv", "url": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8?start=LIVE&end=END", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 
 {"name": "Tvnet", "url": "https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8?start=LIVE&end=END", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 
@@ -144,6 +144,7 @@
 
 
 ]
+
 
 
 
