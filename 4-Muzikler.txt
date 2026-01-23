@@ -3,7 +3,7 @@
 
 {"name":"VOSTOK TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"muzik","subCategory":"","url":"http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8"},
 
-{"name":"SUPER TÛRK","logo":"https://i.imgur.com/jB7c7fM.png","category":"muzik","subCategory":"","url":"http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8?start=LIVE&end=END"}
+{"name":"SUPER TÛRK","logo":"https://i.imgur.com/jB7c7fM.png","category":"muzik","subCategory":"","url":"http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8?start=LIVE&end=END"},
 
 {"name":"inzone ","logo":"https://i.imgur.com/jB7c7fM.png","category":"muzik","subCategory":"","url":"https://stream.appradiofm.com/stream?url=http://stream.laut.fm/inzone"},
 
@@ -90,6 +90,7 @@
 {"name":"KRAL POP","logo":"https://i.imgur.com/jB7c7fM.png","category":"","subCategory":"Yabanci","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/446162"}
 
 ]
+
 
 
 
