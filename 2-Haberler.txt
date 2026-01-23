@@ -80,10 +80,12 @@
 {"name": "Bloomberg", "url": "https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?app=web&ce=3", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 {"name": "Gzt", "url": "https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 {"name": "Finans Türk", "url": "https://yayin30.haber100.com/live/finansturk/playlist.m3u8", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
+
+
 {"name": "Halk Tv", "url": "https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 {"name": "Halk Tv", "url": "https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 {"name": "Halk Tv", "url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20758", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
-{"name": "Halk Tv ", "url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
+{"name": "Halk Tv", "url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 {"name": "Halk Tv", "url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20758", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 
 
@@ -142,6 +144,7 @@
 
 
 ]
+
 
 
 
