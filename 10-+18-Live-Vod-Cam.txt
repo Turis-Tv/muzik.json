@@ -6,7 +6,7 @@
 {"name": "Penthouse Reality 1","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48992","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "Penthouse Reality","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 
-{"name": "Ana Sayfa","url": "https://turis-tv.github.io/2026-Appcreator/","logo": "https://img.icons8.com/fluency/96/link.png","category": "ulusal","type": "TV"},
+
 {"name": "Babes","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48994","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "BangU","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48995","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "Blue Hustler","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48997","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
@@ -32,59 +32,7 @@
 {"name": "Exotica","url": "http://31.148.48.15:80/O-la-la/index.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "Playboy","url": "http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
 
-{"name": "Penthouse Reality 1 ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48992","logo": "...","category": "adult","subCategory": "Km","openWith": "km"},
-{"name": "Penthouse Reality ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993","logo": "...","category": "adult","subCategory": "Km","openWith": "km"},
-{"name": "Exotica ","url": "http://31.148.48.15:80/O-la-la/index.m3u8","logo": "...","category": "adult","subCategory": "Km","openWith": "km"},
-{"name": "Playboy ","url": "http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8","logo": "...","category": "adult","subCategory": "Km","openWith": "km"},
-{"name": "Babes ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48994","logo": "...","category": "adult","subCategory": "Km","openWith": "km"},
-{"name": "BangU ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48995","logo": "...","category": "adult","subCategory": "Km","openWith": "km"},
-{"name": "Blue Hustler ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48997","logo": "...","category": "adult","subCategory": "Km","openWith": "km"},
-{"name": "Brazzers ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48998","logo": "...","category": "adult","subCategory": "Km","openWith": "km"},
-{"name": "Dorcel ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48999","logo": "...","category": "adult","subCategory": "Km","openWith": "km"},
-{"name": "Erox ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49001","logo": "...","category": "adult","subCategory": "Km","openWith": "km"},
-{"name": "Eroxxx ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49002","logo": "...","category": "adult","subCategory": "Km","openWith": "km"},
-{"name": "Evil Angel ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49003","logo": "...","category": "adult","subCategory": "Km","openWith": "km"},
-{"name": "Extasy ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49004","logo": "...","category": "adult","subCategory": "Km","openWith": "km"},
-{"name": "Fantazzy ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49005","logo": "...","category": "adult","subCategory": "Km","openWith": "km"},
-{"name": "Hustler 1 ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49006","logo": "...","category": "adult","subCategory": "Km","openWith": "km"},
-{"name": "Hustler ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49007","logo": "...","category": "adult","subCategory": "Km","openWith": "km"},
-{"name": "Playboy 1 ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49008","logo": "...","category": "adult","subCategory": "Km","openWith": "km"},
-{"name": "Private ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49009","logo": "...","category": "adult","subCategory": "Km","openWith": "km"},
-{"name": "Pure Babes ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49010","logo": "...","category": "adult","subCategory": "Km","openWith": "km"},
-{"name": "Reality Kings ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49011","logo": "...","category": "adult","subCategory": "Km","openWith": "km"},
-{"name": "Vivid Red ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49013","logo": "...","category": "adult","subCategory": "Km","openWith": "km"},
-{"name": "Super One ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49014","logo": "...","category": "adult","subCategory": "Km","openWith": "km"},
-{"name": "XY plus ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49015","logo": "...","category": "adult","subCategory": "Km","openWith": "km"},
-{"name": "XY max ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49016","logo": "...","category": "adult","subCategory": "Km","openWith": "km"},
-{"name": "XY mix ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49017","logo": "...","category": "adult","subCategory": "Km","openWith": "km"},
- 
 
-{"name": "XY mix ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49017","logo": "...","category": "adult","subCategory": "Wffy","openWith": "km"},
-{"name": "Penthouse Reality 1 ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48992","logo": "...","category":"Wuffy","subCategory": "Wuffy","openWith": "wuffy"},
-{"name": "Penthouse Reality ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993","logo": "...","category":"adult","subCategory": "Wuffy","openWith": "wuffy"},
-{"name": "Exotica ","url": "http://31.148.48.15:80/O-la-la/index.m3u8","logo": "...","category":"adult","subCategory": "Wuffy","openWith": "wuffy"},
-{"name": "Playboy ","url": "http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8","logo": "...","category":"adult","subCategory": "Wuffy","openWith": "wuffy"},
-{"name": "Babes ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48994","logo": "...","category":"adult","subCategory": "Wuffy","openWith": "wuffy"},
-{"name": "BangU ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48995","logo": "...","category":"adult","subCategory": "Wuffy","openWith": "wuffy"},
-{"name": "Blue Hustler ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48997","logo": "...","category":"adult","subCategory": "Wuffy","openWith": "wuffy"},
-{"name": "Brazzers ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48998","logo": "...","category":"adult","subCategory": "Wuffy","openWith": "wuffy"},
-{"name": "Dorcel ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48999","logo": "...","category":"adult","subCategory": "Wuffy","openWith": "wuffy"},
-{"name": "Erox ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49001","logo": "...","category":"adult","subCategory": "Wuffy","openWith": "wuffy"},
-{"name": "Eroxxx ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49002","logo": "...","category":"adult","subCategory": "Wuffy","openWith": "wuffy"},
-{"name": "Evil Angel ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49003","logo": "...","category":"adult","subCategory": "Wuffy","openWith": "wuffy"},
-{"name": "Extasy ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49004","logo": "...","category":"adult","subCategory": "Wuffy","openWith": "wuffy"},
-{"name": "Fantazzy ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49005","logo": "...","category":"adult","subCategory": "Wuffy","openWith": "wuffy"},
-{"name": "Hustler 1 ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49006","logo": "...","category":"adult","subCategory": "Wuffy","openWith": "wuffy"},
-{"name": "Hustler ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49007","logo": "...","category":"adult","subCategory": "Wuffy","openWith": "wuffy"},
-{"name": "Playboy 1 ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49008","logo": "...","category":"adult","subCategory": "Wuffy","openWith": "wuffy"},
-{"name": "Private ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49009","logo": "...","category":"adult","subCategory": "Wuffy","openWith": "wuffy"},
-{"name": "Pure Babes ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49010","logo": "...","category":"adult","subCategory": "Wuffy","openWith": "wuffy"},
-{"name": "Reality Kings ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49011","logo": "...","category":"adult","subCategory": "Wuffy","openWith": "wuffy"},
-{"name": "Vivid Red ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49014","logo": "...","category":"adult","subCategory": "Wuffy","openWith": "wuffy"},
-{"name": "Super One ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49014","logo": "...","category":"adult","subCategory": "Wuffy","openWith": "wuffy"},
-{"name": "XY plus ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49015","logo": "...","category":"adult","subCategory": "Wuffy","openWith": "wuffy"},
-{"name": "XY max ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49016","logo": "...","category":"adult","subCategory": "Wuffy","openWith": "wuffy"},
-{"name": "XY mix ","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49017","logo": "...","category":"adult","subCategory": "Wuffy","openWith": "wuffy"},
 
 
 
@@ -335,6 +283,7 @@
 
 
 ]
+
 
 
 
