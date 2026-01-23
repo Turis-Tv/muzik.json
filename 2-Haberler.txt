@@ -24,7 +24,7 @@
 {"name": "Ntv", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48935", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 {"name": "Ntv", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48936", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 {"name": "Bbc Earth", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48937", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
-{"name": "Tgrt Haber", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48938", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
+ 
 {"name": "A Para", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48939", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 
 {"name": "Ülke Tv", "url": "https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
@@ -146,6 +146,7 @@
 
 
 ]
+
 
 
 
