@@ -19,15 +19,8 @@
 
 
 
-{
-    "name": "Intern Kanaal Test",
-    "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
-    "logo": "...",
-    "category": "Ulusal",
-    "subCategory": "TV",
-    "openWith": "popup"
-},
-{"name": "Ana Sayfa","url": "https://turis-tv.github.io/2026-Appcreator/","logo": "https://img.icons8.com/fluency/96/link.png","category": "ulusal","type": "TV"},
+
+
 
 
 {"name": "Trt 4K", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49172", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
@@ -374,7 +367,7 @@
 
 
 
-
+{"name": "Arabesk", "url": "https://canli.arabeskinmerkezi.com/9180/stream", "logo": "...", "category": "ulusal", "subCategory": "Radyo", "openWith": "vlc"},
 
 
 { "name": "Arttt","url": "https://canli.arabeskinmerkezi.com/9180/stream","logo": "...","category":"u","subCategory": "R","openWith": "km"},
@@ -516,6 +509,7 @@
 
 
 ]
+
 
 
 
