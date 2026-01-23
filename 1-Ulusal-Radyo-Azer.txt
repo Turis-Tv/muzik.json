@@ -201,7 +201,7 @@
  
  
 
-{"name":"Show Türk","url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+ 
  
 
 {"name":"Show Max","url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
@@ -215,7 +215,7 @@
 {"name":"Show Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6273","logo": " ","category": "ulusal","subCategory": "TV"},
 {"name":"Show Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192067","logo": " ","category": "ulusal","subCategory": "TV"},
 {"name":"Show Tv","url": "http://95.174.71.114:80/TR-SHOW/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Show Tv","url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+
  
 {"name":"Show Tv","url": "http://116.202.238.88/SHOWTV_TR/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
 
@@ -232,7 +232,7 @@
 {"name":"Now Tv","url": "http://87.246.54.249:8080/NOW/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
 {"name":"Now Tv","url": "http://116.202.238.88/FOXTV_TR/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
 {"name":"Now Tv","url": "http://95.174.71.114:80/TR-FOX/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Now Tv","url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+
  
  
 
@@ -260,7 +260,6 @@
 {"name":"A2","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6268","logo": " ","category": "ulusal","subCategory": "TV"},
 {"name":"A2","url": "http://89.187.191.41/A2-HD-TR/video.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
 {"name":"A2","url": "http://95.174.71.114:80/TR-A2/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
- 
 {"name":"A2","url": "http://116.202.238.88/A2_TR/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
  
 
@@ -271,7 +270,6 @@
 {"name":"Kanal 7","url": "https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
 {"name":"Kanal 7","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6278","logo": " ","category": "ulusal","subCategory": "TV"},
 {"name":"Kanal 7","url": "http://95.174.71.114:80/TR-KANAL-7/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Kanal 7","url": "https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
 {"name":"Kanal 7","url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
 {"name":"Kanal 7","url": "http://87.246.54.249:8080/Kanal7/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
 {"name":"Kanal 7","url": "http://116.202.238.88/KANAL7_TR/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
@@ -284,7 +282,6 @@
 {"name":"Beyaz Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/439458","logo": " ","category": "ulusal","subCategory": "TV"}, 
 {"name":"Beyaz Tv","url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
 {"name":"Beyaz Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6277","logo": " ","category": "ulusal","subCategory": "TV"}, 
-{"name":"Beyaz Tv","url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
 {"name":"Beyaz Tv","url": "http://95.174.71.114:80/TR-BEYAZ/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
 {"name":"Beyaz Tv","url": "http://87.246.54.249:8080/BeyazTV/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
 {"name":"Beyaz Tv","url": "http://116.202.238.88/BEYAZTV_TR/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
@@ -292,10 +289,8 @@
 
  
 {"name":"Tv 360","url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
- 
-{"name":"Tv 360","url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
 {"name":"Tv 360","url": "https://tv.ensonhaber.com/tv360/tv360.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
-{"name":"Tv 360","url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
+
  
  
 {"name":"Trt Türk","url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
@@ -518,6 +513,7 @@
 
 
 ]
+
 
 
 
