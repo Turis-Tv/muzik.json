@@ -10,7 +10,7 @@
 
    {"name": "Ciftci TV", "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8", "logo": "...", "category": "belgesel", "subCategory": " ", "openWith": "vlc"},
 
-   {"name": "CNBC-E", "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/CNBC_E.m3u8", "logo": "...", "category": "belgesel", "subCategory": " ", "openWith": "vlc"},
+
 
    {"name": "DHA1", "url": "https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8", "logo": "...", "category": "belgesel", "subCategory": " ", "openWith": "vlc"},
 
@@ -22,7 +22,7 @@
 
   {"name": "Discovery IDX", "url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6290", "logo": "...", "category": "belgesel", "subCategory": " ", "openWith": "vlc"},
 
- {"name": " HD", "url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/47476", "logo": "...", "category": "belgesel", "subCategory": " ", "openWith": "vlc"},
+
 
  {"name": "Tadilat TV", "url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6294", "logo": "...", "category": "belgesel", "subCategory": " ", "openWith": "vlc"},
 
@@ -32,7 +32,7 @@
 
  {"name": "History HD", "url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/12822", "logo": "...", "category": "belgesel", "subCategory": " ", "openWith": "vlc"},
 
- {"name": "Docubox HD", "url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/35998", "logo": "...", "category": "belgesel", "subCategory": " ", "openWith": "vlc"},
+
 
  {"name": "Jussie Smollett", "url": "https://vidmody.com/vs/tt33293194/", "logo": "...", "category": "belgesel", "subCategory": " ", "openWith": "vlc"},
 
@@ -47,9 +47,9 @@
  
 {"name": "TRT BELGESEL", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48963", "logo": "...", "category": "belgesel", "subCategory": " ", "openWith": "vlc"},
 
-{"name": "History Channel HD", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49416", "logo": "...", "category": "belgesel", "subCategory": " ", "openWith": "vlc"},
 
-{"name": "VIASAT NATURE/HISTORY CH. HD", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49417", "logo": "...", "category": "belgesel", "subCategory": " ", "openWith": "vlc"},
+
+
 
 {"name": "DA VINCI LEARNING", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49418", "logo": "...", "category": "belgesel", "subCategory": " ", "openWith": "vlc"},
 
@@ -61,7 +61,6 @@
 
 {"name": "BOX BELGESEL 2", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49424", "logo": "...", "category": "belgesel", "subCategory": " ", "openWith": "vlc"},
 
-{"name": "VIASAT EXPLORE HD", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49425", "logo": "...", "category": "belgesel", "subCategory": " ", "openWith": "vlc"},
 
 
 
@@ -120,6 +119,7 @@
 
 
 ]
+
 
 
 
