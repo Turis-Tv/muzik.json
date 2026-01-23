@@ -73,7 +73,7 @@
 
 {"name": "Tvnet", "url": "https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8?start=LIVE&end=END", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 
-"name": "Meclis Tv", "url": "https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
+{"name": "Meclis Tv", "url": "https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 {"name": "Trt Türk", "url": "https://tv-trtturk.medya.trt.com.tr/master_720.m3u8", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 {"name": "Trt Avaz", "url": "https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 {"name": "TRT World", "url": "https://tv-trtworld.medya.trt.com.tr/master_720.m3u8", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
@@ -111,7 +111,7 @@
 
 
 
-{
+
 {"name": " ", "url": "http:/ ", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 {"name": " ", "url": "http:/ ", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
  
@@ -166,6 +166,7 @@
 
 
 ]
+
 
 
 
