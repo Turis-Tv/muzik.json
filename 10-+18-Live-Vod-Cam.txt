@@ -268,7 +268,7 @@
   {"name": "Cosplay","url": "http://1tv41.icu:8080/live/0QgnMM/235554/215511.m3u8","logo": "","category": "adult","subCategory": "2","openWith": "vlc"},
   {"name": "Creampie","url": "http://1tv41.icu:8080/live/0QgnMM/235554/215512.m3u8","logo": "","category": "adult","subCategory": "2","openWith": "vlc"},
   {"name": "Creamy Spot","url": "http://1tv41.icu:8080/live/0QgnMM/235554/215513.m3u8","logo": "","category": "adult","subCategory": "2","openWith": "vlc"},
-  {"name": "Crystal Lust","url": "http://1tv41.icu:8080/live/0QgnMM/235554/215514.m3u8","logo": "","category": "adult","subCategory": "2e","openWith": "vlc"},
+  {"name": "Crystal Lust","url": "http://1tv41.icu:8080/live/0QgnMM/235554/215514.m3u8","logo": "","category": "adult","subCategory": "2","openWith": "vlc"},
   {"name": "Crystal Rush","url": "http://1tv41.icu:8080/live/0QgnMM/235554/215515.m3u8","logo": "","category": "adult","subCategory": "2","openWith": "vlc"},
   {"name": "Cuckold","url": "http://1tv41.icu:8080/live/0QgnMM/235554/215516.m3u8","logo": "","category": "adult","subCategory": "2","openWith": "vlc"},
   {"name": "Cum in Mouth","url": "http://1tv41.icu:8080/live/0QgnMM/235554/215517.m3u8","logo": "","category": "adult","subCategory": "2","openWith": "vlc"},
@@ -821,6 +821,7 @@
 
 
 ]
+
 
 
 
