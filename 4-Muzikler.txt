@@ -16,22 +16,18 @@
 {"name":"Navahang","logo":"https://i.imgur.com/jB7c7fM.png","category":"muzik","subCategory":"","url":"https://hls.navahang.live/hls/stream.m3u8?start=LIVE&end=END"},
 {"name":"Avang","logo":"https://i.imgur.com/jB7c7fM.png","category":"muzik","subCategory":"","url":"https://hls.avang.live/hls/stream.m3u8?start=LIVE&end=END"},
 
+{"name": "POWER TV","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49256","logo": "...","category": "Muzik","subCategory": " ","openWith": "vlc"},
+{"name": "Tatlises TV","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49258","logo": "...","category": "Muzik","subCategory": " ","openWith": "vlc"},
+{"name": "DREAM TV","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49259","logo": "...","category": "Muzik","subCategory": " ","openWith": "vlc"},
+{"name": "DREAM TURK","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49260","logo": "...","category": "Muzik","subCategory": " ","openWith": "vlc"},
+{"name": "DREAM TURK","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48922","logo": "...","category": "Muzik","subCategory": " ","openWith": "vlc"},
+{"name": "TRT MUZIK","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48923","logo": "...","category": "Muzik","subCategory": " ","openWith": "vlc"},
+{"name": "TRT MUZIK","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48924","logo": "...","category": "Muzik","subCategory": " ","openWith": "vlc"},
+ 
 
-  {"name": "NR1 TURK TV","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49256","logo": "...","category": "spor","subCategory": "muzik","openWith": "vlc"},
-
-  {"name": "POWER TV","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49257","logo": "...","category": "spor","subCategory": "muzik","openWith": "vlc"},
-
-  {"name": "Tatlises TV","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49258","logo": "...","category": "spor","subCategory": "muzik","openWith": "vlc"},
-
-  {"name": "DREAM TV","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49259","logo": "...","category": "spor","subCategory": "muzik","openWith": "vlc"},
-
-  {"name": "DREAM TURK","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49260","logo": "...","category": "spor","subCategory": "muzik","openWith": "vlc"},
-
-  {"name": "DREAM TURK","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48922","logo": "...","category": "spor","subCategory": "muzik","openWith": "vlc"},
-
-  {"name": "TRT MUZIK","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48923","logo": "...","category": "spor","subCategory": "muzik","openWith": "vlc"},
-
-  {"name": "TRT MUZIK","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48924","logo": "...","category": "spor","subCategory": "muzik","openWith": "vlc"},
+ 
+  
+   
 
  
 
@@ -96,6 +92,7 @@
 {"name":"KRAL POP","logo":"https://i.imgur.com/jB7c7fM.png","category":"","subCategory":"Yabanci","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/446162"}
 
 ]
+
 
 
 
