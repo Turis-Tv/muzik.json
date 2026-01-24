@@ -1,29 +1,6 @@
 [
 
-{
-  "name": "Contact Form",
-  "url": "https://turis-tv.github.io/Ana-Menu/1-ContactForm/index.html",
-  "logo": "https://img.icons8.com/fluency/96/link.png",
-  "category": "TV",
-  "type": "link"
-},
 
-{
-  "name": "Radyo",
-  "url": "https://turis-tv.github.io/Ana-Menu/1-ContactForm/index.html",
-  "logo": "https://img.icons8.com/fluency/96/link.png",
-  "category": "TV",
-  "type": "link"
-},
-
-
-{
-  "name": "tttttt",
-  "url": "https://turis-tv.github.io/2026-Appcreator/Radyo/index.html",
-  "logo": "https://img.icons8.com/fluency/96/link.png",
-  "category": "ulusal",
-  "type": "link"
-},
 
 
 
@@ -513,6 +490,7 @@
 
 
 ]
+
 
 
 
