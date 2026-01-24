@@ -1,6 +1,7 @@
 [
 
 
+ {"name": "Apk Player","url": "https://turis-tv.github.io/2026-Appcreator/13-Player-Indir/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
 
  {"name": "tt12","url": "https://oklivetv.com/vivid-red-hd-live/","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
 
@@ -70,6 +71,7 @@
 
 
 ]
+
 
 
 
