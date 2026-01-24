@@ -86,12 +86,15 @@
 {"name":"MAX Muslum Gurses MUZIK TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"muzik","subCategory":"","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/191100"},
 {"name":"DREAM TÛRK","logo":"https://i.imgur.com/jB7c7fM.png","category":"muzik","subCategory":"","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/446158"},
 {"name":"POWER TÛRK","logo":"https://i.imgur.com/jB7c7fM.png","category":"muzik","subCategory":"","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/446160"},
-{"name":"KRAL POP","logo":"https://i.imgur.com/jB7c7fM.png","category":"muzik","subCategory":"Yabanci","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/446162"},
-
  
-{"name":"KRAL POP","logo":"https://i.imgur.com/jB7c7fM.png","category":"","subCategory":"Yabanci","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/446162"}
+ 
+{"name": "KRAL POP","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/446162","logo": "...","category": "Muzik","subCategory": " ","openWith": "vlc"}
+ 
+
+
 
 ]
+
 
 
 
