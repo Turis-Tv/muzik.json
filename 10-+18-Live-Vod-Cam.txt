@@ -8,7 +8,7 @@
 {"name": "Babes","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48994","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "BangU","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48995","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "Blue Hustler","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48997","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
-{"name": "Brazzers","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48998","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
+{"name": "Brazzers-1","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48998","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
 {"name": "Dorcel","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48999","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "Erox","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49001","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "Eroxxx","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49002","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
@@ -957,6 +957,7 @@
 
 
 ]
+
 
 
 
