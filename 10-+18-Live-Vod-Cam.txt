@@ -22,7 +22,6 @@
 {"name": "Pure Babes","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49010","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "Reality Kings-1","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49011","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
 {"name": "Redlight","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49012","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-{"name": "Vivid Red","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49013","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "Super One","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49014","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "XY plus","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49015","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "XY max","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49016","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
@@ -32,22 +31,21 @@
  
 
 {"name": "TUSHY 2 TV","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163945.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
-{"name": "XXL","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163946.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
+{"name": "XXL-1","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163946.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
 {"name": "XXX:X","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163947.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
-{"name": "XXX:EROX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163948.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
-{"name": "XXX:EROX1","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163949.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
-{"name": "XXX:HUSTLER","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163950.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
-{"name": "XXX:HUSTLER","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163951.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
-{"name": "XXX:JASMIN","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163952.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
-{"name": "XXX:PINKO","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163954.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
+{"name": "EROX XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163948.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
+{"name": "EROX-1 XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163949.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
+{"name": "HUSTLER-1 XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163950.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
+{"name": "HUSTLER XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163951.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
+{"name": "JASMIN XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163952.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
+{"name": "PINKO XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163954.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
 {"name": "Playboy TV","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163955.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
-{"name": " XXX:PRIVATE","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163958.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
-{"name": "XXX:REDLIGHT","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163959.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
-{"name": "XX:Reality Kings ","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163960.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
-{"name": "MOMS TEACH SEX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163961.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
-{"name": "XXX:SEXTREME","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163962.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
+{"name": "PRIVATE XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163958.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
+{"name": "REDLIGHT XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163959.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
+{"name": "Reality Kings XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163960.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
+{"name": "MOMS TEACH SEX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163961.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},  
 {"name": "VINTAGE X  ","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163964.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
-{"name": "XXX:Rusian Night","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163965.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
+{"name": "Rusian Night XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163965.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
 {"name": "SeXation XXX ","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163969.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
 {"name": "TABOO  XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163973.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
 {"name": "VENUS_LA1 XXX ","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163974.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
@@ -957,6 +955,7 @@
 
 
 ]
+
 
 
 
