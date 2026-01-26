@@ -325,17 +325,17 @@
 
 
 
-{"name": "Sunr Tv", "url": "https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Sunr Tv", "url": "https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8", "logo": "...", "category": "ulusal", "subCategory": "ulusal", "openWith": "vlc"},
 
 
 
-{"name": "km","url": "http://","logo": "...","category":"adult","subCategory": "Live","openWith": "km"},
+{"name": "km","url": "http://","logo": "...","category":"ulusal","subCategory": "ulusal","openWith": "km"},
 
-{"name": "wuffy","url": "http://","logo": "...","category":"adult","subCategory": "Live","openWith": "wuffy"},
+{"name": "wuffy","url": "http://","logo": "...","category":"ulusal","subCategory": "ulusal","openWith": "wuffy"},
 
-{"name": "oplayer","url": "http://","logo": "...","category":"adult","subCategory": "Live","openWith": "oplayer"},
+{"name": "oplayer","url": "http://","logo": "...","category":"ulusal","subCategory": "ulusal","openWith": "oplayer"},
 
-{ "name": "mx","url": "http://","logo": "...","category":"adult","subCategory": "Live","openWith": "mx"},
+{ "name": "mx","url": "http://","logo": "...","category":"ulusal","subCategory": "ulusal","openWith": "mx"},
 
 
 
@@ -490,6 +490,7 @@
 
 
 ]
+
 
 
 
