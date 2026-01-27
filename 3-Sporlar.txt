@@ -1,10 +1,9 @@
 [
 
 
-   {"name": "Turis Web","url": "https://www.google.be","logo": "...","category": "web","subCategory": "Canlı","openWith": "web"},
-   {"name": "Turis Web1","url": "https://www.google.be","logo": "...","category": "web","subCategory": "Canlı","openWith": "web"},
+ 
 
-   {"name": "BEIN SPORT 30","url": "https://bstelevision.com/proxy_stream.php?u=http://104.238.23.182/tv/1/bein3.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
 
 
    {"name": "BEIN SPORT 1","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49219","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
@@ -22,6 +21,8 @@
    {"name": "S Sport 2","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49225","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
    {"name": "TiViBU SPOR 2","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49226","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+   {"name": "BEIN SPORT 30","url": "https://bstelevision.com/proxy_stream.php?u=http://104.238.23.182/tv/1/bein3.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
    {"name": "TiViBU SPOR 1","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49227","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
@@ -279,6 +280,7 @@
 
 
 ]
+
 
 
 
