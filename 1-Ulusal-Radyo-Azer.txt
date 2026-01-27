@@ -41,14 +41,30 @@
 {"name": "Atv", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48847", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 {"name": "Show Tv", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48848", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 {"name": "Show Tv", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48849", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+
 {"name": "Show Türk", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48850", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+
 {"name": "Star Tv", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48851", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 {"name": "Star Tv", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48852", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
-{"name": "Euro Star", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48853", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Star Tv", "url": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7w0v4blzrjky&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=M3U8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Star Tv", "url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6270", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Star Tv", "url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192066", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Star Tv", "url": "http://95.174.71.114:80/TR-STAR/index.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Star Tv", "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Star Tv", "url": "http://95.174.71.114/TR-STAR/index.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Star Tv", "url": "http://dygvideo.dygdigital.com/live/hls/stardai?m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Star Tv", "url": "http://87.246.54.249:8080/StarTV/index.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Star Tv", "url": "http://116.202.238.88/STARTV_TR/index.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+
+
+{"name": "Eu Star", "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Eu Star", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48853", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+
 {"name": "Kanal D", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48854", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 {"name": "Kanal D", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48855", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 {"name": "Euro D", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48856", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 {"name": "Euro D", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48857", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+
 {"name": "Now Tv", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48858", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 
 {"name": "Tv8", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48859", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
@@ -199,20 +215,9 @@
 {"name":"Euro D","url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
 
 
-{"name":"Star Tv","url": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7w0v4blzrjky&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=M3U8","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Star Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6270","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Star Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192066","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Star Tv","url": "http://95.174.71.114:80/TR-STAR/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+
  
-{"name":"Star Tv","url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Star Tv","url": "http://95.174.71.114/TR-STAR/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Star Tv","url": "http://dygvideo.dygdigital.com/live/hls/stardai?m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Star Tv","url": "http://87.246.54.249:8080/StarTV/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Star Tv","url": "http://116.202.238.88/STARTV_TR/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
- 
- 
- 
-{"name":"Eu Star","url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+
  
  
 
@@ -472,6 +477,7 @@
 
 
 ]
+
 
 
 
