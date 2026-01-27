@@ -133,33 +133,24 @@
 
 
 
+{"name": "KuzeyMax", "url": "http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
 
+{"name": "SINEMA 1", "url": "https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8?start=LIVE&end=END", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
 
+{"name": "KANAL 19", "url": "https://live.euromediacenter.com/kanal19/index.m3u8?start=LIVE&end=END", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
 
+{"name": "ONE 4", "url": "https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
 
+{"name": "TIVI 6", "url": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
 
+{"name": "TV 4", "url": "https://turkmedya-live.ercdn.net/tv4/tv4.m3u8", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"},
 
+{"name": "RIZE TÛRK", "url": "https://yayin.rizeturk.com:3777/hybrid/play.m3u8?start=LIVE&end=END", "logo": "", "category": " ", "subCategory": "Film", "openWith": "vlc"}
 
-
- {"name":"KuzeyMax","logo":"https://i.imgur.com/jB7c7fM.png","category":"film","subCategory":"Film","url":"http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8"},
  
+
+
  
-  
- 
-  
- 
-{"name":"SINEMA 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"film","subCategory":"Film","url":"https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8?start=LIVE&end=END"},
-
-{"name":"KANAL 19","logo":"https://i.imgur.com/jB7c7fM.png","category":"film","subCategory":"Film","url":"https://live.euromediacenter.com/kanal19/index.m3u8?start=LIVE&end=END"},
-
-{"name":"ONE 4","logo":"https://i.imgur.com/jB7c7fM.png","category":"film","subCategory":"Film","url":"https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8"},
-
-{"name":"TIVI 6","logo":"https://i.imgur.com/jB7c7fM.png","category":"film","subCategory":"Film","url":"https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8"},
-
-{"name":"TV 4","logo":"https://i.imgur.com/jB7c7fM.png","category":"film","subCategory":"Film","url":"https://turkmedya-live.ercdn.net/tv4/tv4.m3u8"},
-
-{"name":"RIZE TÛRK","logo":"https://i.imgur.com/jB7c7fM.png","category":"film","subCategory":"Film","url":"https://yayin.rizeturk.com:3777/hybrid/play.m3u8?start=LIVE&end=END"}
-
 
 
 
@@ -171,6 +162,7 @@
 
 
 ]
+
 
 
 
