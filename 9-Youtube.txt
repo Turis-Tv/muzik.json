@@ -9,7 +9,6 @@
 
 {"name":"Ey Aşk Yaktın Beni","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/watch?v=0pSk5U452vQ"},
 
-
 {"name":"Derdim Derinde","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/watch?v=HlnRNOLwUX4"},
 
 {"name":"Geceye Sor ","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/watch?v=lQXoQjdz1Jo"},
@@ -134,6 +133,7 @@
 
 
 ]
+
 
 
 
