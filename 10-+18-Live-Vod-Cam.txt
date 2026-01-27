@@ -63,12 +63,7 @@
 
 
 
-
-
-
-{"name": "Evilangel XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164512.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
-{"name": "Extasys TV XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164513.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-{"name": "Hustler TV XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164519.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
+ 
 {"name": "MIAMI TV MEXICO XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164522.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": " Anal XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164524.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "Arab Girls XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164525.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
@@ -76,24 +71,24 @@
 {"name": "Big Tits Girls XXX ","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164527.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "Blonde Girls XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164528.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "Olala XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164530.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-{"name": "Penthouse Gold XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164537.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-{"name": "Penthouse Passion XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164539.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-{"name": "Penthouse Reality  XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164540.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
+ 
+ 
+ 
 {"name": "Playboy XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164543.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "Playboy HD XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164544.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "Private TV XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164546.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-{"name": "Red Light XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164548.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
+ 
 {"name": "Traffic Big Dick XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164550.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "RTraffic Fetish XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164551.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "RTraffic Interracial XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164552.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "RTraffic Pornstar XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164553.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "RTraffic Rough XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164554.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},  
 {"name": "SexMex XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164556.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-{"name": "Sextreme XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164558.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
-{"name": "Sextreme XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164559.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-{"name": "Super One XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164560.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
+ 
+ 
+ 
 {"name": "VENUS TV  XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164567.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-{"name": "VENUS XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164568.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
+ 
 {"name": "XXX:XXL XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164572.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "Carolina Romo XXX","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/169993.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "Isabela Pelaez","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/170011.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
@@ -170,8 +165,7 @@
 
 
 
-{"name": "TRANS ANGELS","url": "http://1tv41.icu:8080/live/0QgnMM/235554/159951.m3u8","logo": "...","category": "adult","subCategory": "1","openWith": "vlc"}, 
-{"name": "TRANS EROTICA","url": "http://1tv41.icu:8080/live/0QgnMM/235554/159952.m3u8","logo": "...","category": "adult","subCategory": "1","openWith": "vlc"}, 
+ 
 {"name": "GIRL KNOWS","url": "http://1tv41.icu:8080/live/0QgnMM/235554/159953.m3u8","logo": "...","category": "adult","subCategory": "1","openWith": "vlc"}, 
 {"name": "ADULT TIME","url": "http://1tv41.icu:8080/live/0QgnMM/235554/159954.m3u8","logo": "...","category": "adult","subCategory": "1","openWith": "vlc"}, 
 {"name": "BLACK X","url": "http://1tv41.icu:8080/live/0QgnMM/235554/159955.m3u8","logo": "...","category": "adult","subCategory": "1","openWith": "vlc"}, 
@@ -735,6 +729,7 @@
 
 
 
+ 
 
 
 
@@ -760,11 +755,9 @@
 
 
 
+  {"name": "Pornos","url": "http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4","logo": "","category": "adult","subCategory": "Vod","openWith": "vlc"},  
 
-
-
-
-{"name":"Pornos","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4"},
+ 
 {"name":"XXX 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"https://ovhv47.twincdn.com/videos/32/32190/32190_720p.mp4"},
 {"name":"XXX 2","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"http://ovhv40.twincdn.com/videos/prime/00/01/92/99.mp4"},
 {"name":"XXX 3","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"https://video1.tizam.cc/vk/AMasseusesRevenge.mp4"},
@@ -915,11 +908,10 @@
 {"name":"Vod 7","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4"},
 {"name":"Vod 8","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4"},
 {"name":"Vod 9","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4"},
-{"name":"Babes 17","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"http://finevids.xxx/get_file/1/3d6feb808a0edfcedea916dfbed0f428/82000/82103/82103.mp4/"},
-{"name":"Babes 18","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"http://finevids.xxx/get_file/1/197767f6be9c3d33665cde6f29d4f8fb/81000/81697/81697.mp4/"},
-{"name":"Babes 19","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4/"},
-{"name":"Babes 20","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"http://finevids.xxx/get_file/1/0a0b117bc9a6a1ed64c0ced9cedc4f0c/81000/81667/81667.mp4/"},
-{"name":"Babes 21","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"http://finevids.xxx/get_file/1/0a0b117bc9a6a1ed64c0ced9cedc4f0c/81000/81667/81667.mp4/"},
+ 
+ 
+ 
+ 
 
 
 
@@ -955,6 +947,7 @@
 
 
 ]
+
 
 
 
