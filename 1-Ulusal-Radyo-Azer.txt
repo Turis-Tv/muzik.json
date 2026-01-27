@@ -12,6 +12,18 @@
 {"name": "Trt 4K", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49172", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 {"name": "Trt 1", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48839", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 {"name": "Trt 1", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48840", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Trt 1", "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Trt 1", "url": "https://trt.daioncdn.net/trt-1/master.m3u8?app=web", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Trt 1", "url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/358053", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Trt 1", "url": "https://streams.uzunmuhalefet.com/stream/535f4f5a-3ffa-4919-bb5d-5d31024c9237.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Trt 1", "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Trt 1", "url": "http://87.246.54.249:8080/TRT1/index.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Trt 1", "url": "https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=7uqvag61gnys&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+
+
+
+
+
 {"name": "Trt 2", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48841", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 {"name": "Trt Türk", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48842", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 {"name": "Trt Türk", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48843", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
@@ -30,14 +42,32 @@
 {"name": "Euro D", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48856", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 {"name": "Euro D", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48857", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 {"name": "Now Tv", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48858", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+
 {"name": "Tv8", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48859", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 {"name": "Tv8", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48860", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
-{"name": "Tv8 Int", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48861", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Tv8", "url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20742", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Tv8", "url": "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Tv8", "url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192072", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Tv8", "url": "http://89.187.191.41/TV8-HD-TR/video.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Tv8", "url": "http://95.174.71.114:80/TR-TV8/index.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Tv8", "url": "http://87.246.54.249:8080/TV8/index.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Tv8", "url": "http://116.202.238.88/TV8_TR/index.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+
+{"name": "Tv 8,5", "url": "http://65.108.239.207/tv85/index.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Tv 8,5", "url": "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Tv 8,5", "url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6281", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 {"name": "Tv 8,5", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48862", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
-{"name": "Kanal 7", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48863", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 {"name": "Tv 8,5", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48864", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+ 
+{"name": "Tv8 Int", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48861", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+
+
+
+{"name": "Kanal 7", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48863", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 {"name": "Kanal 7", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48865", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 {"name": "Kanal 7 Eu", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48866", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+
+
 {"name": "Show Max", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48867", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 {"name": "Show Max", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48868", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 {"name": "Tgrt Eu", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48869", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
@@ -71,7 +101,7 @@
 {"name": "Cem Tv", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49177", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 {"name": "Deha Tv", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49179", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 {"name": "Mavi Karadeniz", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49180", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
-{"name": "Semerkant", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49181", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Semerkant", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49181", "logo": "...", "category": "ulusal", "subCategory": "Dini", "openWith": "vlc"},
 {"name": "Lalegül", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49182", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 {"name": "iLKE TV", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49183", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 {"name": "Yildiz Tv", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49184", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
@@ -102,20 +132,14 @@
 {"name": "Line Tv", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49213", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 
 
-{"name":"Trt 1","url": "https://tv-trt1.medya.trt.com.tr/master.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"},
 
 
-{"name":"Trt 1","url": "https://trt.daioncdn.net/trt-1/master.m3u8?app=web","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"},
 
  
-{"name": "Trt 1","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/358053","logo": "...","category": "ulusal","subCategory": "TV","openWith": "vlc"},
-{"name": "Trt 1","url": "https://streams.uzunmuhalefet.com/stream/535f4f5a-3ffa-4919-bb5d-5d31024c9237.m3u8","logo": "...","category":"ulusal","subCategory": "TV","openWith": "km"},
 
-{"name":"Trt 1","url": "","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"}, 
-{"name":"Trt 1","url": "https://tv-trt1.medya.trt.com.tr/master.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"},  
-{"name":"Trt 1","url": "http://87.246.54.249:8080/TRT1/index.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"},
+ 
 
-{"name":"Trt 1","url": "https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=7uqvag61gnys&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"},
+ 
 
 
 {"name":"Tabii 1","url": "https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"},
@@ -217,18 +241,7 @@
 
 
 
- {"name":"Tv 8","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20742","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Tv 8","url": "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
 
-{"name":"Tv 8","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192072","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Tv 8","url": "http://89.187.191.41/TV8-HD-TR/video.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Tv 8","url": "http://95.174.71.114:80/TR-TV8/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Tv 8","url": "http://87.246.54.249:8080/TV8/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Tv 8","url": "http://116.202.238.88/TV8_TR/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-
- {"name":"Tv 8,5","url": "http://65.108.239.207/tv85/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Tv 8,5","url": "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-{"name":"Tv 8,5","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6281","logo": " ","category": "ulusal","subCategory": "TV"},
 
  
 
@@ -267,8 +280,6 @@
 {"name":"Tv 360","url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
 {"name":"Tv 360","url": "https://tv.ensonhaber.com/tv360/tv360.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
 
- 
- 
 {"name":"Trt Türk","url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
 
 {"name":"Trt Avaz","url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},  
@@ -276,7 +287,6 @@
 
 {"name":"Trt 2","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/186242","logo": " ","category": "ulusal","subCategory": "TV"}, 
 {"name":"Trt 2","url": "https://tv-trt2.medya.trt.com.tr/master.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},  
-
 {"name":"Trt 2","url": "http://87.246.54.249:8080/TRT2/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
 {"name":"Trt 2","url": "http://95.174.71.114:80/TR-TRT2/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
  
@@ -315,12 +325,7 @@
 
 {"name":"Kanal 26","url": "https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
 
-
-
 {"name":"Kanal 58","url": "https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
-
-
-
 {"name": "Sunr Tv", "url": "https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 
 
@@ -486,6 +491,7 @@
 
 
 ]
+
 
 
 
