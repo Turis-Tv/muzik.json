@@ -8,11 +8,12 @@
 
 {"name": "SUPER TÛRK", "url": "http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8?start=LIVE&end=END", "logo": "...", "category": " ", "subCategory": " ", "openWith": "vlc"},
 
-{"name": "inzone", "url": "https://stream.appradiofm.com/stream?url=http://stream.laut.fm/inzone", "logo": "...", "category": " ", "subCategory": " ", "openWith": "vlc"},
+ 
 
-{"name": "Navahang", "url": "https://hls.navahang.live/hls/stream.m3u8?start=LIVE&end=END", "logo": "...", "category": " ", "subCategory": " ", "openWith": "vlc"},
-{"name": "Avang", "url": "https://hls.avang.live/hls/stream.m3u8?start=LIVE&end=END", "logo": "...", "category": " ", "subCategory": " ", "openWith": "vlc"},
+ 
 {"name": "POWER TV","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49256", "logo": "...", "category": " ", "subCategory": " ", "openWith": "vlc"},
+{"name": "POWER TV", "url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/101126", "logo": "...", "category": " ", "subCategory": " ", "openWith": "vlc"},
+
 
 {"name": "Tatlises TV","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49258", "logo": "...", "category": " ", "subCategory": " ", "openWith": "vlc"},
 
@@ -106,7 +107,7 @@
 
 {"name": "TATLISES", "url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/101125", "logo": "...", "category": " ", "subCategory": " ", "openWith": "vlc"},
 
-{"name": "POWER TV", "url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/101126", "logo": "...", "category": " ", "subCategory": " ", "openWith": "vlc"},
+
 
 {"name": "DREAM TÛRK", "url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/101885", "logo": "...", "category": " ", "subCategory": " ", "openWith": "vlc"},
 
@@ -148,6 +149,7 @@
 
 
 ]
+
 
 
 
