@@ -61,10 +61,10 @@
 {"name":"Batman'dan Yar Seversem","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/gwGH5V20_CM"},
 {"name":"Kostak Kostak & Şeker Oğlan","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/pztDllbPscg"},
 {"name":"Kostak Yeri","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/EUV0MXoT2IY"},
-{"name":"Gözlerim Yaşlı ","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/LLkgEvO0YzU"},
+{"name":"Gözlerim Yaşlı ","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/VdRuBIeeZmg"},
 {"name":"Sar Sarmala","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/Dfz2PqrnNmA"},
 {"name":"Bilemedim ","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/TqWUEUKaqU8"},
-{"name":"Hep Seni Söyledi","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/zHEow6acN4o"},
+{"name":"Hep Seni Söyledi","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/aVIwHnvSbEU"},
 {"name":"Yıkılsın Dünya","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/4Phyc-AX280"},
 {"name":"Öyle Çaresizim ki ","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/kA2G-ZKLmmo"},
 {"name":"Senden Uzakta","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/ZCVNb1Nz-Ms"},
@@ -123,6 +123,7 @@
 
 
 ]
+
 
 
 
