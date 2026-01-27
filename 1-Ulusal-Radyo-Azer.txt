@@ -282,8 +282,8 @@
  
 {"name":"Trt Erba","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6091","logo": " ","category": "ulusal","subCategory": "TV"},  
 
+{"name": "Luys Tv", "url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/186268", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 
-{"name":"Luys Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/186268","logo": " ","category": "ulusal","subCategory": "TV"},  
  
 
 {"name":"Kanal Plus","url": "https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},   
@@ -486,6 +486,7 @@
 
 
 ]
+
 
 
 
