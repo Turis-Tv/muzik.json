@@ -7,7 +7,7 @@
 
 {"name":"Sahtesiniz","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/FjE0wj0_Zvk"},
 
-{"name":"Sahtesiniz","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/FjE0wj0_Zvk"},
+
 
  {"name":"BIRAKMADI SEVDAN BENİ","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/t3ElULpsXwk"},
  
@@ -20,7 +20,9 @@
 
 
  {"name":"Geceye Sor","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/lQXoQjdz1Jo"},
+
 {"name":"Açma Zülüflerin Psychedelic","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/KaIrr0Cz84Y"},
+
 {"name":"Açma Zülüflerin Anatolian","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/xKtJkzPuT20"},
 
 {"name":"Açma Zülüflerin ","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/Pyab1Z1xvLA"},
@@ -28,7 +30,7 @@
  {"name":"Açma Zülüflerin","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/ThbZES0QWsc"},
 
 {"name":"Hacel Obasi","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/DyvT0ugJ73M"},
-{"name":"Bu Aşkı Bir Rüya Sanma ","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/rkqsIjAiDso"},
+{"name":"Bu Aşkı Bir Rüya Sanma ","logo":"https://i.imgur.com/jB7c7fM.png","category":"youtube","subCategory":"Muzik","url":"https://www.youtube.com/embed/uR4NLU4Sm_8"},
 
 
  
@@ -121,6 +123,7 @@
 
 
 ]
+
 
 
 
