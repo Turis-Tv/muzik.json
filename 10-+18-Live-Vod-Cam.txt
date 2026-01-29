@@ -755,9 +755,39 @@
 
 
 
-  {"name": "Pornos","url": "http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4","logo": "","category": "adult","subCategory": "Vod","openWith": "vlc"},  
-
  
+ 
+ 
+
+
+
+
+{"name":"🎥Live Cams","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://cdn.adultiptv.net/livecams.m3u8"},
+{"name":"🎥 White","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/white.m3u8"},
+{"name":"🎥 White","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/white.m3u8"},
+{"name":"🎥 Squirt","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/squirt.m3u8"},
+{"name":"🎥 Squirt","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/squirt.m3u8"},
+{"name":"🎥 Squirt","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/white.m3u8"},
+{"name":"🎥 Skinny","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/arab.m3u8"},
+{"name":"🎥 Latina","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/latina.m3u8"},
+{"name":"🎥 Ebony","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/medium.m3u8"},
+{"name":"🎥 Brunette","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/brunette.m3u8"},
+{"name":"🎥 Blonde","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/blonde.m3u8"},
+{"name":"🎥 Big Tits","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/bigtits.m3u8"},
+{"name":"🎥 Big Ass","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/defstream.m3u8"},
+{"name":"🎥 Asian","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/asian.m3u8"},
+{"name":"🎥 Anal","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/anal.m3u8"},
+{"name":"🎥 Miami TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8"},
+
+
+
+
+{"name":"🎥 Vod 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Mp4","url":"https://sexo18.net/content/2016/februar/2.mp4"},
+
+
+
+
+ {"name": "Pornos","url": "http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4","logo": "","category": "adult","subCategory": "Vod","openWith": "vlc"},  
 {"name":"XXX 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"https://ovhv47.twincdn.com/videos/32/32190/32190_720p.mp4"},
 {"name":"XXX 2","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"http://ovhv40.twincdn.com/videos/prime/00/01/92/99.mp4"},
 {"name":"XXX 3","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"https://video1.tizam.cc/vk/AMasseusesRevenge.mp4"},
@@ -910,36 +940,6 @@
 {"name":"Vod 9","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4"},
  
  
- 
- 
-
-
-
-
-{"name":"🎥Live Cams","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://cdn.adultiptv.net/livecams.m3u8"},
-{"name":"🎥 White","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/white.m3u8"},
-{"name":"🎥 White","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/white.m3u8"},
-{"name":"🎥 Squirt","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/squirt.m3u8"},
-{"name":"🎥 Squirt","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/squirt.m3u8"},
-{"name":"🎥 Squirt","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/white.m3u8"},
-{"name":"🎥 Skinny","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/arab.m3u8"},
-{"name":"🎥 Latina","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/latina.m3u8"},
-{"name":"🎥 Ebony","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/medium.m3u8"},
-{"name":"🎥 Brunette","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/brunette.m3u8"},
-{"name":"🎥 Blonde","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/blonde.m3u8"},
-{"name":"🎥 Big Tits","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/bigtits.m3u8"},
-{"name":"🎥 Big Ass","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/defstream.m3u8"},
-{"name":"🎥 Asian","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/asian.m3u8"},
-{"name":"🎥 Anal","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://live.mycamtv.com/anal.m3u8"},
-{"name":"🎥 Miami TV","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8"},
-
-
-
-
-{"name":"🎥 Vod 1","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Mp4","url":"https://sexo18.net/content/2016/februar/2.mp4"},
-
-
-
 
 
 {"name":"PORNOS","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Vod","url":"http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4"},
@@ -951,6 +951,7 @@
 
 
 ]
+
 
 
 
