@@ -130,8 +130,8 @@
 {"name": "VENUS","url": "http://tv.diablotv.net:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164567","logo": "https://iguanet.com:44330/images/IpWGog6gzSU4RA5sWPsYyxmFa9TXeCxy9Pst30iLILwZWEPf4fLEz-jpnozOUsaC.png","category": "adult","subCategory": "Live 1","openWith": "vlc"},
 {"name": "VENUS 1","url": "http://tv.diablotv.net:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164568","logo": "https://iguanet.com:44330/images/IpWGog6gzSU4RA5sWPsYyxmFa9TXeCxy9Pst30iLILwZWEPf4fLEz-jpnozOUsaC.png","category": "adult","subCategory": "Live 1","openWith": "vlc"},
 {"name": "XXL 1","url": "http://tv.diablotv.net:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164572","logo": "https://iguanet.com:44330/images/bAvi4ww4EoNWlevcj0Vue7Moyxwfv0rNrsY_crKw7Fsru1pbBEP2Zt6HXSHS1LA6N6isDSQo-ZzOCJ7TAQfHxGevgF2tm1AzJXW4XG4GddU.jpeg","category": "adult","subCategory": "Live 1","openWith": "vlc"},
-{"name": " Carolina Romo 1","url": "http://tv.diablotv.net:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/169993","logo": "https://hora32.com.ec/wp-content/uploads/2021/11/WhatsApp-Image-2021-10-29-at-15.49.01-1024x708.jpeg","category": "adult","subCategory": "24/7 Only Fans (+18)","openWith": "vlc"},
-{"name": "Isabela Pelaez Premium 1","url": "http://tv.diablotv.net:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/170011","logo": "https://www.tunota.com/wp-content/uploads/2024/11/principal_isabela-pelaez-onlyfans-donde-ver-fotos-videos-gratis-influencer.jpg","category": "adult","subCategory": "24/7 Only Fans (+18)","openWith": "vlc"},
+{"name": " Carolina Romo 1","url": "http://tv.diablotv.net:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/169993","logo": "https://hora32.com.ec/wp-content/uploads/2021/11/WhatsApp-Image-2021-10-29-at-15.49.01-1024x708.jpeg","category": "adult","subCategory": "Live 1","openWith": "vlc"},
+{"name": "Isabela Pelaez Premium 1","url": "http://tv.diablotv.net:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/170011","logo": "https://www.tunota.com/wp-content/uploads/2024/11/principal_isabela-pelaez-onlyfans-donde-ver-fotos-videos-gratis-influencer.jpg","category": "adult","subCategory": "Live 1","openWith": "vlc"},
 
 
 
@@ -1196,6 +1196,7 @@
 
 
 ]
+
 
 
 
