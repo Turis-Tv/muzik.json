@@ -3,6 +3,8 @@
 
 {"name": " Brazzers TV (i)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164503","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "Fake Taxi (i)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/173019","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
+{"name": "PINKO 1","url": "http://tv.diablotv.net:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163954","logo": "","category": "adult","subCategory": "Live 1","openWith": "vlc"},
+{"name": "Public Agent (i)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172833","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "Grup Sex -1","url": "http://94.236.201.122/PASSIONXXX/index.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "Penthouse Reality-1","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48992","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "Penthouse Reality-","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
@@ -28,7 +30,7 @@
 {"name": "XY max-","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49016","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "XY mix-","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49017","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "Cent Cento","url": "http://94.236.201.122/CENTOXCENTO/index.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-{"name": "Public Agent ((i)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172833","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
+
 
 
 
@@ -60,7 +62,6 @@
 {"name": " Blue Hustler (i)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164502","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": " CentoxCento (i)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164505","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": " Eroxxx (i)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164511","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-{"name": " Evilangel (i)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164512","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": " Extasys TV (i)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164513","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": " Hustler TV (i)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164519","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": " MIAMI TV MEXICO (i)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164522","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
@@ -71,7 +72,6 @@
 {"name": " Blonde Girls (i)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164528","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": " Olala (i)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164530","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": " Penthouse Gold (i)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164537","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-{"name": " Penthouse Passion (i)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164539","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": " Penthouse Reality TV (i)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164540","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": " Playboy HD 5(i)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164543","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": " Playboy HD (i)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164544","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
@@ -240,7 +240,6 @@
 {"name": "HUSTLER 1","url": "http://tv.diablotv.net:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163950","logo": "","category": "adult","subCategory": "Live 1","openWith": "vlc"},
 {"name": "HUSTLER1 1","url": "http://tv.diablotv.net:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163951","logo": "","category": "adult","subCategory": "Live 1","openWith": "vlc"},
 {"name": "JASMIN 1","url": "http://tv.diablotv.net:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163952","logo": "","category": "adult","subCategory": "Live 1","openWith": "vlc"},
-{"name": "PINKO 1","url": "http://tv.diablotv.net:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163954","logo": "","category": "adult","subCategory": "Live 1","openWith": "vlc"},
 {"name": "Playboy 1","url": "http://tv.diablotv.net:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163955","logo": "","category": "adult","subCategory": "Live 1","openWith": "vlc"},
 {"name": "PRIVATE 1","url": "http://tv.diablotv.net:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163958","logo": "","category": "adult","subCategory": "Live 1","openWith": "vlc"},
 {"name": "REDLIGHT 1 ","url": "http://tv.diablotv.net:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/163959","logo": "","category": "adult","subCategory": "Live 1","openWith": "vlc"},
@@ -1356,6 +1355,7 @@
 
 
 ]
+
 
 
 
