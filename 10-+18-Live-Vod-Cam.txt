@@ -34,7 +34,7 @@
 {"name": "TUSHY 2 (1)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163945","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": " XXL (1)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163946","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": " X (1)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163947","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-{"name": " EROX (1)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163948","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
+{"name": " EROX 1(1)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163948","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": " EROX  (1)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163949","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": " HUSTLER (1)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163950","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": " HUSTLER TV (1)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163951","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
@@ -79,7 +79,7 @@
 {"name": " Penthouse Reality TV (i)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164540","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": " Playboy HD (i)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164543","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": " Playboy HD (i)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164544","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
-{"name": "XXX:Private TV (i)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164546","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
+{"name": " Private TV (i)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164546","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": " Red Light (i)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164548","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "  Big Dick (i)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164550","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": " Fetish (i)","url": "http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164551","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
@@ -1364,6 +1364,7 @@
 
 
 ]
+
 
 
 
