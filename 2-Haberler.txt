@@ -14,11 +14,11 @@
 {"name": "Trt Haber", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48925", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 {"name": "Trt Haber", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48926", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 {"name": "Trt World", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48927", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
-{"name": "24 TV", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48928", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
+
 {"name": "A Haber", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48929", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 {"name": "A Haber", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48930", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 {"name": "A News", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48931", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
-{"name": "A Para", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48932", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
+
 {"name": "Habertürk", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48933", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 {"name": "Habertürk", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48934", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 {"name": "Ntv", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48935", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
@@ -26,6 +26,7 @@
 {"name": "Bbc Earth", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48937", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
  
 {"name": "A Para", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48939", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
+{"name": "A Para", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48932", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 
 {"name": "Ülke Tv", "url": "https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 {"name": "Ülke Tv", "url": "https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8?start=LIVE&end=END", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
@@ -44,16 +45,16 @@
 {"name": "Tv 24", "url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20748", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 {"name": "Tv 24", "url": "https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 {"name": "Tv 24", "url": "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
+{"name": "Tv 24", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48928", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 
 {"name": "Trt Haber", "url": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 {"name": "Trt Haber", "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 {"name": "Trt Haber", "url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6208", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 {"name": "Trt Haber", "url": "https://tv-trthaber.medya.trt.com.tr/master_360.m3u8?start=LIVE&end=END", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
 
- {"name": "A Haber","url": "http://stream.tvcdn.net/haber/a-haber.m3u8","logo": "...","category": "haber ","subCategory": " ","openWith": "vlc"}, 
+ 
  {"name": "A Haber","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20768","logo": "...","category": "haber ","subCategory": " ","openWith": "vlc"},
- {"name": "A Haber","url": "https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=SuvEmRnFpAsxxCngY3uWcQ&e=1760529751","logo": "...","category": "haber ","subCategory": " ","openWith": "vlc"},
- {"name": "A Haber","url": "https://anym3u8player.com/youtube.php/id/68f4c967d2678.m3u8","logo": "...","category": "haber ","subCategory": " ","openWith": "vlc"},
+ 
 
 
 {"name": "Tele 1", "url": "https://tele1-live.ercdn.net/tele1/tele1.m3u8", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
@@ -146,6 +147,7 @@
 
 
 ]
+
 
 
 
