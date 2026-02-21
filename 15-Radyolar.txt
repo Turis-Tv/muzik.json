@@ -25,7 +25,7 @@
  { name: "Adana Süper", url: "http://yayin2.yayindakiler.com:4002/;" },
  { name: "Adiyaman Asr", url: "http://yayin2.yayindakiler.com:4072/;" },
  { name: "Afşi̇n Fm", url: "https://radyo.arkacadde.org/4646/afsinradyo.mp3" },
- { name: "Altin ŞArkilar", url: "https://ssl4.radyotvonline.com/radyohome/altinsarkilar.stream_aac/chunklist.m3u8" },
+ { name: "Altin Şarkilar", url: "https://ssl4.radyotvonline.com/radyohome/altinsarkilar.stream_aac/chunklist.m3u8" },
  { name: "Ankara Havalari", url: "https://ssl4.radyotvonline.com/radyohome/ankarahavalari.stream_aac/chunklist.m3u8" },
  { name: "Arabesk Bi̇z", url: "https://yayin.arabeskfm.biz:8042/stream" },
  { name: "Arabeskland", url: "https://moondigitaledge.radyotvonline.net/arabeskland/playlist.m3u8" },
@@ -114,7 +114,6 @@
  { name: "Radyo Yaren", url: "http://radyoyaren.radyotvyayini.com:8042/;" },
  { name: "Relax Home", url: "https://moondigitalmaster.radyotvonline.net/relaxhome/playlist.m3u8" },
  { name: "Slow Home", url: "https://moondigitalmaster.radyotvonline.net/slowhome/playlist.m3u8" },
- { name: "Slow Karadeni̇z Fm", url: "https://ssl162.ozelip.com/asistan/stream/fd02a93f231cba7593e027682f8fcad5" },
  { name: "Slowtürk Fm", url: "https://radyo.duhnet.tv/slowturk" },
  { name: "Tatvan Radyo 13", url: "http://yayin1.yayindakiler.com:3050/;" },
  { name: "Tezene", url: "https://moondigitaledge.radyotvonline.net/tezene/playlist.m3u8" },
@@ -125,7 +124,7 @@
  { name: "Trt Radyo 3", url: "https://rd-trtradyo3.medya.trt.com.tr/master.m3u8" },
  { name: "Radyo Arabesk", url: "https://yayin.radyoarabesk.com.tr:8000/stream" },
  { name: "Baba Radyo", url: "https://babaradyo.turkhosted.com/best/babaradyo.stream/chunklist.m3u8" },
- { name: "Bodrum Fm", url: "http://nephelis.com:8000/;" },
+
  { name: "Damar Fm", url: "https://yayin.damarfm.com/stream" },
  { name: "Dreamtürk", url: "https://radyo.duhnet.tv/dreamturk" }
 
@@ -142,6 +141,7 @@
 
 
  
+
 
 
 
