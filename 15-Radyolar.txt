@@ -5,7 +5,7 @@
 
 
 
-          { name: "Arabesk", url: "https://canli.arabeskinmerkezi.com/9180/stream" },
+ { name: "Arabesk", url: "https://canli.arabeskinmerkezi.com/9180/stream" },
  { name: "Baba", url: "https://ssldyg.radyotvonline.com/best/babaradyo.stream/playlist.m3u8" },
  { name: "Best Kina", url: "https://hepsibest.radyotvonline.net/bestkina" },
  { name: "Trt Türkü", url: "https://rd-trtturku.medya.trt.com.tr/master.m3u8" },
@@ -142,6 +142,7 @@
 
 
  
+
 
 
 
