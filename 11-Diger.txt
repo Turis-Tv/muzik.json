@@ -20,7 +20,7 @@
  {"name": "Bein Sport","url": "https://saraydorf.de/tv/darktv/","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
 
 
- {"name": "Ana Sayfa","url": "https://turis-tv.github.io/2026-Appcreator/","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+ 
 
 {"name": "Mp3 Dinle","url": "https://turis-tv.github.io/2026-Menu/3-Mp3/1-Mp3-Playlist/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
 
@@ -71,6 +71,7 @@
 
 
 ]
+
 
 
 
