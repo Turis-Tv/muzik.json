@@ -1,68 +1,315 @@
 [
 
 
- {"name": "Apk Player","url": "https://turis-tv.github.io/2026-Appcreator/13-Player-Indir/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
-
- {"name": "tt12","url": "https://oklivetv.com/vivid-red-hd-live/","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
-
- {"name": "Taaarr","url": "https://oklivetv.com/private-spice-live/","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
 
 
- {"name": "Tttest","url": "https://bstelevision.com/proxy_stream.php?u=https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
 
- {"name": "Contact Form","url": "https://cantactform.pages.dev/","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
-
- {"name": "Site Sifreleri","url": "https://turis-tv.github.io/site-sifre/","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+{"name": "Turis","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49172","logo": "...","category":"ulusal","subCategory": "TV","openWith": "wuffy"},
 
 
 
 
- {"name": "Bein Sport","url": "https://saraydorf.de/tv/darktv/","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+
+
+{"name": "Trt 1", "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Trt 1", "url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/358053", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Trt 1", "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+
+
+
+
+
+{"name": "Tabii 1", "url": "https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+  
+ 
+ 
+
+
+{"name": "Atv", "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+
+
+{"name": "Show Tv", "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+
+
+{"name": "Star Tv", "url": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7w0v4blzrjky&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=M3U8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+
+
+
+
+{"name": "Kanal D", "url": "https://tatatam.trt1sultanfatihss.workers.dev/https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+
+{"name": "Kanal D", "url": "https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Kanal D", "url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+
+
+
+  
+
+{"name": "Euro D", "url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Euro D", "url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Euro D", "url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+
+
+
+
+
+{"name": "Now Tv", "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+
+
+
+
+
+{"name": "Tv8", "url": "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Tv8", "url": "http://89.187.191.41/TV8-HD-TR/video.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+
+
+
+
+
+{"name": "Tv 8,5", "url": "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+
 
 
  
 
-{"name": "Mp3 Dinle","url": "https://turis-tv.github.io/2026-Menu/3-Mp3/1-Mp3-Playlist/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
-
-{"name": "Youtube Reklamsiz","url": "https://www.youtube.com/watch?v=FahlRE8G2mM","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
 
 
-
-{"name": "Iptv Izle","url": "https://saraydorf.de/tv/darktv/","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
-
-{"name": "Oyunlar","url": "https://1001oyun.io/?gad_source=1&gad_campaignid=22499880196","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+{"name": "Kanal 7", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48863", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Kanal 7 ", "url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6278", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Kanal 7 ", "url": "http://95.174.71.114:80/TR-KANAL-7/index.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Kanal 7 ", "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 
 
 
+{"name": "Kanal 7 Eu", "url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+
+   
 
 
 
- {"name": "Oyunlar 1","url": "https://emupedia.net/beta/emuos/","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+
+
+{"name": "Show Max", "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+
+ 
 
 
 
-{"name": "Iptv","url": "https://turis-tv.github.io/2026-Appcreator/Iptv-Yedek-Parser/1-Parser/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+
+{"name": "A2", "url": "http://89.187.191.41/A2-HD-TR/video.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+
+ 
 
 
 
-{"name": "Kemal Sunal","url": "https://turis-tv.github.io/2026-Appcreator/Kemal-Sunal-Youtube/Kemal-Sunal-Filmleri-Youtube.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+{"name": "Trt Avaz", "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+ 
 
-{"name": "Diziler Youtube","url": "https://turis-tv.github.io/2026-Appcreator/Kemal-Sunal-Youtube/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
 
- {"name": "Filmler","url": "https://turis-tv.github.io/2026-Appcreator/Films/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
- {"name": "Youtube Dizi","url": "https://turis-tv.github.io/2026-Menu/16-Youtube/1-Youtube/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
- {"name": "Dini","url": "https://turis-tv.github.io/2026-Menu/5-Dini/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
- {"name": "Radyolar","url": "https://turis-tv.github.io/2026-Menu/6-Radyolar/index.htm","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+{"name": "Beyaz Tv", "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Beyaz Tv", "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 
 
 
- {"name": "Test 1","url": "https://merhmet.github.io/Full.io/AnaMenu/01Iptv/10TurisWuffy/indexx.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
 
- {"name": "Test 2","url": "https://merhmet.github.io/Full.io/AnaMenu/01Iptv/10TurisWuffy/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+ 
+ 
+  
 
- {"name": "Test 3","url": "https://merhmet.github.io/TurisMulayim/AnaMenu/saraydorf.de/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
 
- {"name": "Test 4","url": "https://merhmet.github.io/Tinastepe1.io/index.htm","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"}
+
+
+
+{"name": "Kanal 58", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49203", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+
+
+
+
+
+
+{"name": "Tv 360", "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Tv 360", "url": "https://tv.ensonhaber.com/tv360/tv360.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+
+
+
+{"name": "Kanal Plus", "url": "https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/chunks.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+
+{"name": "Ton Tv", "url": "https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Anadolu Net", "url": "https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/chunks.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+
+{"name":"Erciyes Tv","url": "https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/chunks.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+
+{"name":"Deniz Postasi","url": "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+
+
+{"name":"E Tv","url": "https://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name":"Kent Türk Tv","url": "https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/chunks.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name":"Konya Olay Tv","url": "https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+
+{"name":"Kanal 3","url": "https://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name":"Kanal 26","url": "https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name":"Kanal 58","url": "https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+{"name": "Sunr Tv", "url": "https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
+ 
+
+  
+ 
+      
+
+
+{"name": "km","url": "http://","logo": "...","category":"ulusal","subCategory": "TV","openWith": "km"},
+
+{"name": "wuffy","url": "http://","logo": "...","category":"ulusal","subCategory": "TV","openWith": "wuffy"},
+
+{"name": "oplayer","url": "http://","logo": "...","category":"ulusal","subCategory": "TV","openWith": "oplayer"},
+
+{ "name": "mx","url": "http://","logo": "...","category":"ulusal","subCategory": "TV","openWith": "mx"},
+
+
+
+
+
+
+
+
+
+
+
+
+{"name": "Arabesk", "url": "https://canli.arabeskinmerkezi.com/9180/stream", "logo": "...", "category": "ulusal", "subCategory": "Radyo", "openWith": "vlc"},
+
+
+{ "name": "Arttt","url": "https://canli.arabeskinmerkezi.com/9180/stream","logo": "...","category":"u","subCategory": "R","openWith": "km"},
+
+{ "name": "Arabesk","url": "https://canli.arabeskinmerkezi.com/9180/stream","logo": "...","category":"ulusal","subCategory": "Radyo","openWith": "km"},
+
+
+{"name":"Arabesk Fm","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194692"},
+
+ 
+
+{"name":"Damar Fm","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://104.238.23.182/yt1/s/damarfm.m3u8"},
+
+{"name":"Radyo 45","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://104.238.23.182/yt1/s/radyo45lik.m3u8"},
+
+{"name":"Akustik Türkü","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://104.238.23.182/yt1/s/akustikturkuler.m3u8"},
+
+
+{"name":"Radyo 7","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://104.238.23.182/yt1/s/radyo7.m3u8"},
+
+{"name":"Slow Türk","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://104.238.23.182/yt1/s/slowturk.m3u8"},
+
+{"name":"Karadeniz","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://104.238.23.182/yt1/s/karadenizakustik.m3u8"},
+
+{"name":"Romantik","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://104.238.23.182/yt1/s/RomanticBallads.m3u8"},
+
+{"name":"Rock","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://104.238.23.182/yt1/s/krock.m3u8"},
+
+{"name":"Slow Karadeniz ","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194682"},
+
+{"name":"Sevimli","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194683"},
+
+{"name":"Gebze ","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194684"},
+
+
+
+{"name":"Ask Fm ","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194696"},
+
+{"name":"Merkez Fm","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194701"},
+
+{"name":"Radyo 37","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194702"},
+
+{"name":"Magic Fm","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194703"},
+
+{"name":"Radyo 38","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194707"},
+
+{"name":"Romantik Türk","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194711"},
+
+{"name":"Afyon armoni  ","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194722"},
+
+{"name":"Antakya Radyo Renk","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194723"},
+{"name":"Bilcecik Fm","logo":"","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194725"},
+{"name":"Dosy Fm","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194731"},
+{"name":"Elazig Radyo KENT","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194734"},
+
+{"name":"Elbistan Radyo Umut","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194735"},
+
+{"name":"Erzincan Incitek ","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194738"},
+
+{"name":"Erzincan Radyo Tek","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194739"},
+
+{"name":"Erzueum Radyo ","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194740"},
+
+{"name":"Gebze Gül   ","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194741"},
+
+{"name":"Genc Radyo KONYA","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194742"},
+
+{"name":"Hatay Fm","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194745"},
+
+{"name":"Hatay Schow ","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194746"},
+
+{"name":"Isra ","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194748"},
+
+{"name":"Izmir Can RADYO","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194749"},
+
+{"name":"Kay Radyo KAYSERI","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194751"},
+
+{"name":"Kayseri 38 FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194752"},
+
+{"name":"Kiziltepe ","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194754"},
+
+{"name":"Konya","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194755"},
+
+{"name":"KONYA TIRYAKI FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194756"},
+
+{"name":"MALATYA RADYO IMPARATOR","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194758"},
+
+{"name":"NIGDE FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194763"},
+
+{"name":"OSMANIYE RADYO 80","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194764"},
+
+{"name":"RADYO 08","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194766"},
+
+{"name":"RADYO 13","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194767"},
+
+{"name":"RADYO 81","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194771"},
+
+{"name":"RADYO FLASH AYDIN","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194773"},
+
+{"name":"RADYO IZMIR FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194774"},
+
+{"name":"RADYO ULKU","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194777"},
+
+{"name":"RADYO YUKSEL","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194778"},
+
+{"name":"TEKIRDAG YILDIZ FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194781"},
+
+{"name":"TUNCELI RADYO MUNZUR","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194785"},
+
+{"name":"UMUT FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194787"},
+
+{"name":"ULKU FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194788"},
+
+{"name": "ULKU FM", "url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194788", "logo": "...", "category": "ulusal", "subCategory": "Radyo", "openWith": "vlc"},
+
+{"name": "ULKU FM", "url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194788", "logo": "...", "category": "ulusal", "subCategory": "Radyo", "openWith": "mx"},
+
+{"name": "ULKU FM", "url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194788", "logo": "...", "category": "ulusal", "subCategory": "Radyo", "openWith": "km"},
+
+
+
+
+
+
+
+
+ {"name":"Cgtn","url": "http://sar-kor.karamehmet.workers.dev/?ID=92","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"}
+
+
+
+
+
+
 
 
 
@@ -71,6 +318,49 @@
 
 
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
