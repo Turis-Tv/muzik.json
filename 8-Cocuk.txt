@@ -1,16 +1,25 @@
+
 [
 
 
 {"name": "TRT COCUK","url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8","logo": "...","category":" ","subCategory": "Turis","openWith": "vlc"},
  
-
-
-
-
  {"name": "TRT COCUK","url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8","logo": "...","category":"","subCategory": "Turis","openWith": "vlc"},
 
 
-
+ {"name": "TRT ÇOCUK","url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8","logo": "...","category":"","subCategory": "Turis","openWith": "vlc"},
+ {"name": "Disney Junior","url": "https://proud-river-e20b.pantonum1.workers.dev/discs.m3u8","logo": "...","category":"","subCategory": "Turis","openWith": "vlc"},
+ {"name": "MINIKA ÇOCUK","url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8","logo": "...","category":"","subCategory": "Turis","openWith": "vlc"},
+ {"name": "MINIKA ÇOCUK","url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8","logo": "...","category":"","subCategory": "Turis","openWith": "vlc"},
+ {"name": "MINIKA ÇOCUK","url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_480p.m3u8","logo": "...","category":"","subCategory": "Turis","openWith": "vlc"},
+ {"name": "MINIKA GO","url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8","logo": "...","category":"","subCategory": "Turis","openWith": "vlc"},
+ {"name": "MINIKA GO","url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8","logo": "...","category":"","subCategory": "Turis","openWith": "vlc"},
+ {"name": "TRT DIYANET ÇOCUK","url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8","logo": "...","category":"","subCategory": "Turis","openWith": "vlc"},
+ {"name": "TRT ÇOCUK","url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8","logo": "...","category":"","subCategory": "Turis","openWith": "vlc"},
+ {"name": "TRT ÇOCUK","url": "https://tv-trtcocuk.medya.trt.com.tr/master_1080.m3u8","logo": "...","category":"","subCategory": "Turis","openWith": "vlc"},
+ {"name": "Trace Latina","url": "https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist1080P.m3u8","logo": "...","category":"","subCategory": "Turis","openWith": "vlc"},
+ {"name": "Vizon Cocuk","url": "https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cizgi-film-tv/playlist/0.m3u8","logo": "...","category":"","subCategory": "Turis","openWith": "vlc"},
+ {"name": "FX Cartoon","url": "https://toonixhls.wns.live/hls/stream.m3u8","logo": "...","category":"","subCategory": "Turis","openWith": "vlc"},
 
 
 
