@@ -28,7 +28,7 @@
 
 {"name": "Playboy-","url": "http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
 
-{"name":"🎥Live ","logo":"https://i.imgur.com/jB7c7fM.png","category":"adult","subCategory":"Cam","url":"http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8"},
+{"name":"🎥Turis","logo":"","category":"adult","subCategory":"Cam","url":"http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8"},
 
 
 
