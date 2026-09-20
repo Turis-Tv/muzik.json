@@ -53,7 +53,6 @@
 
 
 
-{"name": "Live 1","url": "http://tv.diablotv.net:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/170011","logo": "https://www.tunota.com/wp-content/uploads/2024/11/principal_isabela-pelaez-onlyfans-donde-ver-fotos-videos-gratis-influencer.jpg","category": "adult","subCategory": "Live 1","openWith": "vlc"},
 
 
 
@@ -61,6 +60,7 @@
  
 {"name": "Live","url": "http://tv.diablotv.net:8080/live/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/164556.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
  
+{"name": "Live 1","url": "http://tv.diablotv.net:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/170011","logo": "https://www.tunota.com/wp-content/uploads/2024/11/principal_isabela-pelaez-onlyfans-donde-ver-fotos-videos-gratis-influencer.jpg","category": "adult","subCategory": "Live 1","openWith": "vlc"},
  
 
 
