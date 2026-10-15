@@ -11,6 +11,8 @@
 {"name": "Cnn Türk ","url": "http://116.202.238.88/CNNTURK_TR/index.m3u8","logo": "...","category": "haber ","subCategory": " ","openWith": "vlc"},
 {"name": "Cnn Türk ","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6210","logo": "...","category": "haber ","subCategory": " ","openWith": "vlc"},
 
+{"name": "turis","url": "https://www.youtube.com/watch?v=6N8_r2uwLEc","logo": "...","category": "haber ","subCategory": " ","openWith": "vlc"},
+
 
 
 {"name": "Trt World", "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49263", "logo": "...", "category": "haber", "subCategory": " ", "openWith": "vlc"},
