@@ -1,5 +1,10 @@
 [
   { "name": "Radyo", "url": "https://radyo-dv5.pages.dev" },
-  { "name": "Haberler", "url": "https://www.trthaber.com" },
+  { "name": "Bein", "url": "https://saraydorf.de/tv/darktv/" },
+
+
+
+  
   { "name": "Hava Durumu", "url": "https://www.mgm.gov.tr" }
+  
 ]
