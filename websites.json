@@ -1,9 +1,9 @@
 [
   { "name": "Radyo", "url": "https://radyo-dv5.pages.dev" },
-  { "name": "Bein", "url": "https://saraydorf.de/tv/darktv/" },
-  { "name": "Bein 1", "url": "https://beinspor.pages.dev/" },
-  
-  { "name": "Youtube", "url": "https://youtube-dw2.pages.dev/" },
+
+  { "name": "Bein", "url": "https://beinspor.pages.dev/" },
+  { "name": "Bein 1", "url": "https://saraydorf.de/tv/darktv/" },
+
   { "name": "Cami Site", "url": "https://camisite2.pages.dev/" },
   { "name": "Tansiyon", "url": "https://tansiyon.pages.dev/" },
   { "name": "Navigation", "url": "https://turisnavi.pages.dev/" },
