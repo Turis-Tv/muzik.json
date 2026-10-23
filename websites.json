@@ -1,10 +1,15 @@
 [
   { "name": "Radyo", "url": "https://radyo-dv5.pages.dev" },
   { "name": "Bein", "url": "https://saraydorf.de/tv/darktv/" },
-
-
+  { "name": "Bein 1", "url": "https://beinspor.pages.dev/" },
+  
+  { "name": "Youtube", "url": "https://youtube-dw2.pages.dev/" },
+  { "name": "Cami Site", "url": "https://camisite2.pages.dev/" },
+  { "name": "Tansiyon", "url": "https://tansiyon.pages.dev/" },
+  { "name": "Navigation", "url": "https://turisnavi.pages.dev/" },
 
   
-  { "name": "Hava Durumu", "url": "https://www.mgm.gov.tr" }
+  
+  { "name": "Muzik", "url": "https://turis-tv.github.io/2026-Menu/3-Mp3/1-Mp3-Playlist/index.html" }
   
 ]
