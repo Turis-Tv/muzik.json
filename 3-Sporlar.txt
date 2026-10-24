@@ -1,13 +1,9 @@
-[
-
-
- 
-   {"name": "Beinsports 1 ","url": "https://cdn.codenet.work/streamgo/stremgo123/4864.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+ {"name": "Beinsports 1 ","url": "https://cdn.codenet.work/streamgo/stremgo123/4864.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
    {"name": "Beinsports 2","url": "https://cdn.codenet.work/streamgo/stremgo123/4865.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
    {"name": "Beinsports 3 ","url": "https://cdn.codenet.work/streamgo/stremgo123/4866.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
    {"name": "Beinsports 4","url": "https://cdn.codenet.work/streamgo/stremgo123/4867.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
    {"name": "Beinsports 5 ","url": "https://cdn.codenet.work/streamgo/stremgo123/4868.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Beinsports Haber","url": "https://cdn.codenet.work/streamgo/stremgo123/4869.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
    {"name": "Beinsports  Max 1","url": "https://cdn.codenet.work/streamgo/stremgo123/4870.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
    {"name": "Beinsports  Max 2 ","url": "https://cdn.codenet.work/streamgo/stremgo123/4871.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
    {"name": "Eurosport 1 ","url": "https://cdn.codenet.work/streamgo/stremgo123/4872.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
@@ -29,51 +25,22 @@
    {"name": "Idman","url": "https://cdn.codenet.work/streamgo/stremgo123/4913.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
    {"name": "Bjk","url": "https://cdn.codenet.work/streamgo/stremgo123/4912.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
    {"name": "Tay Tv","url": "https://cdn.codenet.work/streamgo/stremgo123/4916.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Puluto Tv ","url": "https://cdn.codenet.work/streamgo/stremgo123/4895.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
    {"name": "SportsGrio","url": "https://cdn.codenet.work/streamgo/stremgo123/4896.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Tabii Spor","url": "https://cdn.codenet.work/streamgo/stremgo123/4886.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Tabii Spor 1 ","url": "https://cdn.codenet.work/streamgo/stremgo123/4925.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Tabii Spor 2 ","url": "https://cdn.codenet.work/streamgo/stremgo123/4887.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Tabii Spor 3","url": "https://cdn.codenet.work/streamgo/stremgo123/4888.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Tabii Spor 3 ","url": "https://cdn.codenet.work/streamgo/stremgo123/4889.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Tabii Spor 5","url": "https://cdn.codenet.work/streamgo/stremgo123/4890.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Tabii Spor 6 ","url": "https://cdn.codenet.work/streamgo/stremgo123/4891.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+ 
+ 
    {"name": "Tivivibu spor","url": "https://cdn.codenet.work/streamgo/stremgo123/4892.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Exxen Mac zamani ","url": "https://cdn.codenet.work/streamgo/stremgo123/4897.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Exxen Mac zamani","url": "https://cdn.codenet.work/streamgo/stremgo123/4898.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Exxen Mac zamani","url": "https://cdn.codenet.work/streamgo/stremgo123/4899.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Exxen Mac zamani","url": "https://cdn.codenet.work/streamgo/stremgo123/4900.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Exxen Mac zamani","url": "https://cdn.codenet.work/streamgo/stremgo123/4901.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Exxen Mac zamani","url": "https://cdn.codenet.work/streamgo/stremgo123/4902.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Exxen Mac zamani","url": "https://cdn.codenet.work/streamgo/stremgo123/4903.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "beinsports 1","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs1.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "beinsports 2","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs2.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "beinsports 3","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs3.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "beinsports 4","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs4.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "beinsports 5","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs5.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "beinsports max 1","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebsm1.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "beinsports max 2","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebsm2.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "beinsportshaber","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebsh.m3u8 ","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Ssport 1","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivess1.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Ssport 2","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivess2.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Smartspor 1","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivesm1.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Smartspor 2","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivesm2.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Tivibuspor ","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivets.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Tivibuspor 1","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivets1.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Tivibuspor 2","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivets2.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Tivibuspor 3","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivets3.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Tivibuspor 4","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivets4.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Trt1","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivetrt1.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Trtspor","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivetrts.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Trtsporyildiz","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivetrtsy.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Tv8","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivetv8.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Tv8,5","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivetv85.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Atv","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamliveatv.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Aspor","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamliveas.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Ht","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamliveht.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Nba","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivenba.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Fb","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivefb.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Gs","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivegs.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
    {"name": "Eurosport 1","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivees1.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
    {"name": "Eurosport 2","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivees2.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
    {"name": "tabii","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivetb.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
@@ -85,14 +52,9 @@
    {"name": "Tabii 6","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivetb6.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
    {"name": "Tabii 7","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivetb7.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
    {"name": "Tabii 8","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivetb8.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Exxen 1","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamliveexn1.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Exxen 2","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamliveexn2.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Exxen 3","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamliveexn3.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Exxen 4","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamliveexn4.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Exxen 5","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamliveexn5.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Exxen 6","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamliveexn6.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Exxen 7","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamliveexn7.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
-   {"name": "Exxen 8","url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamliveexn8.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+ 
+ 
 
  
 
@@ -186,7 +148,6 @@
 
   
  
-          {"name": "TRT SPOR","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6109","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
 
  
  
@@ -217,30 +178,5 @@
 
 
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
