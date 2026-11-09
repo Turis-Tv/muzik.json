@@ -1,32 +1,14 @@
 [
 
-
-
-
-
 {"name": "Turis","url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49172","logo": "...","category":"ulusal","subCategory": "TV","openWith": "wuffy"},
-
-
-
-
-
 
 {"name": "Trt 1", "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 {"name": "Trt 1", "url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/358053", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 {"name": "Trt 1", "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 
-
-
-
-
 {"name": "Tabii 1", "url": "https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
   
- 
- 
-
-
 {"name": "Atv", "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
-
 
 {"name": "Show Tv", "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8", "logo": "...", "category": "ulusal", "subCategory": "TV", "openWith": "vlc"},
 
