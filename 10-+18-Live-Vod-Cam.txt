@@ -1,5 +1,9 @@
 [
 
+
+
+
+{"name": "Vostok Tv","url": "http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"},
 {"name": "ОХ-АХ HD","url": "https://s.oxax.tv/MtYhdBPy3G-uwMyNI3e8VQ/1/1794382536/index.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
 {"name": "SuperOne HD","url": "https://s.oxax.tv/cURl9vxBxVUIrHXK4Eh1Xg/45/1794382597/index.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
 {"name": "CineMan XXX","url": "https://s.oxax.tv/ouGyhximmpTzd-voLbPh0A/59/1794382651/index.m3u8","logo": "...","category": "adult","subCategory": "Live","openWith": "vlc"}, 
