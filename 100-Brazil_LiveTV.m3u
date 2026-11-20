@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1,AZTECA UNO OP2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
+ 
 #EXTINF:-1,Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1,MULTIMEDIOS MONTERREY
