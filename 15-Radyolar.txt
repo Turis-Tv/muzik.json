@@ -1,5 +1,8 @@
     [
 
+
+
+ { name: "Cnn", url: http://85.117.61.84/cnnturk/index.m3u8" },
  { name: "Arabesk", url: "https://canli.arabeskinmerkezi.com/9180/stream" },
  { name: "Baba", url: "https://ssldyg.radyotvonline.com/best/babaradyo.stream/playlist.m3u8" },
  { name: "Best Kina", url: "https://hepsibest.radyotvonline.net/bestkina" },
