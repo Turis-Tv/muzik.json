@@ -1,4 +1,7 @@
- {"name": "Beinsports 1 ","url": "https://cdn.codenet.work/streamgo/stremgo123/4864.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+
+
+   {"name": "Cnn Türk ","url": "http://85.117.61.84/cnnturk/index.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
+   {"name": "Beinsports 1 ","url": "https://cdn.codenet.work/streamgo/stremgo123/4864.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
    {"name": "Beinsports 2","url": "https://cdn.codenet.work/streamgo/stremgo123/4865.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
    {"name": "Beinsports 3 ","url": "https://cdn.codenet.work/streamgo/stremgo123/4866.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
    {"name": "Beinsports 4","url": "https://cdn.codenet.work/streamgo/stremgo123/4867.m3u8","logo": "...","category": "spor","subCategory": "Canlı","openWith": "vlc"},
